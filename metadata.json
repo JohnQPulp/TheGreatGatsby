@@ -1,0 +1,16 @@
+{
+  "title": "The Great Gatsby",
+  "shortTitle": "The Great Gatsby",
+  "author": "F. Scott Fitzgerald",
+  "year": 1925,
+  "source": "https://standardebooks.org/ebooks/f-scott-fitzgerald/the-great-gatsby",
+  "words": 1,
+  "pulpDate": null,
+  "repo": "https://github.com/JohnQPulp/TheGreatGatsby",
+  "links": {
+    "Goodreads": "https://www.goodreads.com/book/show/41733839-the-great-gatsby",
+    "Wikipedia": "https://en.wikipedia.org/wiki/The_Great_Gatsby"
+  },
+  "blurb": "foo",
+  "blurb2": ""
+}
