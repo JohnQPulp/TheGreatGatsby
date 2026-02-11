@@ -1,13 +1,8 @@
-Once again  
-to  
-Zelda
+*The Great Gatsby* by F. Scott Fitzgerald
 
-> Then wear the gold hat, if that will move her;  
-> If you can bounce high, bounce for her too,  
-> Till she cry “Lover, gold-hatted, high-bouncing lover,  
-> I must have you!”
->
-> Thomas Parke d’Invilliers
+Once again to Zelda
+
+Then wear the gold hat, if that will move her;<br>If you can bounce high, bounce for her too,<br>Till she cry “Lover, gold-hatted, high-bouncing lover,<br>I must have you!”<br>Thomas Parke d’Invilliers
 
 ## I
 
@@ -19,7 +14,7 @@ He didn’t say any more, but we’ve always been unusually communicative in a r
 
 And, after boasting this way of my tolerance, I come to the admission that it has a limit. Conduct may be founded on the hard rock or the wet marshes, but after a certain point I don’t care what it’s founded on. When I came back from the East last autumn I felt that I wanted the world to be in uniform and at a sort of moral attention forever; I wanted no more riotous excursions with privileged glimpses into the human heart. Only Gatsby, the man who gives his name to this book, was exempt from my reaction﻿—Gatsby, who represented everything for which I have an unaffected scorn. If personality is an unbroken series of successful gestures, then there was something gorgeous about him, some heightened sensitivity to the promises of life, as if he were related to one of those intricate machines that register earthquakes ten thousand miles away. This responsiveness had nothing to do with that flabby impressionability which is dignified under the name of the “creative temperament”﻿—it was an extraordinary gift for hope, a romantic readiness such as I have never found in any other person and which it is not likely I shall ever find again. No﻿—Gatsby turned out all right at the end; it is what preyed on Gatsby, what foul dust floated in the wake of his dreams that temporarily closed out my interest in the abortive sorrows and short-winded elations of men.
 
-------------------------------------------------------------------------
+—
 
 My family have been prominent, well-to-do people in this Middle Western city for three generations. The Carraways are something of a clan, and we have a tradition that we’re descended from the Dukes of Buccleuch, but the actual founder of my line was my grandfather’s brother, who came here in fifty-one, sent a substitute to the Civil War, and started the wholesale hardware business that my father carries on today.
 
@@ -253,7 +248,7 @@ Evidently she had reason to be. I waited but she didn’t say any more, and afte
 
 The instant her voice broke off, ceasing to compel my attention, my belief, I felt the basic insincerity of what she had said. It made me uneasy, as though the whole evening had been a trick of some sort to exact a contributory emotion from me. I waited, and sure enough, in a moment she looked at me with an absolute smirk on her lovely face, as if she had asserted her membership in a rather distinguished secret society to which she and Tom belonged.
 
-------------------------------------------------------------------------
+—
 
 Inside, the crimson room bloomed with light. Tom and Miss Baker sat at either end of the long couch and she read aloud to him from the *Saturday Evening Post*﻿—the words, murmurous and uninflected, running together in a soothing tune. The lamplight, bright on his boots and dull on the autumn-leaf yellow of her hair, glinted along the paper as she turned a page with a flutter of slender muscles in her arms.
 
@@ -903,7 +898,7 @@ He hesitated.
 
 The caterwauling horns had reached a crescendo and I turned away and cut across the lawn toward home. I glanced back once. A wafer of a moon was shining over Gatsby’s house, making the night fine as before, and surviving the laughter and the sound of his still glowing garden. A sudden emptiness seemed to flow now from the windows and the great doors, endowing with complete isolation the figure of the host, who stood on the porch, his hand up in a formal gesture of farewell.
 
-------------------------------------------------------------------------
+—
 
 Reading over what I have written so far, I see I have given the impression that the events of three nights several weeks apart were all that absorbed me. On the contrary, they were merely casual events in a crowded summer, and, until much later, they absorbed me infinitely less than my personal affairs.
 
@@ -963,7 +958,7 @@ In addition to all these I can remember that Faustina O’Brien came there at le
 
 All these people came to Gatsby’s house in the summer.
 
-------------------------------------------------------------------------
+—
 
 At nine o’clock, one morning late in July, Gatsby’s gorgeous car lurched up the rocky drive to my door and gave out a burst of melody from its three-noted horn.
 
@@ -1061,7 +1056,7 @@ A dead man passed us in a hearse heaped with blooms, followed by two carriages w
 
 Even Gatsby could happen, without any particular wonder.
 
-------------------------------------------------------------------------
+—
 
 Roaring noon. In a well-fanned Forty-second Street cellar I met Gatsby for lunch. Blinking away the brightness of the street outside, my eyes picked him out obscurely in the anteroom, talking to another man.
 
@@ -1203,7 +1198,7 @@ They shook hands briefly, and a strained, unfamiliar look of embarrassment came 
 
 I turned toward Mr. Gatsby, but he was no longer there.
 
-------------------------------------------------------------------------
+—
 
 One October day in nineteen-seventeen﻿—
 
@@ -1243,14 +1238,11 @@ The next April Daisy had her little girl, and they went to France for a year. I 
 
 Well, about six weeks ago, she heard the name Gatsby for the first time in years. It was when I asked you﻿—do you remember?﻿—if you knew Gatsby in West Egg. After you had gone home she came into my room and woke me up, and said: “What Gatsby?” and when I described him﻿—I was half asleep﻿—she said in the strangest voice that it must be the man she used to know. It wasn’t until then that I connected this Gatsby with the officer in her white car.
 
-------------------------------------------------------------------------
+—
 
 When Jordan Baker had finished telling all this we had left the Plaza for half an hour and were driving in a victoria through Central Park. The sun had gone down behind the tall apartments of the movie stars in the West Fifties, and the clear voices of children, already gathered like crickets on the grass, rose through the hot twilight:
 
-> “I’m the Sheik of Araby.  
-> Your love belongs to me.  
-> At night when you’re asleep  
-> Into your tent I’ll creep﻿—”
+“I’m the Sheik of Araby. Your love belongs to me. At night when you’re asleep Into your tent I’ll creep﻿—”
 
 “It was a strange coincidence,” I said.
 
@@ -1532,7 +1524,7 @@ He took out a pile of shirts and began throwing them, one by one, before us, shi
 
 “They’re such beautiful shirts,” she sobbed, her voice muffled in the thick folds. “It makes me sad because I’ve never seen such﻿—such beautiful shirts before.”
 
-------------------------------------------------------------------------
+—
 
 After the house, we were to see the grounds and the swimming pool, and the hydroplane, and the midsummer flowers﻿—but outside Gatsby’s window it began to rain again, so we stood in a row looking at the corrugated surface of the Sound.
 
@@ -1592,16 +1584,11 @@ When Klipspringer had played “The Love Nest” he turned around on the bench a
 
 “Don’t talk so much, old sport,” commanded Gatsby. “Play!”
 
-> “In the morning,  
-> In the evening,  
-> Ain’t we got fun﻿—”
+“In the morning, In the evening, Ain’t we got fun﻿—”
 
 Outside the wind was loud and there was a faint flow of thunder along the Sound. All the lights were going on in West Egg now; the electric trains, men-carrying, were plunging home through the rain from New York. It was the hour of a profound human change, and excitement was generating on the air.
 
-> “One thing’s sure and nothing’s surer  
-> The rich get richer and the poor get﻿—children.  
-> In the meantime,  
-> In between time﻿—”
+“One thing’s sure and nothing’s surer The rich get richer and the poor get﻿—children. In the meantime, In between time﻿—”
 
 As I went over to say goodbye I saw that the expression of bewilderment had come back into Gatsby’s face, as though a faint doubt had occurred to him as to the quality of his present happiness. Almost five years! There must have been moments even that afternoon when Daisy tumbled short of his dreams﻿—not through her own fault, but because of the colossal vitality of his illusion. It had gone beyond her, beyond everything. He had thrown himself into it with a creative passion, adding to it all the time, decking it out with every bright feather that drifted his way. No amount of fire or freshness can challenge what a man can store up in his ghostly heart.
 
@@ -1641,7 +1628,7 @@ I remember the portrait of him up in Gatsby’s bedroom, a grey, florid man with
 
 And it was from Cody that he inherited money﻿—a legacy of twenty-five thousand dollars. He didn’t get it. He never understood the legal device that was used against him, but what remained of the millions went intact to Ella Kaye. He was left with his singularly appropriate education; the vague contour of Jay Gatsby had filled out to the substantiality of a man.
 
-------------------------------------------------------------------------
+—
 
 He told me all this very much later, but I’ve put it down here with the idea of exploding those first wild rumours about his antecedents, which weren’t even faintly true. Moreover he told it to me at a time of confusion, when I had reached the point of believing everything and nothing about him. So I take advantage of this short halt, while Gatsby, so to speak, caught his breath, to clear this set of misconceptions away.
 
@@ -2209,7 +2196,7 @@ That locality was always vaguely disquieting, even in the broad glare of afterno
 
 In one of the windows over the garage the curtains had been moved aside a little, and Myrtle Wilson was peering down at the car. So engrossed was she that she had no consciousness of being observed, and one emotion after another crept into her face like objects into a slowly developing picture. Her expression was curiously familiar﻿—it was an expression I had often seen on women’s faces, but on Myrtle Wilson’s face it seemed purposeless and inexplicable until I realized that her eyes, wide with jealous terror, were fixed not on Tom, but on Jordan Baker, whom she took to be his wife.
 
-------------------------------------------------------------------------
+—
 
 There is no confusion like the confusion of a simple mind, and as we drove away Tom was feeling the hot whips of panic. His wife and his mistress, until an hour ago secure and inviolate, were slipping precipitately from his control. Instinct made him step on the accelerator with the double purpose of overtaking Daisy and leaving Wilson behind, and we sped along toward Astoria at fifty miles an hour, until, among the spidery girders of the elevated, we came in sight of the easygoing blue coupé.
 
@@ -2503,7 +2490,7 @@ It was seven o’clock when we got into the coupé with him and started for Long
 
 So we drove on toward death through the cooling twilight.
 
-------------------------------------------------------------------------
+—
 
 The young Greek, Michaelis, who ran the coffee joint beside the ash-heaps was the principal witness at the inquest. He had slept through the heat until after five, when he strolled over to the garage, and found George Wilson sick in his office﻿—really sick, pale as his own pale hair and shaking all over. Michaelis advised him to go to bed, but Wilson refused, saying that he’d miss a lot of business if he did. While his neighbour was trying to persuade him a violent racket broke out overhead.
 
@@ -2521,7 +2508,7 @@ The “death car” as the newspapers called it, didn’t stop; it came out of t
 
 Michaelis and this man reached her first, but when they had torn open her shirtwaist, still damp with perspiration, they saw that her left breast was swinging loose like a flap, and there was no need to listen for the heart beneath. The mouth was wide open and ripped a little at the corners, as though she had choked a little in giving up the tremendous vitality she had stored so long.
 
-------------------------------------------------------------------------
+—
 
 We saw the three or four automobiles and the crowd when we were still some distance away.
 
@@ -2625,7 +2612,7 @@ Tom drove slowly until we were beyond the bend﻿—then his foot came down hard
 
 “The God damned coward!” he whimpered. “He didn’t even stop his car.”
 
-------------------------------------------------------------------------
+—
 
 The Buchanans’ house floated suddenly toward us through the dark rustling trees. Tom stopped beside the porch and looked up at the second floor, where two windows bloomed with light among the vines.
 
@@ -2753,13 +2740,13 @@ But he didn’t despise himself and it didn’t turn out as he had imagined. He 
 
 When they met again, two days later, it was Gatsby who was breathless, who was, somehow, betrayed. Her porch was bright with the bought luxury of star-shine; the wicker of the settee squeaked fashionably as she turned toward him and he kissed her curious and lovely mouth. She had caught a cold, and it made her voice huskier and more charming than ever, and Gatsby was overwhelmingly aware of the youth and mystery that wealth imprisons and preserves, of the freshness of many clothes, and of Daisy, gleaming like silver, safe and proud above the hot struggles of the poor.
 
-------------------------------------------------------------------------
+—
 
 “I can’t describe to you how surprised I was to find out I loved her, old sport. I even hoped for a while that she’d throw me over, but she didn’t, because she was in love with me too. She thought I knew a lot because I knew different things from her﻿ ﻿… Well, there I was, way off my ambitions, getting deeper in love every minute, and all of a sudden I didn’t care. What was the use of doing great things if I could have a better time telling her what I was going to do?”
 
 On the last afternoon before he went abroad, he sat with Daisy in his arms for a long, silent time. It was a cold fall day, with fire in the room and her cheeks flushed. Now and then she moved and he changed his arm a little, and once he kissed her dark shining hair. The afternoon had made them tranquil for a while, as if to give them a deep memory for the long parting the next day promised. They had never been closer in their month of love, nor communicated more profoundly one with another, than when she brushed silent lips against his coat’s shoulder or when he touched the end of her fingers, gently, as though she were asleep.
 
-------------------------------------------------------------------------
+—
 
 He did extraordinarily well in the war. He was a captain before he went to the front, and following the Argonne battles he got his majority and the command of the divisional machine-guns. After the armistice he tried frantically to get home, but some complication or misunderstanding sent him to Oxford instead. He was worried now﻿—there was a quality of nervous despair in Daisy’s letters. She didn’t see why he couldn’t come. She was feeling the pressure of the world outside, and she wanted to see him and feel his presence beside her and be reassured that she was doing the right thing after all.
 
@@ -2769,7 +2756,7 @@ Through this twilight universe Daisy began to move again with the season; sudden
 
 That force took shape in the middle of spring with the arrival of Tom Buchanan. There was a wholesome bulkiness about his person and his position, and Daisy was flattered. Doubtless there was a certain struggle and a certain relief. The letter reached Gatsby while he was still at Oxford.
 
-------------------------------------------------------------------------
+—
 
 It was dawn now on Long Island and we went about opening the rest of the windows downstairs, filling the house with grey-turning, gold-turning light. The shadow of a tree fell abruptly across the dew and ghostly birds began to sing among the blue leaves. There was a slow, pleasant movement in the air, scarcely a wind, promising a cool, lovely day.
 
@@ -2827,7 +2814,7 @@ I thanked him for his hospitality. We were always thanking him for that﻿—I a
 
 “Goodbye,” I called. “I enjoyed breakfast, Gatsby.”
 
-------------------------------------------------------------------------
+—
 
 Up in the city, I tried for a while to list the quotations on an interminable amount of stock, then I fell asleep in my swivel-chair. Just before noon the phone woke me, and I started up with sweat breaking out on my forehead. It was Jordan Baker; she often called me up at this hour because the uncertainty of her own movements between hotels and clubs and private houses made her hard to find in any other way. Usually her voice came over the wire as something fresh and cool, as if a divot from a green golf-links had come sailing in at the office window, but this morning it seemed harsh and dry.
 
@@ -2857,7 +2844,7 @@ We talked like that for a while, and then abruptly we weren’t talking any long
 
 I called Gatsby’s house a few minutes later, but the line was busy. I tried four times; finally an exasperated central told me the wire was being kept open for long distance from Detroit. Taking out my timetable, I drew a small circle around the three-fifty train. Then I leaned back in my chair and tried to think. It was just noon.
 
-------------------------------------------------------------------------
+—
 
 When I passed the ash-heaps on the train that morning I had crossed deliberately to the other side of the car. I supposed there’d be a curious crowd around there all day with little boys searching for dark spots in the dust, and some garrulous man telling over and over what had happened, until it became less and less real even to him and he could tell it no longer, and Myrtle Wilson’s tragic achievement was forgotten. Now I want to go back a little and tell what happened at the garage after we left there the night before.
 
@@ -2945,13 +2932,13 @@ Standing behind him, Michaelis saw with a shock that he was looking at the eyes 
 
 “That’s an advertisement,” Michaelis assured him. Something made him turn away from the window and look back into the room. But Wilson stood there a long time, his face close to the window pane, nodding into the twilight.
 
-------------------------------------------------------------------------
+—
 
 By six o’clock Michaelis was worn out, and grateful for the sound of a car stopping outside. It was one of the watchers of the night before who had promised to come back, so he cooked breakfast for three, which he and the other man ate together. Wilson was quieter now, and Michaelis went home to sleep; when he awoke four hours later and hurried back to the garage, Wilson was gone.
 
 His movements﻿—he was on foot all the time﻿—were afterward traced to Port Roosevelt and then to Gad’s Hill, where he bought a sandwich that he didn’t eat, and a cup of coffee. He must have been tired and walking slowly, for he didn’t reach Gad’s Hill until noon. Thus far there was no difficulty in accounting for his time﻿—there were boys who had seen a man “acting sort of crazy,” and motorists at whom he stared oddly from the side of the road. Then for three hours he disappeared from view. The police, on the strength of what he said to Michaelis, that he “had a way of finding out,” supposed that he spent that time going from garage to garage thereabout, inquiring for a yellow car. On the other hand, no garage man who had seen him ever came forward, and perhaps he had an easier, surer way of finding out what he wanted to know. By half-past two he was in West Egg, where he asked someone the way to Gatsby’s house. So by that time he knew Gatsby’s name.
 
-------------------------------------------------------------------------
+—
 
 At two o’clock Gatsby put on his bathing-suit and left word with the butler that if anyone phoned word was to be brought to him at the pool. He stopped at the garage for a pneumatic mattress that had amused his guests during the summer, and the chauffeur helped him to pump it up. Then he gave instructions that the open car wasn’t to be taken out under any circumstances﻿—and this was strange, because the front right fender needed repair.
 
@@ -3007,19 +2994,15 @@ Someone started to ask me questions, but I broke away and going upstairs looked 
 
 Next morning I sent the butler to New York with a letter to Wolfshiem, which asked for information and urged him to come out on the next train. That request seemed superfluous when I wrote it. I was sure he’d start when he saw the newspapers, just as I was sure there’d be a wire from Daisy before noon﻿—but neither a wire nor Mr. Wolfshiem arrived; no one arrived except more police and photographers and newspaper men. When the butler brought back Wolfshiem’s answer I began to have a feeling of defiance, of scornful solidarity between Gatsby and me against them all.
 
-> Dear Mr. Carraway. This has been one of the most terrible shocks of my life to me I hardly can believe it that it is true at all. Such a mad act as that man did should make us all think. I cannot come down now as I am tied up in some very important business and cannot get mixed up in this thing now. If there is anything I can do a little later let me know in a letter by Edgar. I hardly know where I am when I hear about a thing like this and am completely knocked down and out.
->
-> <footer role="presentation">
->
-> Yours truly
->
-> Meyer Wolfshiem
->
-> </footer>
+Dear Mr. Carraway. This has been one of the most terrible shocks of my life to me I hardly can believe it that it is true at all. Such a mad act as that man did should make us all think. I cannot come down now as I am tied up in some very important business and cannot get mixed up in this thing now. If there is anything I can do a little later let me know in a letter by Edgar. I hardly know where I am when I hear about a thing like this and am completely knocked down and out.
+
+Yours truly
+
+Meyer Wolfshiem
 
 and then hasty addenda beneath:
 
-> Let me know about the funeral etc do not know his family at all.
+Let me know about the funeral etc do not know his family at all.
 
 When the phone rang that afternoon and Long Distance said Chicago was calling I thought this would be Daisy at last. But the connection came through as a man’s voice, very thin and far away.
 
@@ -3037,7 +3020,7 @@ When the phone rang that afternoon and Long Distance said Chicago was calling I 
 
 There was a long silence on the other end of the wire, followed by an exclamation﻿ ﻿… then a quick squawk as the connection was broken.
 
-------------------------------------------------------------------------
+—
 
 I think it was on the third day that a telegram signed Henry C. Gatz arrived from a town in Minnesota. It said only that the sender was leaving immediately and to postpone the funeral until he came.
 
@@ -3205,7 +3188,7 @@ He opened it at the back cover and turned it around for me to see. On the last f
 
 > General Resolves
 >
-> - No wasting time at Shafters or \[a name, indecipherable\]
+> - No wasting time at Shafters or [a name, indecipherable]
 >
 > - No more smokeing or chewing.
 >
@@ -3213,7 +3196,7 @@ He opened it at the back cover and turned it around for me to see. On the last f
 >
 > - Read one improving book or magazine per week
 >
-> - Save \$5.00 \[crossed out\] \$3.00 per week
+> - Save $5.00 [crossed out] $3.00 per week
 >
 > - Be better to parents
 
@@ -3227,7 +3210,7 @@ He was reluctant to close the book, reading each item aloud and then looking eag
 
 A little before three the Lutheran minister arrived from Flushing, and I began to look involuntarily out the windows for other cars. So did Gatsby’s father. And as the time passed and the servants came in and stood waiting in the hall, his eyes began to blink anxiously, and he spoke of the rain in a worried, uncertain way. The minister glanced several times at his watch, so I took him aside and asked him to wait for half an hour. But it wasn’t any use. Nobody came.
 
-------------------------------------------------------------------------
+—
 
 About five o’clock our procession of three cars reached the cemetery and stopped in a thick drizzle beside the gate﻿—first a motor hearse, horribly black and wet, then Mr. Gatz and the minister and me in the limousine, and a little later four or five servants and the postman from West Egg, in Gatsby’s station wagon, all wet to the skin. As we started through the gate into the cemetery I heard a car stop and then the sound of someone splashing after us over the soggy ground. I looked around. It was the man with owl-eyed glasses whom I had found marvelling over Gatsby’s books in the library one night three months before.
 
@@ -3247,7 +3230,7 @@ He took off his glasses and wiped them again, outside and in.
 
 “The poor son-of-a-bitch,” he said.
 
-------------------------------------------------------------------------
+—
 
 One of my most vivid memories is of coming back West from prep school and later from college at Christmas time. Those who went farther than Chicago would gather in the old dim Union Station at six o’clock of a December evening, with a few Chicago friends, already caught up into their own holiday gaieties, to bid them a hasty goodbye. I remember the fur coats of the girls returning from Miss This-or-That’s and the chatter of frozen breath and the hands waving overhead as we caught sight of old acquaintances, and the matchings of invitations: “Are you going to the Ordways’? the Herseys’? the Schultzes’?” and the long green tickets clasped tight in our gloved hands. And last the murky yellow cars of the Chicago, Milwaukee and St. Paul railroad looking cheerful as Christmas itself on the tracks beside the gate.
 
@@ -3277,7 +3260,7 @@ We shook hands.
 
 She didn’t answer. Angry, and half in love with her, and tremendously sorry, I turned away.
 
-------------------------------------------------------------------------
+—
 
 One afternoon late in October I saw Tom Buchanan. He was walking ahead of me along Fifth Avenue in his alert, aggressive way, his hands out a little from his body as if to fight off interference, his head moving sharply here and there, adapting itself to his restless eyes. Just as I slowed up to avoid overtaking him he stopped and began frowning into the windows of a jewellery store. Suddenly he saw me and walked back, holding out his hand.
 
@@ -3301,7 +3284,7 @@ I couldn’t forgive him or like him, but I saw that what he had done was, to hi
 
 I shook hands with him; it seemed silly not to, for I felt suddenly as though I were talking to a child. Then he went into the jewellery store to buy a pearl necklace﻿—or perhaps only a pair of cuff buttons﻿—rid of my provincial squeamishness forever.
 
-------------------------------------------------------------------------
+—
 
 Gatsby’s house was still empty when I left﻿—the grass on his lawn had grown as long as mine. One of the taxi drivers in the village never took a fare past the entrance gate without stopping for a minute and pointing inside; perhaps it was he who drove Daisy and Gatsby over to East Egg the night of the accident, and perhaps he had made a story about it all his own. I didn’t want to hear it and I avoided him when I got off the train.
 
