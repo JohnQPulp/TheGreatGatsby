@@ -1,14 +1,14 @@
 *The Great Gatsby* by F. Scott Fitzgerald
-
+r=title;t=author
 
 Once again to Zelda
-
+t=
 
 Then wear the gold hat, if that will move her;<br>If you can bounce high, bounce for her too,<br>Till she cry “Lover, gold-hatted, high-bouncing lover,<br>I must have you!”<br>Thomas Parke d’Invilliers
 
 
 ## I
-
+r=title
 
 In my younger and more vulnerable years my father gave me some advice that I’ve been turning over in my mind ever since.
 n:nick=Carraway;e:nick=thinking
@@ -863,7 +863,7 @@ When I looked once more for Gatsby he had vanished, and I was alone again in the
 e:nick=neutral
 
 ## II
-
+r=title
 
 About halfway between West Egg and New York the motor road hastily joins the railroad and runs beside it for a quarter of a mile, so as to shrink away from a certain desolate area of land.
 
@@ -1544,7 +1544,7 @@ Then I was lying half asleep in the cold lower level of the Pennsylvania Station
 s=none;e:nick=weary
 
 ## III
-
+r=title
 
 There was music from my neighbour’s house through the summer nights.
 
@@ -2429,7 +2429,7 @@ Everyone suspects himself of at least one of the cardinal virtues, and this is m
 e:nick=neutral
 
 ## IV
-
+r=title
 
 On Sunday morning while church bells rang in the villages alongshore, the world and its mistress returned to Gatsby’s house and twinkled hilariously on his lawn.
 
@@ -3320,7 +3320,7 @@ Her wan, scornful mouth smiled, and so I drew her up again closer, this time to 
 e:jordan=happy
 
 ## V
-
+r=title
 
 When I came home to West Egg that night I was afraid for a moment that my house was on fire.
 e:nick=nervous
@@ -4073,7 +4073,7 @@ Then I went out of the room and down the marble steps into the rain, leaving the
 
 
 ## VI
-
+r=title
 
 About this time an ambitious young reporter from New York arrived one morning at Gatsby’s door and asked him if he had anything to say.
 n:reporter=Reporter
@@ -4775,7 +4775,7 @@ But they made no sound, and what I had almost remembered was uncommunicable fore
 
 
 ## VII
-
+r=title
 
 It was when curiosity about Gatsby was at its highest that the lights in his house failed to go on one Saturday night—and, as obscurely as it had begun, his career as Trimalchio was over.
 
@@ -6509,7 +6509,7 @@ So I walked away and left him standing there in the moonlight—watching over no
 e:nick=weary
 
 ## VIII
-
+r=title
 
 I couldn’t sleep all night; a foghorn was groaning incessantly on the Sound, and I tossed half-sick between grotesque reality and savage, frightening dreams.
 e:nick=weary
@@ -7298,7 +7298,7 @@ It was after we started with Gatsby toward the house that the gardener saw Wilso
 e:nick=upset
 
 ## IX
-
+r=title
 
 After two years I remember the rest of that day, and that night and the next day, only as an endless drill of police and photographers and newspaper men in and out of Gatsby’s front door.
 e:nick=weary
