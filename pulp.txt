@@ -25,10 +25,7 @@ In consequence, I’m inclined to reserve all judgements, a habit that has opene
 The abnormal mind is quick to detect and attach itself to this quality when it appears in a normal person, and so it came about that in college I was unjustly accused of being a politician, because I was privy to the secret griefs of wild, unknown men.
 
 
-Most of the confidences were unsought—frequently I have feigned sleep, preoccupation, or a hostile levity when I realized by some unmistakable sign that an intimate revelation was quivering on the horizon;
-
-
-for the intimate revelations of young men, or at least the terms in which they express them, are usually plagiaristic and marred by obvious suppressions.
+Most of the confidences were unsought—frequently I have feigned sleep, preoccupation, or a hostile levity when I realized by some unmistakable sign that an intimate revelation was quivering on the horizon; for the intimate revelations of young men, or at least the terms in which they express them, are usually plagiaristic and marred by obvious suppressions.
 
 
 Reserving judgements is a matter of infinite hope.
@@ -43,10 +40,7 @@ And, after boasting this way of my tolerance, I come to the admission that it ha
 Conduct may be founded on the hard rock or the wet marshes, but after a certain point I don’t care what it’s founded on.
 e:nick=serious
 
-When I came back from the East last autumn I felt that I wanted the world to be in uniform and at a sort of moral attention forever;
-
-
-I wanted no more riotous excursions with privileged glimpses into the human heart.
+When I came back from the East last autumn I felt that I wanted the world to be in uniform and at a sort of moral attention forever; I wanted no more riotous excursions with privileged glimpses into the human heart.
 e:nick=weary
 
 Only Gatsby, the man who gives his name to this book, was exempt from my reaction—Gatsby, who represented everything for which I have an unaffected scorn.
@@ -409,11 +403,8 @@ s=jordan
 “Gatsby?” demanded Daisy. “What Gatsby?”
 s=daisy;e:daisy=surprised
 
-Before I could reply that he was my neighbour dinner was announced;
+Before I could reply that he was my neighbour dinner was announced; wedging his tense arm imperatively under mine, Tom Buchanan compelled me from the room as though he were moving a checker to another square.
 s=none
-
-wedging his tense arm imperatively under mine, Tom Buchanan compelled me from the room as though he were moving a checker to another square.
-
 
 Slenderly, languidly, their hands set lightly on their hips, the two young women preceded us out on to a rosy-coloured porch, open toward the sunset, where four candles flickered on the table in the diminished wind.
 
@@ -538,11 +529,8 @@ s=jordan;e:jordan=smirking
 “Yes. Things went from bad to worse, until finally he had to give up his position.”
 s=daisy;e:daisy=happy
 
-For a moment the last sunshine fell with romantic affection upon her glowing face;
-s=none
-
-her voice compelled me forward breathlessly as I listened—then the glow faded, each light deserting her with lingering regret, like children leaving a pleasant street at dusk.
-e:daisy=neutral
+For a moment the last sunshine fell with romantic affection upon her glowing face; her voice compelled me forward breathlessly as I listened—then the glow faded, each light deserting her with lingering regret, like children leaving a pleasant street at dusk.
+s=none;e:daisy=neutral
 
 The butler came back and murmured something close to Tom’s ear, whereupon Tom frowned, pushed back his chair, and without a word went inside.
 e:tom=annoyed
@@ -1171,17 +1159,11 @@ e:myrtle=happy
 Meanwhile Tom brought out a bottle of whisky from a locked bureau door.
 e:tom=neutral
 
-I have been drunk just twice in my life, and the second time was that afternoon;
+I have been drunk just twice in my life, and the second time was that afternoon; so everything that happened has a dim, hazy cast over it, although until after eight o’clock the apartment was full of cheerful sun.
 e:nick=weary
 
-so everything that happened has a dim, hazy cast over it, although until after eight o’clock the apartment was full of cheerful sun.
-
-
-Sitting on Tom’s lap Mrs. Wilson called up several people on the telephone;
+Sitting on Tom’s lap Mrs. Wilson called up several people on the telephone; then there were no cigarettes, and I went out to buy some at the drugstore on the corner.
 e:myrtle=excited
-
-then there were no cigarettes, and I went out to buy some at the drugstore on the corner.
-
 
 When I came back they had both disappeared, so I sat down discreetly in the living-room and read a chapter of *Simon Called Peter*—either it was terrible stuff or the whisky distorted things, because it didn’t make any sense to me.
 e:nick=confused
@@ -1750,11 +1732,8 @@ s=none;e:nick=nervous
 The three Mr. Mumbles bent forward and listened eagerly.
 
 
-“I don’t think it’s so much *that*,” argued Lucille sceptically;
+“I don’t think it’s so much *that*,” argued Lucille sceptically; “It’s more that he was a German spy during the war.”
 s=lucille;e:lucille=thinking
-
-“It’s more that he was a German spy during the war.”
-
 
 One of the men nodded in confirmation.
 s=none
@@ -3763,11 +3742,8 @@ e:gatsby=happy;e:daisy=happy
 Daisy’s face was smeared with tears, and when I came in she jumped up and began wiping at it with her handkerchief before a mirror.
 e:daisy=crying
 
-But there was a change in Gatsby that was simply confounding. He literally glowed;
+But there was a change in Gatsby that was simply confounding. He literally glowed; without a word or a gesture of exultation a new well-being radiated from him and filled the little room.
 e:gatsby=excited
-
-without a word or a gesture of exultation a new well-being radiated from him and filled the little room.
-
 
 “Oh, hello, old sport,” he said, as if he hadn’t seen me for years.
 s=gatsby;e:gatsby=happy
@@ -4057,10 +4033,7 @@ s=klipspringer
 Outside the wind was loud and there was a faint flow of thunder along the Sound.
 s=none
 
-All the lights were going on in West Egg now;
-
-
-the electric trains, men-carrying, were plunging home through the rain from New York.
+All the lights were going on in West Egg now; the electric trains, men-carrying, were plunging home through the rain from New York.
 
 
 It was the hour of a profound human change, and excitement was generating on the air.
@@ -4174,10 +4147,7 @@ A universe of ineffable gaudiness spun itself out in his brain while the clock t
 Each night he added to the pattern of his fancies until drowsiness closed down upon some vivid scene with an oblivious embrace.
 
 
-For a while these reveries provided an outlet for his imagination;
-
-
-they were a satisfactory hint of the unreality of reality, a promise that the rock of the world was founded securely on a fairy’s wing.
+For a while these reveries provided an outlet for his imagination; they were a satisfactory hint of the unreality of reality, a promise that the rock of the world was founded securely on a fairy’s wing.
 
 
 An instinct toward his future glory had led him, some months before, to the small Lutheran College of St. Olaf’s in southern Minnesota.
@@ -4231,10 +4201,7 @@ I remember the portrait of him up in Gatsby’s bedroom, a grey, florid man with
 It was indirectly due to Cody that Gatsby drank so little.
 
 
-Sometimes in the course of gay parties women used to rub champagne into his hair;
-
-
-for himself he formed the habit of letting liquor alone.
+Sometimes in the course of gay parties women used to rub champagne into his hair; for himself he formed the habit of letting liquor alone.
 
 
 And it was from Cody that he inherited money—a legacy of twenty-five thousand dollars.
@@ -4360,11 +4327,8 @@ s=nick
 “That so?”
 s=tom
 
-Mr. Sloane didn’t enter into the conversation, but lounged back haughtily in his chair;
+Mr. Sloane didn’t enter into the conversation, but lounged back haughtily in his chair; the woman said nothing either—until unexpectedly, after two highballs, she became cordial.
 e:sloane=scowling;s=none
-
-the woman said nothing either—until unexpectedly, after two highballs, she became cordial.
-
 
 “We’ll all come over to your next party, Mr. Gatsby,” she suggested. “What do you say?”
 s=horselady;e:horselady=happy
@@ -4486,11 +4450,8 @@ s=gatsby
 Tom’s arrogant eyes roamed the crowd.
 s=none;e:tom=scowling
 
-“We don’t go around very much,” he said;
+“We don’t go around very much,” he said; “in fact, I was just thinking I don’t know a soul here.”
 s=tom
-
-“in fact, I was just thinking I don’t know a soul here.”
-
 
 “Perhaps you know that lady.”
 s=gatsby
@@ -4621,10 +4582,7 @@ She was appalled by West Egg, this unprecedented “place” that Broadway had b
 She saw something awful in the very simplicity she failed to understand.
 
 
-I sat on the front steps with them while they waited for their car. It was dark here in front;
-
-
-only the bright door sent ten square feet of light volleying out into the soft black morning.
+I sat on the front steps with them while they waited for their car. It was dark here in front; only the bright door sent ten square feet of light volleying out into the soft black morning.
 
 
 Sometimes a shadow moved against a dressing-room blind above, gave way to another shadow, an indefinite procession of shadows, who rouged and powdered in an invisible glass.
@@ -4897,10 +4855,7 @@ The next day was broiling, almost the last, certainly the warmest, of the summer
 As my train emerged from the tunnel into sunlight, only the hot whistles of the National Biscuit Company broke the simmering hush at noon.
 e:nick=weary
 
-The straw seats of the car hovered on the edge of combustion;
-
-
-the woman next to me perspired delicately for a while into her white shirtwaist, and then, as her newspaper dampened under her fingers, lapsed despairingly into deep heat with a desolate cry.
+The straw seats of the car hovered on the edge of combustion; the woman next to me perspired delicately for a while into her white shirtwaist, and then, as her newspaper dampened under her fingers, lapsed despairingly into deep heat with a desolate cry.
 
 
 Her pocketbook slapped to the floor.
@@ -6655,10 +6610,7 @@ He took what he could get, ravenously and unscrupulously—eventually he took Da
 He might have despised himself, for he had certainly taken her under false pretences.
 e:gatsby=unhappy
 
-I don’t mean that he had traded on his phantom millions, but he had deliberately given Daisy a sense of security;
-
-
-he let her believe that he was a person from much the same strata as herself—that he was fully able to take care of her.
+I don’t mean that he had traded on his phantom millions, but he had deliberately given Daisy a sense of security; he let her believe that he was a person from much the same strata as herself—that he was fully able to take care of her.
 
 
 As a matter of fact, he had no such facilities—he had no comfortable family standing behind him, and he was liable at the whim of an impersonal government to be blown anywhere about the world.
@@ -6682,10 +6634,7 @@ He felt married to her, that was all.
 When they met again, two days later, it was Gatsby who was breathless, who was, somehow, betrayed.
 e:gatsby=wary
 
-Her porch was bright with the bought luxury of star-shine;
-
-
-the wicker of the settee squeaked fashionably as she turned toward him and he kissed her curious and lovely mouth.
+Her porch was bright with the bought luxury of star-shine; the wicker of the settee squeaked fashionably as she turned toward him and he kissed her curious and lovely mouth.
 
 
 She had caught a cold, and it made her voice huskier and more charming than ever, and Gatsby was overwhelmingly aware of the youth and mystery that wealth imprisons and preserves, of the freshness of many clothes, and of Daisy, gleaming like silver, safe and proud above the hot struggles of the poor.
@@ -6754,10 +6703,7 @@ All night the saxophones wailed the hopeless comment of the “Beale Street Blue
 At the grey tea hour there were always rooms that throbbed incessantly with this low, sweet fever, while fresh faces drifted here and there like rose petals blown by the sad horns around the floor.
 
 
-Through this twilight universe Daisy began to move again with the season;
-
-
-suddenly she was again keeping half a dozen dates a day with half a dozen men, and drowsing asleep at dawn with the beads and chiffon of an evening-dress tangled among dying orchids on the floor beside her bed.
+Through this twilight universe Daisy began to move again with the season; suddenly she was again keeping half a dozen dates a day with half a dozen men, and drowsing asleep at dawn with the beads and chiffon of an evening-dress tangled among dying orchids on the floor beside her bed.
 
 
 And all the time something within her was crying for a decision.
@@ -7018,10 +6964,7 @@ I couldn’t have talked to her across a tea-table that day if I never talked to
 I called Gatsby’s house a few minutes later, but the line was busy.
 e:nick=wary
 
-I tried four times;
-
-
-finally an exasperated central told me the wire was being kept open for long distance from Detroit.
+I tried four times; finally an exasperated central told me the wire was being kept open for long distance from Detroit.
 
 
 Taking out my timetable, I drew a small circle around the three-fifty train.
@@ -7063,10 +7006,7 @@ For a while the door of the office was open, and everyone who came into the gara
 Finally someone said it was a shame, and closed the door.
 
 
-Michaelis and several other men were with him;
-
-
-first, four or five men, later two or three men.
+Michaelis and several other men were with him; first, four or five men, later two or three men.
 
 
 Still later Michaelis had to ask the last stranger to wait there fifteen minutes longer, while he went back to his own place and made a pot of coffee.
@@ -7270,10 +7210,7 @@ e:michaelis=weary
 It was one of the watchers of the night before who had promised to come back, so he cooked breakfast for three, which he and the other man ate together.
 
 
-Wilson was quieter now, and Michaelis went home to sleep;
-
-
-when he awoke four hours later and hurried back to the garage, Wilson was gone.
+Wilson was quieter now, and Michaelis went home to sleep; when he awoke four hours later and hurried back to the garage, Wilson was gone.
 e:michaelis=surprised
 
 His movements—he was on foot all the time—were afterward traced to Port Roosevelt and then to Gad’s Hill, where he bought a sandwich that he didn’t eat, and a cup of coffee.
@@ -7468,11 +7405,8 @@ e:nick=serious
 That request seemed superfluous when I wrote it.
 
 
-I was sure he’d start when he saw the newspapers, just as I was sure there’d be a wire from Daisy before noon—but neither a wire nor Mr. Wolfshiem arrived;
+I was sure he’d start when he saw the newspapers, just as I was sure there’d be a wire from Daisy before noon—but neither a wire nor Mr. Wolfshiem arrived; no one arrived except more police and photographers and newspaper men.
 e:nick=unhappy
-
-no one arrived except more police and photographers and newspaper men.
-
 
 When the butler brought back Wolfshiem’s answer I began to have a feeling of defiance, of scornful solidarity between Gatsby and me against them all.
 e:nick=angry
@@ -7588,11 +7522,8 @@ s=gatz
 I took him into the drawing-room, where his son lay, and left him there.
 s=none
 
-Some little boys had come up on the steps and were looking into the hall;
+Some little boys had come up on the steps and were looking into the hall; when I told them who had arrived, they went reluctantly away.
 e:nick=neutral
-
-when I told them who had arrived, they went reluctantly away.
-
 
 After a little while Mr. Gatz opened the door and came out, his mouth ajar, his face flushed slightly, his eyes leaking isolated and unpunctual tears.
 e:gatz=crying
@@ -7693,11 +7624,8 @@ e:nick=unhappy
 However, that was my fault, for he was one of those who used to sneer most bitterly at Gatsby on the courage of Gatsby’s liquor, and I should have known better than to call him.
 e:nick=angry
 
-The morning of the funeral I went up to New York to see Meyer Wolfshiem;
+The morning of the funeral I went up to New York to see Meyer Wolfshiem; I couldn’t seem to reach him any other way. The door that I pushed open, on the advice of an elevator boy, was marked “The Swastika Holding Company,” and at first there didn’t seem to be anyone inside.
 e:nick=neutral
-
-I couldn’t seem to reach him any other way. The door that I pushed open, on the advice of an elevator boy, was marked “The Swastika Holding Company,” and at first there didn’t seem to be anyone inside.
-
 
 But when I’d shouted “hello” several times in vain, an argument broke out behind a partition, and presently a lovely Jewess appeared at an interior door and scrutinized me with black hostile eyes.
 n:stella=?;e:stella=annoyed
@@ -8167,10 +8095,7 @@ Then he went into the jewellery store to buy a pearl necklace—or perhaps only 
 Gatsby’s house was still empty when I left—the grass on his lawn had grown as long as mine.
 e:nick=contemplative
 
-One of the taxi drivers in the village never took a fare past the entrance gate without stopping for a minute and pointing inside;
-
-
-perhaps it was he who drove Daisy and Gatsby over to East Egg the night of the accident, and perhaps he had made a story about it all his own.
+One of the taxi drivers in the village never took a fare past the entrance gate without stopping for a minute and pointing inside; perhaps it was he who drove Daisy and Gatsby over to East Egg the night of the accident, and perhaps he had made a story about it all his own.
 
 
 I didn’t want to hear it and I avoided him when I got off the train.
@@ -8200,10 +8125,7 @@ Most of the big shore places were closed now and there were hardly any lights ex
 And as the moon rose higher the inessential houses began to melt away until gradually I became aware of the old island here that flowered once for Dutch sailors’ eyes—a fresh, green breast of the new world.
 
 
-Its vanished trees, the trees that had made way for Gatsby’s house, had once pandered in whispers to the last and greatest of all human dreams;
-
-
-for a transitory enchanted moment man must have held his breath in the presence of this continent, compelled into an aesthetic contemplation he neither understood nor desired, face to face for the last time in history with something commensurate to his capacity for wonder.
+Its vanished trees, the trees that had made way for Gatsby’s house, had once pandered in whispers to the last and greatest of all human dreams; for a transitory enchanted moment man must have held his breath in the presence of this continent, compelled into an aesthetic contemplation he neither understood nor desired, face to face for the last time in history with something commensurate to his capacity for wonder.
 
 
 And as I sat there brooding on the old, unknown world, I thought of Gatsby’s wonder when he first picked out the green light at the end of Daisy’s dock.
