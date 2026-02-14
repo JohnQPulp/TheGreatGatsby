@@ -1,4 +1,4 @@
-*The Great Gatsby* by F. Scott Fitzgerald
+*The Great Gatsby* by F. Scott Fitzgerald<e>Nothing like a bit of orgiastic literature, old sport, from obstetrical echolalia to meretricious pasquinades. And above all else: good word choice.</e>
 r=title;t=author;z:author=70,70,1
 
 <div class='upper center'>Once again<br>to<br>Zelda</div><e>According to Zelda, Scott and Hemingway were banging. Since Hemingway has a chapter "A Matter of Measurements" in his memoir <book>A Moveable Feast</book> where he inspects Scott's cock, iceberg theory says: yes, they were.</e>
@@ -2740,7 +2740,7 @@ s=gatsby;e:gatsby=happy
 Over the great bridge, with the sunlight through the girders making a constant flicker upon the moving cars, with the city rising up across the river in white heaps and sugar lumps all built with a wish out of nonolfactory money.
 s=none
 
-The city seen from the Queensboro Bridge is always the city seen for the first time, in its first wild promise of all the mystery and the beauty in the world.
+The city seen from the Queensboro Bridge is always the city seen for the first time, in its first wild promise of all the mystery and the beauty in the world.<e>Heh heh, <a href='https://www.youtube.com/watch?v=bVTG7sy3-dM'>Queensboro Bridge</a>.</e>
 e:nick=excited
 
 A dead man passed us in a hearse heaped with blooms, followed by two carriages with drawn blinds, and by more cheerful carriages for friends.
@@ -4732,10 +4732,10 @@ s=none
 “I wouldn’t ask too much of her,” I ventured. “You can’t repeat the past.”
 s=nick
 
-“Can’t repeat the past?”
+“Can’t repeat the past?” he cried incredulously.
 s=gatsby;e:gatsby=surprised
 
-he cried incredulously. “Why of course you can!”
+“Why of course you can!”
 e:gatsby=excited
 
 He looked around him wildly, as if the past were lurking here in the shadow of his house, just out of reach of his hand.
@@ -4759,7 +4759,7 @@ They stopped here and turned toward each other. Now it was a cool night with tha
 The quiet lights in the houses were humming out into the darkness and there was a stir and bustle among the stars.
 
 
-Out of the corner of his eye Gatsby saw that the blocks of the sidewalks really formed a ladder and mounted to a secret place above the trees—he could climb to it, if he climbed alone, and once there he could suck on the pap of life, gulp down the incomparable milk of wonder.
+Out of the corner of his eye Gatsby saw that the blocks of the sidewalks really formed a ladder and mounted to a secret place above the trees—he could climb to it, if he climbed alone, and once there he could suck on the pap of life, gulp down the incomparable milk of wonder.<e>What is it with authors and milk — why are they all weird about this?</e>
 
 
 His heart beat faster as Daisy’s white face came up to his own.
@@ -7798,50 +7798,14 @@ s=none
 On the last flyleaf was printed the word **schedule**, and the date September 12, 1906. And underneath:
 
 
-Rise from bed 6:00 a.m.
+Rise from bed <span class='fright'>6:00 a.m.</span><br>Dumbbell exercise and wall-scaling <span class='fright'>6:15﻿–﻿6:30 &quot;</span><br>Study electricity, etc. <span class='fright'>7:15﻿–﻿8:15 &quot;</span><br>Work <span class='fright'>8:30﻿–﻿4:30 p.m.</span><br>Baseball and sports <span class='fright'>4:30﻿–﻿5:00 &quot;</span><br>Practise elocution, poise and how to attain it <span class='fright'>5:00﻿–﻿6:00 &quot;</span><br>Study needed inventions <span class='fright'>7:00﻿–﻿9:00 &quot;</span><e>Sigma grindset.</e>
+m=margin
 
-
-Dumbbell exercise and wall-scaling 6:15﻿–﻿6:30 a.m.
-
-
-Study electricity, etc. 7:15﻿–﻿8:15 a.m.
-
-
-Work 8:30﻿–﻿4:30 p.m.
-
-
-Baseball and sports 4:30﻿–﻿5:00 p.m.
-
-
-Practise elocution, poise and how to attain it 5:00﻿–﻿6:00 p.m.
-
-
-Study needed inventions 7:00﻿–﻿9:00 p.m.
-
-
-General Resolves
-
-
-- No wasting time at Shafters or [a name, indecipherable]
-
-
-- No more smokeing or chewing.
-
-
-- Bath every other day
-
-
-- Read one improving book or magazine per week
-
-
-- Save $5.00 [crossed out] $3.00 per week
-
-
-- Be better to parents
+<div class='upper center'>General Resolves</div>No wasting time at Shafters or [a name, indecipherable]<br>No more smokeing or chewing.<br>Bath every other day<br>Read one improving book or magazine per week<br>Save $5.00 [crossed out] $3.00 per week<br>Be better to parents
 
 
 “I came across this book by accident,” said the old man. “It just shows you, don’t it?”
-s=gatz
+s=gatz;m=
 
 “It just shows you.”
 s=nick
