@@ -1,11 +1,11 @@
 *The Great Gatsby* by F. Scott Fitzgerald
-r=title;t=author
+r=title;t=author;z:author=70,70,1
 
-Once again to Zelda
+<div class='upper center'>Once again<br>to<br>Zelda</div><e>According to Zelda, Scott and Hemingway were banging. Since Hemingway has a chapter "A Matter of Measurements" in his memoir <book>A Moveable Feast</book> where he inspects Scott's cock, iceberg theory says: yes, they were.</e>
 t=
 
-Then wear the gold hat, if that will move her;<br>If you can bounce high, bounce for her too,<br>Till she cry “Lover, gold-hatted, high-bouncing lover,<br>I must have you!”<br>Thomas Parke d’Invilliers
-
+<span class='italics'>Then wear the gold hat, if that will move her;<br>&nbsp;&nbsp;If you can bounce high, bounce for her too,<br>Till she cry “Lover, gold-hatted, high-bouncing lover,<br>&nbsp;&nbsp;I must have you!”</span><br><span class='fright upper'>Thomas Parke d’Invilliers</span>
+m=margin
 
 ## I
 r=title
@@ -481,8 +481,11 @@ s=tom;e:tom=angry
 “Why, no,” I answered, rather surprised by his tone.
 s=nick;e:nick=surprised
 
-“Well, it’s a fine book, and everybody ought to read it. The idea is if we don’t look out the white race will be—will be utterly submerged. It’s all scientific stuff; it’s been proved.”
+“Well, it’s a fine book, and everybody ought to read it. The idea is if we don’t look out the white race will be—will be utterly submerged.”<e>Now does that include the Irish?</e>
 s=tom;e:tom=serious
+
+“It’s all scientific stuff; it’s been proved.”
+
 
 “Tom’s getting very profound,” said Daisy, with an expression of unthoughtful sadness.
 s=daisy;e:daisy=unhappy
@@ -646,7 +649,7 @@ s=daisy
 “Even if we are cousins. You didn’t come to my wedding.”
 
 
-“I wasn’t back from the war.”
+“I wasn’t back from the war.”<e>Wah wah wah. It's all war-this, war-that with you Lost Generation writers.</e>
 s=nick
 
 “That’s true.”
@@ -673,7 +676,7 @@ s=nick
 “It’ll show you how I’ve gotten to feel about—things. Well, she was less than an hour old and Tom was God knows where. I woke up out of the ether with an utterly abandoned feeling, and asked the nurse right away if it was a boy or a girl. She told me it was a girl, and so I turned my head away and wept.”
 s=daisy;e:daisy=crying
 
-“‘All right,’ I said, ‘I’m glad it’s a girl. And I hope she’ll be a fool—that’s the best thing a girl can be in this world, a beautiful little fool.’”
+“‘All right,’ I said, ‘I’m glad it’s a girl. And I hope she’ll be a fool—that’s the best thing a girl can be in this world, a beautiful little fool.’”<e>Mark Twain.</e>
 
 
 “You see I think everything’s terrible anyhow,” she went on in a convinced way.
@@ -835,7 +838,7 @@ It seemed to me that the thing for Daisy to do was to rush out of the house, chi
 As for Tom, the fact that he “had some woman in New York” was really less surprising than that he had been depressed by a book.
 e:nick=thinking
 
-Something was making him nibble at the edge of stale ideas as if his sturdy physical egotism no longer nourished his peremptory heart.
+Something was making him nibble at the edge of stale ideas as if his sturdy physical egotism no longer nourished his peremptory heart.<e>Chud Tom, crazy bitch Daisy, and now coping-and-seething Nick. I appreciate how the characters all have unique personalities.</e>
 
 
 Already it was deep summer on roadhouse roofs and in front of wayside garages, where new red petrol-pumps sat out in pools of light, and when I reached my estate at West Egg I ran the car under its shed and sat for a while on an abandoned grass roller in the yard.
@@ -1159,8 +1162,11 @@ e:myrtle=happy
 Meanwhile Tom brought out a bottle of whisky from a locked bureau door.
 e:tom=neutral
 
-I have been drunk just twice in my life, and the second time was that afternoon; so everything that happened has a dim, hazy cast over it, although until after eight o’clock the apartment was full of cheerful sun.
-e:nick=weary
+I have been drunk just twice in my life, and the second time was that afternoon;<e>What happened to writing what you know, Scott?</e>
+e:nick=weary;m=joined
+
+so everything that happened has a dim, hazy cast over it, although until after eight o’clock the apartment was full of cheerful sun.
+m=
 
 Sitting on Tom’s lap Mrs. Wilson called up several people on the telephone; then there were no cigarettes, and I went out to buy some at the drugstore on the corner.
 e:myrtle=excited
@@ -1396,8 +1402,11 @@ s=catherine;e:catherine=angry
 The late afternoon sky bloomed in the window for a moment like the blue honey of the Mediterranean—then the shrill voice of Mrs. McKee called me back into the room.
 s=none;e:mrsmckee=annoyed
 
-“I almost made a mistake, too,” she declared vigorously. “I almost married a little kike who’d been after me for years. I knew he was below me. Everybody kept saying to me: ‘Lucille, that man’s way below you!’ But if I hadn’t met Chester, he’d of got me sure.”
+“I almost made a mistake, too,” she declared vigorously. “I almost married a little kike who’d been after me for years.”<e>That man's name? Robert Cohn.</e>
 s=mrsmckee
+
+“I knew he was below me. Everybody kept saying to me: ‘Lucille, that man’s way below you!’ But if I hadn’t met Chester, he’d of got me sure.”
+
 
 “Yes, but listen,” said Myrtle Wilson, nodding her head up and down, “at least you didn’t marry him.”
 s=myrtle;e:myrtle=serious
@@ -1565,15 +1574,15 @@ Every Friday five crates of oranges and lemons arrived from a fruiterer in New Y
 
 
 There was a machine in the kitchen which could extract the juice of two hundred oranges in half an hour if a little button was pressed two hundred times by a butler’s thumb.
-
+o=juice-loosener
 
 At least once a fortnight a corps of caterers came down with several hundred feet of canvas and enough coloured lights to make a Christmas tree of Gatsby’s enormous garden.
-
+o=
 
 On buffet tables, garnished with glistening hors-d’oeuvre, spiced baked hams crowded against salads of harlequin designs and pastry pigs and turkeys bewitched to a dark gold.
 
 
-In the main hall a bar with a real brass rail was set up, and stocked with gins and liquors and with cordials so long forgotten that most of his female guests were too young to know one from another.
+In the main hall a bar with a real brass rail was set up, and stocked with gins and liquors and with cordials so long forgotten that most of his female guests were too young to know one from another.<e>Heh heh, stupid women.</e>
 
 
 By seven o’clock the orchestra has arrived, no thin five-piece affair, but a whole pitful of oboes and trombones and saxophones and viols and cornets and piccolos, and low and high drums.
@@ -2053,7 +2062,7 @@ e:nick=contemplative
 I was alone and it was almost two. For some time confused and intriguing sounds had issued from a long, many-windowed room which overhung the terrace.
 e:nick=neutral
 
-Eluding Jordan’s undergraduate, who was now engaged in an obstetrical conversation with two chorus girls, and who implored me to join him, I went inside.
+Eluding Jordan’s undergraduate, who was now engaged in an obstetrical conversation with two chorus girls, and who implored me to join him, I went inside.<e>Obstetrical talk for the gals. Nephrological talk for the guys.</e>
 
 
 The large room was full of people. One of the girls in yellow was playing the piano, and beside her stood a tall, red-haired young lady from a famous chorus, engaged in song.
@@ -2425,7 +2434,7 @@ I’d been writing letters once a week and signing them: “Love, Nick,” and a
 Nevertheless there was a vague understanding that had to be tactfully broken off before I was free.
 
 
-Everyone suspects himself of at least one of the cardinal virtues, and this is mine: I am one of the few honest people that I have ever known.
+Everyone suspects himself of at least one of the cardinal virtues, and this is mine: I am one of the few honest people that I have ever known.<e>What did you live in the <book>Wisconsin Death Trip</book> town out in the Middle West?</e>
 e:nick=neutral
 
 ## IV
@@ -2503,7 +2512,7 @@ In addition to all these I can remember that Faustina O’Brien came there at le
 All these people came to Gatsby’s house in the summer.
 e:nick=neutral
 
-—
+—<e>"You know that most annoying chapter from <book>The Iliad</book>? What if that, except the Jazz Age." —F. Scott Fitzgerald<br>(Pretty good bit honestly.)</e>
 
 
 At nine o’clock, one morning late in July, Gatsby’s gorgeous car lurched up the rocky drive to my door and gave out a burst of melody from its three-noted horn.
@@ -2611,7 +2620,7 @@ s=gatsby
 With an effort I managed to restrain my incredulous laughter.
 s=none;e:nick=smirking
 
-The very phrases were worn so threadbare that they evoked no image except that of a turbaned “character” leaking sawdust at every pore as he pursued a tiger through the Bois de Boulogne.
+The very phrases were worn so threadbare that they evoked no image except that of a turbaned “character” leaking sawdust at every pore as he pursued a tiger through the Bois de Boulogne.<e>Well duh.</e>
 
 
 “Then came the war, old sport. It was a great relief, and I tried very hard to die, but I seemed to bear an enchanted life.”
@@ -2764,7 +2773,7 @@ Blinking away the brightness of the street outside, my eyes picked him out obscu
 “Mr. Carraway, this is my friend Mr. Wolfshiem.”
 s=gatsby
 
-A small, flat-nosed Jew raised his large head and regarded me with two fine growths of hair which luxuriated in either nostril.
+A small, flat-nosed Jew raised his large head and regarded me with two fine growths of hair which luxuriated in either nostril.<e>How did both Scott and Hemingway arrive at the same flat-nosed Jew joke a year apart from each other?</e>
 n:wolfshiem=Mr. Wolfshiem;s=none;e:wolfshiem=neutral
 
 After a moment I discovered his tiny eyes in the half-darkness.
@@ -3289,7 +3298,7 @@ e:gatsby=nervous
 “‘I want to see her right next door.’”
 e:gatsby=serious
 
-“When I said you were a particular friend of Tom’s, he started to abandon the whole idea. He doesn’t know very much about Tom, though he says he’s read a Chicago paper for years just on the chance of catching a glimpse of Daisy’s name.”
+“When I said you were a particular friend of Tom’s, he started to abandon the whole idea. He doesn’t know very much about Tom, though he says he’s read a Chicago paper for years just on the chance of catching a glimpse of Daisy’s name.”<e>Gatsby, you're retarded.</e>
 e:jordan=neutral
 
 It was dark now, and as we dipped under a little bridge I put my arm around Jordan’s golden shoulder and drew her toward me and asked her to dinner.
@@ -3646,7 +3655,7 @@ s=daisy;e:daisy=neutral
 “Five years next November.”
 s=gatsby;e:gatsby=serious
 
-The automatic quality of Gatsby’s answer set us all back at least another minute.
+The automatic quality of Gatsby’s answer set us all back at least another minute.<e>TODO: insert one-minute timer.</e>
 s=none
 
 I had them both on their feet with the desperate suggestion that they help me make tea in the kitchen when the demoniac Finn brought it in on a tray.
@@ -4027,7 +4036,7 @@ s=gatsby;e:gatsby=serious
 “Play!”
 
 
-“In the morning, In the evening, Ain’t we got fun—”
+“In the morning,<br>In the evening,<br>Ain’t we got fun—”
 s=klipspringer
 
 Outside the wind was loud and there was a faint flow of thunder along the Sound.
@@ -4039,7 +4048,7 @@ All the lights were going on in West Egg now; the electric trains, men-carrying,
 It was the hour of a profound human change, and excitement was generating on the air.
 
 
-“One thing’s sure and nothing’s surer The rich get richer and the poor get—children. In the meantime, In between time—”
+“One thing’s sure and nothing’s surer<br>The rich get richer and the poor get—children.<br>In the meantime,<br>In between time—”
 s=klipspringer
 
 As I went over to say goodbye I saw that the expression of bewilderment had come back into Gatsby’s face, as though a faint doubt had occurred to him as to the quality of his present happiness.
@@ -4579,7 +4588,7 @@ s=none;e:daisy=unhappy
 She was appalled by West Egg, this unprecedented “place” that Broadway had begotten upon a Long Island fishing village—appalled by its raw vigour that chafed under the old euphemisms and by the too obtrusive fate that herded its inhabitants along a shortcut from nothing to nothing.
 
 
-She saw something awful in the very simplicity she failed to understand.
+She saw something awful in the very simplicity she failed to understand.<e>Wait what the f&#9472;&#9472;&#9472; is this perspective switch.</e>
 
 
 I sat on the front steps with them while they waited for their car. It was dark here in front; only the bright door sent ten square feet of light volleying out into the soft black morning.
@@ -4834,7 +4843,7 @@ s=gatsby;e:gatsby=serious
 So the whole caravansary had fallen in like a card house at the disapproval in her eyes.
 s=none;e:nick=thinking
 
-“They’re some people Wolfshiem wanted to do something for. They’re all brothers and sisters. They used to run a small hotel.”
+“They’re some people Wolfshiem wanted to do something for. They’re all brothers and sisters. They used to run a small hotel.”<e>Hotel de Cocoanut.</e>
 s=gatsby
 
 “I see.”
@@ -5539,7 +5548,7 @@ s=daisy;e:daisy=thinking
 “Biloxi,” he answered shortly.
 s=tom;e:tom=annoyed
 
-“A man named Biloxi. ‘Blocks’ Biloxi, and he made boxes—that’s a fact—and he was from Biloxi, Tennessee.”
+“A man named Biloxi. ‘Blocks’ Biloxi, and he made boxes—that’s a fact—and he was from Biloxi, Tennessee.”<e>Faulkner sheds a single tear.</e>
 
 
 “They carried him into my house,” appended Jordan, “because we lived just two doors from the church. And he stayed three weeks, until Daddy told him he had to get out. The day after he left Daddy died.”
@@ -5680,7 +5689,7 @@ s=tom;e:tom=angry
 “I suppose the latest thing is to sit back and let Mr. Nobody from Nowhere make love to your wife. Well, if that’s the idea you can count me out… Nowadays people begin by sneering at family life and family institutions, and next they’ll throw everything overboard and have intermarriage between black and white.”
 
 
-Flushed with his impassioned gibberish, he saw himself standing alone on the last barrier of civilization.
+Flushed with his impassioned gibberish, he saw himself standing alone on the last barrier of civilization.<e>Editorialize much?</e>
 s=none
 
 “We’re all white here,” murmured Jordan.
@@ -6001,11 +6010,8 @@ s=tom
 “No… I just remembered that today’s my birthday.”
 s=nick
 
-I was thirty.
-s=none
-
-Before me stretched the portentous, menacing road of a new decade.
-e:nick=weary
+I was thirty. Before me stretched the portentous, menacing road of a new decade.<e>Who asked?</e>
+e:nick=weary;s=none
 
 It was seven o’clock when we got into the coupé with him and started for Long Island.
 
@@ -6415,7 +6421,7 @@ s=gatsby;e:gatsby=nervous
 “Was Daisy driving?”
 s=nick;e:nick=surprised
 
-“Yes,” he said after a moment, “but of course I’ll say I was.”
+“Yes,” he said after a moment, “but of course I’ll say I was.”<e>So we're just doing full-on <book>Bonfire of the Vanities</book> plagiarism now.</e>
 s=gatsby;e:gatsby=serious
 
 “You see, when we left New York she was very nervous and she thought it would steady her to drive—and this woman rushed out at us just as we were passing a car coming the other way.”
@@ -6589,7 +6595,7 @@ But what gave it an air of breathless intensity, was that Daisy lived there—it
 There was a ripe mystery about it, a hint of bedrooms upstairs more beautiful and cool than other bedrooms, of gay and radiant activities taking place through its corridors, and of romances that were not musty and laid away already in lavender but fresh and breathing and redolent of this year’s shining motorcars and of dances whose flowers were scarcely withered.
 
 
-It excited him, too, that many men had already loved Daisy—it increased her value in his eyes.
+It excited him, too, that many men had already loved Daisy—it increased her value in his eyes.<e>So Gatsby not only thinks this, but he's saying it to Nick.</e>
 e:gatsby=excited
 
 He felt their presence all about the house, pervading the air with the shades and echoes of still vibrant emotions.
@@ -7412,7 +7418,7 @@ When the butler brought back Wolfshiem’s answer I began to have a feeling of d
 e:nick=angry
 
 Dear Mr. Carraway. This has been one of the most terrible shocks of my life to me I hardly can believe it that it is true at all.
-
+m=margin
 
 Such a mad act as that man did should make us all think.
 e:wolfshiem=serious
@@ -7426,20 +7432,17 @@ If there is anything I can do a little later let me know in a letter by Edgar.
 I hardly know where I am when I hear about a thing like this and am completely knocked down and out.
 e:wolfshiem=upset
 
-Yours truly
-
-
-Meyer Wolfshiem
+<span class='fright'>Yours truly</span><br><span class='fright upper'>Meyer Wolfshiem</span>
 
 
 and then hasty addenda beneath:
-
+m=
 
 Let me know about the funeral etc do not know his family at all.
-e:wolfshiem=neutral
+e:wolfshiem=neutral;m=margin
 
 When the phone rang that afternoon and Long Distance said Chicago was calling I thought this would be Daisy at last.
-s=none;e:nick=excited
+s=none;e:nick=excited;m=
 
 But the connection came through as a man’s voice, very thin and far away.
 e:nick=confused
@@ -7624,8 +7627,11 @@ e:nick=unhappy
 However, that was my fault, for he was one of those who used to sneer most bitterly at Gatsby on the courage of Gatsby’s liquor, and I should have known better than to call him.
 e:nick=angry
 
-The morning of the funeral I went up to New York to see Meyer Wolfshiem; I couldn’t seem to reach him any other way. The door that I pushed open, on the advice of an elevator boy, was marked “The Swastika Holding Company,” and at first there didn’t seem to be anyone inside.
+The morning of the funeral I went up to New York to see Meyer Wolfshiem; I couldn’t seem to reach him any other way.
 e:nick=neutral
+
+The door that I pushed open, on the advice of an elevator boy, was marked “The Swastika Holding Company,” and at first there didn’t seem to be anyone inside.<e>lmao</e>
+
 
 But when I’d shouted “hello” several times in vain, an argument broke out behind a partition, and presently a lovely Jewess appeared at an interior door and scrutinized me with black hostile eyes.
 n:stella=?;e:stella=annoyed
