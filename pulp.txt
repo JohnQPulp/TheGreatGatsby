@@ -1613,37 +1613,37 @@ s=none;e:nick=weary;b=think
 r=title
 
 There was music from my neighbour’s house through the summer nights.
-
+b=gatsby-wide-full-night
 
 In his blue gardens men and girls came and went like moths among the whisperings and the champagne and the stars.
 
 
 At high tide in the afternoon I watched his guests diving from the tower of his raft, or taking the sun on the hot sand of his beach while his two motorboats slit the waters of the Sound, drawing aquaplanes over cataracts of foam.
-
+b=gatsby-wide-full
 
 On weekends his Rolls-Royce became an omnibus, bearing parties to and from the city between nine in the morning and long past midnight, while his station wagon scampered like a brisk yellow bug to meet all trains.
 
 
 And on Mondays eight servants, including an extra gardener, toiled all day with mops and scrubbing-brushes and hammers and garden-shears, repairing the ravages of the night before.
-
+b=think
 
 Every Friday five crates of oranges and lemons arrived from a fruiterer in New York—every Monday these same oranges and lemons left his back door in a pyramid of pulpless halves.
-
+b=crates
 
 There was a machine in the kitchen which could extract the juice of two hundred oranges in half an hour if a little button was pressed two hundred times by a butler’s thumb.
 o=juice-loosener
 
 At least once a fortnight a corps of caterers came down with several hundred feet of canvas and enough coloured lights to make a Christmas tree of Gatsby’s enormous garden.
-o=
+o=tree-lights
 
 On buffet tables, garnished with glistening hors-d’oeuvre, spiced baked hams crowded against salads of harlequin designs and pastry pigs and turkeys bewitched to a dark gold.
-
+o=buffet
 
 In the main hall a bar with a real brass rail was set up, and stocked with gins and liquors and with cordials so long forgotten that most of his female guests were too young to know one from another.<e>Heh heh, stupid women.</e>
-
+o=
 
 By seven o’clock the orchestra has arrived, no thin five-piece affair, but a whole pitful of oboes and trombones and saxophones and viols and cornets and piccolos, and low and high drums.
-
+b=gatsby-wide-full
 
 The last swimmers have come in from the beach now and are dressing upstairs; the cars from New York are parked five deep in the drive, and already the halls and salons and verandas are gaudy with primary colours, and hair bobbed in strange new ways, and shawls beyond the dreams of Castile.
 
@@ -1652,7 +1652,7 @@ The bar is in full swing, and floating rounds of cocktails permeate the garden o
 
 
 The lights grow brighter as the earth lurches away from the sun, and now the orchestra is playing yellow cocktail music, and the opera of voices pitches a key higher.
-
+b=gatsby-wide-full-night
 
 Laughter is easier minute by minute, spilled with prodigality, tipped out at a cheerful word.
 
@@ -1669,32 +1669,23 @@ A momentary hush; the orchestra leader varies his rhythm obligingly for her, and
 The party has begun.
 
 
-I believe that on the first night I went to Gatsby’s house I was one of the few guests who had actually been invited.
-e:nick=neutral
+I believe that on the first night I went to Gatsby’s house I was one of the few guests who had actually been invited. People were not invited—they went there. They got into automobiles which bore them out to Long Island, and somehow they ended up at Gatsby’s door.
+b=think
 
-People were not invited—they went there.
-
-
-They got into automobiles which bore them out to Long Island, and somehow they ended up at Gatsby’s door.
-
-
-Once there they were introduced by somebody who knew Gatsby, and after that they conducted themselves according to the rules of behaviour associated with an amusement park.
-
-
-Sometimes they came and went without having met Gatsby at all, came for the party with a simplicity of heart that was its own ticket of admission.
+Once there they were introduced by somebody who knew Gatsby, and after that they conducted themselves according to the rules of behaviour associated with an amusement park. Sometimes they came and went without having met Gatsby at all, came for the party with a simplicity of heart that was its own ticket of admission.
 
 
 I had been actually invited.
 
 
 A chauffeur in a uniform of robin’s-egg blue crossed my lawn early that Saturday morning with a surprisingly formal note from his employer: the honour would be entirely Gatsby’s, it said, if I would attend his “little party” that night.
-
+b=nick-wide
 
 He had seen me several times, and had intended to call on me long before, but a peculiar combination of circumstances had prevented it—signed Jay Gatsby, in a majestic hand.
 
 
 Dressed up in white flannels I went over to his lawn a little after seven, and wandered around rather ill at ease among swirls and eddies of people I didn’t know—though here and there was a face I had noticed on the commuting train.
-e:nick=nervous
+e:nick=nervous;x:nick=flannels;b=party-lawn
 
 I was immediately struck by the number of young Englishmen dotted about; all well dressed, all looking a little hungry, and all talking in low, earnest voices to solid and prosperous Americans.
 
@@ -1709,22 +1700,22 @@ As soon as I arrived I made an attempt to find my host, but the two or three peo
 e:nick=unhappy
 
 I was on my way to get roaring drunk from sheer embarrassment when Jordan Baker came out of the house and stood at the head of the marble steps, leaning a little backward and looking with contemptuous interest down into the garden.
-e:jordan=neutral
+e:jordan=neutral;x:jordan=eveningdress
 
 Welcome or not, I found it necessary to attach myself to someone before I should begin to address cordial remarks to the passersby.
 
 
 “Hello!” I roared, advancing toward her.
-s=nick;e:nick=excited
+s=nick;e:nick=loud
 
 My voice seemed unnaturally loud across the garden.
 s=none;e:nick=nervous
 
 “I thought you might be here,” she responded absently as I came up.
-s=jordan;e:jordan=neutral
+s=jordan;e:jordan=neutral;b=party-steps
 
 “I remembered you lived next door to—”
-s=nick
+s=jordan
 
 She held my hand impersonally, as a promise that she’d take care of me in a minute, and gave ear to two girls in twin yellow dresses, who stopped at the foot of the steps.
 s=none
@@ -1732,11 +1723,8 @@ s=none
 “Hello!” they cried together. “Sorry you didn’t win.”
 n:lucille=?/?;n:friend=?;s=lucille;e:lucille=happy;x:lucille=doubled
 
-That was for the golf tournament.
+That was for the golf tournament. She had lost in the finals the week before.
 s=none;x:lucille=
-
-She had lost in the finals the week before.
-e:jordan=annoyed
 
 “You don’t know who we are,” said one of the girls in yellow, “but we met you here about a month ago.”
 s=friend;e:friend=happy
@@ -1745,10 +1733,10 @@ s=friend;e:friend=happy
 s=jordan;e:jordan=smirking
 
 With Jordan’s slender golden arm resting in mine, we descended the steps and sauntered about the garden.
-s=none;e:nick=happy
+s=none;e:nick=happy;b=think
 
 A tray of cocktails floated at us through the twilight, and we sat down at a table with the two girls in yellow and three men, each one introduced to us as Mr. Mumble.
-
+b=party-tables-night
 
 “Do you come to these parties often?” inquired Jordan of the girl beside her.
 s=jordan;e:jordan=neutral
@@ -1756,13 +1744,16 @@ s=jordan;e:jordan=neutral
 “The last one was the one I met you at,” answered the girl, in an alert confident voice.
 s=friend;e:friend=happy
 
-She turned to her companion: “Wasn’t it for you, Lucille?”
+She turned to her companion:
+s=
 
+“Wasn’t it for you, Lucille?”
+s=friend
 
 It was for Lucille, too.
 s=none;n:lucille=Lucille
 
-“I like to come,” Lucille said.
+“I like to come,” Lucille said.<e>Scott…</e>
 s=lucille;e:lucille=happy
 
 “I never care what I do, so I always have a good time. When I was here last I tore my gown on a chair, and he asked me my name and address—inside of a week I got a package from Croirier’s with a new evening gown in it.”
@@ -1772,19 +1763,19 @@ s=lucille;e:lucille=happy
 s=jordan;e:jordan=neutral
 
 “Sure I did. I was going to wear it tonight, but it was too big in the bust and had to be altered. It was gas blue with lavender beads. Two hundred and sixty-five dollars.”
-s=lucille;e:lucille=excited
+s=lucille;e:lucille=happy
 
 “There’s something funny about a fellow that’ll do a thing like that,” said the other girl eagerly.
 s=friend;e:friend=suspicious
 
 “He doesn’t want any trouble with *any*body.”
-
+e:friend=thinking
 
 “Who doesn’t?” I inquired.
 s=nick;e:nick=confused
 
 “Gatsby. Somebody told me—”
-s=friend
+s=friend;e:friend=suspicious
 
 The two girls and Jordan leaned together confidentially.
 s=none
@@ -1831,8 +1822,11 @@ There were three married couples and Jordan’s escort, a persistent undergradua
 Instead of rambling, this party had preserved a dignified homogeneity, and assumed to itself the function of representing the staid nobility of the countryside—East Egg condescending to West Egg and carefully on guard against its spectroscopic gaiety.
 
 
-“Let’s get out,” whispered Jordan, after a somehow wasteful and inappropriate half-hour; “this is much too polite for me.”
-s=jordan;e:jordan=weary
+“Let’s get out,” whispered Jordan, after a somehow wasteful and inappropriate half-hour;
+s=jordan;e:jordan=
+
+“this is much too polite for me.”
+e:jordan=unhappy
 
 We got up, and she explained that we were going to find the host: I had never met him, she said, and it was making me uneasy.
 s=none;e:nick=nervous
@@ -1840,47 +1834,41 @@ s=none;e:nick=nervous
 The undergraduate nodded in a cynical, melancholy way.
 
 
-The bar, where we glanced first, was crowded, but Gatsby was not there.
-
-
-She couldn’t find him from the top of the steps, and he wasn’t on the veranda.
-
+The bar, where we glanced first, was crowded, but Gatsby was not there. She couldn’t find him from the top of the steps, and he wasn’t on the veranda.
+b=think
 
 On a chance we tried an important-looking door, and walked into a high Gothic library, panelled with carved English oak, and probably transported complete from some ruin overseas.
-
+b=gatsby-library
 
 A stout, middle-aged man, with enormous owl-eyed spectacles, was sitting somewhat drunk on the edge of a great table, staring with unsteady concentration at the shelves of books.
 n:owleyes=Owl Eyes;e:owleyes=contemplative
 
 As we entered he wheeled excitedly around and examined Jordan from head to foot.
-e:owleyes=excited
+e:owleyes=excited;c=owleyes
 
-“What do you think?”
+“What do you think?” he demanded impetuously.
 s=owleyes
-
-he demanded impetuously.
-s=none
 
 “About what?”
 s=nick;e:nick=confused
 
 He waved his hand toward the bookshelves.
-s=none
+s=none;e:owleyes=waving
 
 “About that. As a matter of fact you needn’t bother to ascertain. I ascertained. They’re real.”
-s=owleyes;e:owleyes=happy
+s=owleyes
 
 “The books?”
 s=nick;e:nick=surprised
 
 He nodded.
-s=none
+s=none;e:owleyes=happy
 
 “Absolutely real—have pages and everything. I thought they’d be a nice durable cardboard. Matter of fact, they’re absolutely real. Pages and—Here! Lemme show you.”
-
+s=owleyes
 
 Taking our scepticism for granted, he rushed to the bookcases and returned with Volume One of the *Stoddard Lectures*.
-
+c=;s=
 
 “See!” he cried triumphantly.
 s=owleyes
@@ -1901,7 +1889,7 @@ e:jordan=happy;s=none
 s=owleyes;e:owleyes=neutral
 
 “Mrs. Claud Roosevelt. Do you know her? I met her somewhere last night. I’ve been drunk for about a week now, and I thought it might sober me up to sit in a library.”
-
+e:owleyes=confused
 
 “Has it?”
 s=nick
@@ -1913,10 +1901,10 @@ s=owleyes;e:owleyes=thinking
 s=jordan;e:jordan=neutral
 
 We shook hands with him gravely and went back outdoors.
-s=none
+s=none;b=think
 
 There was dancing now on the canvas in the garden; old men pushing young girls backward in eternal graceless circles, superior couples holding each other tortuously, fashionably, and keeping in the corners—and a great number of single girls dancing individually or relieving the orchestra for a moment of the burden of the banjo or the traps.
-
+b=party-tables-night
 
 By midnight the hilarity had increased.
 
@@ -1949,7 +1937,7 @@ s=gatsby;e:gatsby=neutral
 
 
 “Why yes. I was in the Twenty-eighth Infantry.”
-s=nick
+s=nick;e:nick=
 
 “I was in the Sixteenth until June nineteen-eighteen. I knew I’d seen you somewhere before.”
 s=gatsby;e:gatsby=happy
@@ -1975,23 +1963,32 @@ s=none;e:jordan=happy
 “Having a gay time now?” she inquired.
 s=jordan
 
-“Much better.” I turned again to my new acquaintance.
-s=nick;e:nick=happy
+“Much better.”
+s=nick;e:nick=smirking
 
-“This is an unusual party for me. I haven’t even seen the host. I live over there—” I waved my hand at the invisible hedge in the distance, “and this man Gatsby sent over his chauffeur with an invitation.”
-s=nick
+I turned again to my new acquaintance.
+s=
+
+“This is an unusual party for me. I haven’t even seen the host. I live over there—”
+s=nick;e:nick=
+
+I waved my hand at the invisible hedge in the distance,
+s=
+
+“and this man Gatsby sent over his chauffeur with an invitation.”
+s=nick;e:nick=contemplative
 
 For a moment he looked at me as if he failed to understand.
 s=none;e:gatsby=confused
 
 “I’m Gatsby,” he said suddenly.
-s=gatsby;e:gatsby=happy;n:gatsby=Jay Gatsby
+s=gatsby;e:gatsby=;n:gatsby=Jay Gatsby
 
 “What!” I exclaimed. “Oh, I beg your pardon.”
 s=nick;e:nick=surprised
 
 “I thought you knew, old sport. I’m afraid I’m not a very good host.”
-s=gatsby
+s=gatsby;e:gatsby=happy
 
 He smiled understandingly—much more than understandingly. It was one of those rare smiles with a quality of eternal reassurance in it, that you may come across four or five times in life.
 s=none
@@ -2014,17 +2011,17 @@ n:butler1=Butler
 He excused himself with a small bow that included each of us in turn.
 
 
-“If you want anything just ask for it, old sport,” he urged me. “Excuse me. I will rejoin you later.”
-s=gatsby
+“If you want anything just ask for it, old sport,” he urged me.
+s=gatsby;e:gatsby=happy
 
-When he was gone I turned immediately to Jordan—constrained to assure her of my surprise.
+“Excuse me. I will rejoin you later.”
+e:gatsby=
+
+When he was gone I turned immediately to Jordan—constrained to assure her of my surprise. I had expected that Mr. Gatsby would be a florid and corpulent person in his middle years.
 s=none;e:nick=surprised
 
-I had expected that Mr. Gatsby would be a florid and corpulent person in his middle years.
-
-
 “Who is he?” I demanded. “Do you know?”
-s=nick
+s=nick;e:nick=serious
 
 “He’s just a man named Gatsby.”
 s=jordan;e:jordan=neutral
@@ -2036,7 +2033,7 @@ s=nick;e:nick=confused
 s=jordan;e:jordan=smirking
 
 “Well, he told me once he was an Oxford man.”
-
+e:jordan=thinking
 
 A dim background started to take shape behind him, but at her next remark it faded away.
 s=none
@@ -2060,19 +2057,22 @@ That was comprehensible. But young men didn’t—at least in my provincial inex
 
 
 “Anyhow, he gives large parties,” said Jordan, changing the subject with an urban distaste for the concrete.
-s=jordan;e:jordan=neutral
+s=jordan;e:jordan=contemplative
 
 “And I like large parties. They’re so intimate. At small parties there isn’t any privacy.”
-e:jordan=happy
+e:jordan=
 
 There was the boom of a bass drum, and the voice of the orchestra leader rang out suddenly above the echolalia of the garden.
 s=none
 
 “Ladies and gentlemen,” he cried. “At the request of Mr. Gatsby we are going to play for you Mr. Vladmir Tostoff’s latest work, which attracted so much attention at Carnegie Hall last May. If you read the papers you know there was a big sensation.”
-n:leader=Orchestra Leader;s=leader;e:leader=excited
+n:leader=Orchestra Leader;s=leader;e:leader=happy
 
-He smiled with jovial condescension, and added: “Some sensation!”
+He smiled with jovial condescension, and added:
+s=
 
+“Some sensation!”
+s=leader
 
 Whereupon everybody laughed.
 s=none
@@ -2081,16 +2081,16 @@ s=none
 s=leader
 
 The nature of Mr. Tostoff’s composition eluded me, because just as it began my eyes fell on Gatsby, standing alone on the marble steps and looking from one group to another with approving eyes.
-s=none;e:gatsby=happy
+s=none;e:gatsby=happy;b=light
 
 His tanned skin was drawn attractively tight on his face and his short hair looked as though it were trimmed every day.
-
+c=gatsby
 
 I could see nothing sinister about him. I wondered if the fact that he was not drinking helped to set him off from his guests, for it seemed to me that he grew more correct as the fraternal hilarity increased.
-e:nick=thinking
+e:nick=thinking;c=
 
 When the “Jazz History of the World” was over, girls were putting their heads on men’s shoulders in a puppyish, convivial way, girls were swooning backward playfully into men’s arms, even into groups, knowing that someone would arrest their falls—but no one swooned backward on Gatsby, and no French bob touched Gatsby’s shoulder, and no singing quartets were formed with Gatsby’s head for one link.
-e:gatsby=serious
+e:gatsby=serious;b=party-tables-night
 
 “I beg your pardon.”
 s=butler1
@@ -2120,10 +2120,10 @@ I was alone and it was almost two. For some time confused and intriguing sounds 
 e:nick=neutral
 
 Eluding Jordan’s undergraduate, who was now engaged in an obstetrical conversation with two chorus girls, and who implored me to join him, I went inside.<e>Obstetrical talk for the gals. Nephrological talk for the guys.</e>
-
+b=light
 
 The large room was full of people. One of the girls in yellow was playing the piano, and beside her stood a tall, red-haired young lady from a famous chorus, engaged in song.
-
+b=gatsby-large-party
 
 She had drunk a quantity of champagne, and during the course of her song she had decided, ineptly, that everything was very, very sad—she was not only singing, she was weeping too.
 
@@ -2137,8 +2137,8 @@ The tears coursed down her cheeks—not freely, however, for when they came into
 A humorous suggestion was made that she sing the notes on her face, whereupon she threw up her hands, sank into a chair, and went off into a deep vinous sleep.
 
 
-“She had a fight with a man who says he’s her husband,” explained a girl at my elbow.
-n:guestgirl=Girl;s=guestgirl;e:guestgirl=neutral
+<span class='dialogue'>“She had a fight with a man who says he’s her husband,”</span> explained a girl at my elbow.
+
 
 I looked around. Most of the remaining women were now having fights with men said to be their husbands.
 s=none;e:nick=neutral
@@ -2146,7 +2146,7 @@ s=none;e:nick=neutral
 Even Jordan’s party, the quartet from East Egg, were rent asunder by dissension.
 
 
-One of the men was talking with curious intensity to a young actress, and his wife, after attempting to laugh at the situation in a dignified and indifferent way, broke down entirely and resorted to flank attacks—at intervals she appeared suddenly at his side like an angry diamond, and hissed: “You promised!” into his ear.
+One of the men was talking with curious intensity to a young actress, and his wife, after attempting to laugh at the situation in a dignified and indifferent way, broke down entirely and resorted to flank attacks—at intervals she appeared suddenly at his side like an angry diamond, and hissed: <span class='dialogue'>“You promised!”</span> into his ear.
 
 
 The reluctance to go home was not confined to wayward men.
@@ -2186,7 +2186,7 @@ Jordan’s party were calling impatiently to her from the porch, but she lingere
 
 
 “I’ve just heard the most amazing thing,” she whispered. “How long were we in there?”
-s=jordan;e:jordan=excited
+s=jordan;e:jordan=smirking
 
 “Why, about an hour.”
 s=nick;e:nick=surprised
@@ -2194,8 +2194,14 @@ s=nick;e:nick=surprised
 “It was… simply amazing,” she repeated abstractedly. “But I swore I wouldn’t tell it and here I am tantalizing you.”
 s=jordan;e:jordan=thinking
 
-She yawned gracefully in my face. “Please come and see me… Phone book… Under the name of Mrs. Sigourney Howard… My aunt…” She was hurrying off as she talked—her brown hand waved a jaunty salute as she melted into her party at the door.
-s=none;e:jordan=happy
+She yawned gracefully in my face.
+s=
+
+“Please come and see me… Phone book… Under the name of Mrs. Sigourney Howard… My aunt…”
+s=jordan;e:jordan=yawning
+
+She was hurrying off as she talked—her brown hand waved a jaunty salute as she melted into her party at the door.
+s=
 
 Rather ashamed that on my first appearance I had stayed so late, I joined the last of Gatsby’s guests, who were clustered around him.
 e:nick=nervous
@@ -2222,7 +2228,7 @@ s=butler1;e:butler1=neutral
 s=gatsby;e:gatsby=serious
 
 “Good night.”
-s=nick
+s=nick;e:nick=
 
 “Good night.”
 s=gatsby;e:gatsby=happy
@@ -2234,10 +2240,10 @@ s=none;e:nick=happy
 s=gatsby
 
 But as I walked down the steps I saw that the evening was not quite over.
-s=none;e:nick=surprised
+s=none;e:nick=surprised;b=think
 
 Fifty feet from the door a dozen headlights illuminated a bizarre and tumultuous scene.
-
+b=party-crash
 
 In the ditch beside the road, right side up, but violently shorn of one wheel, rested a new coupé which had left Gatsby’s drive not two minutes before.
 
@@ -2249,16 +2255,16 @@ However, as they had left their cars blocking the road, a harsh, discordant din 
 
 
 A man in a long duster had dismounted from the wreck and now stood in the middle of the road, looking from the car to the tyre and from the tyre to the observers in a pleasant, puzzled way.
-e:owleyes=confused
+e:owleyes=confused;x:owleyes=duster;n:owleyes=?
 
 “See!” he explained. “It went in the ditch.”
 s=owleyes
 
 The fact was infinitely astonishing to him, and I recognized first the unusual quality of wonder, and then the man—it was the late patron of Gatsby’s library.
-s=none;e:nick=surprised
+s=none;e:nick=surprised;n:owleyes=Owl Eyes
 
-“How’d it happen?”
-s=nick
+<span class='dialogue'>“How’d it happen?”</span>
+
 
 He shrugged his shoulders.
 s=none
@@ -2266,17 +2272,17 @@ s=none
 “I know nothing whatever about mechanics,” he said decisively.
 s=owleyes;e:owleyes=serious
 
-“But how did it happen? Did you run into the wall?”
-n:guestman1=Bystander;e:guestman1=confused
+<span class='dialogue'>“But how did it happen? Did you run into the wall?”</span>
+
 
 “Don’t ask me,” said Owl Eyes, washing his hands of the whole matter.
-s=owleyes;e:owleyes=weary
+s=owleyes;e:owleyes=serious
 
 “I know very little about driving—next to nothing. It happened, and that’s all I know.”
+e:owleyes=thinking
 
+<span class='dialogue'>“Well, if you’re a poor driver you oughtn’t to try driving at night.”</span>
 
-“Well, if you’re a poor driver you oughtn’t to try driving at night.”
-s=guestman1;e:guestman1=annoyed
 
 “But I wasn’t even trying,” he explained indignantly, “I wasn’t even trying.”
 s=owleyes;e:owleyes=upset
@@ -2284,20 +2290,17 @@ s=owleyes;e:owleyes=upset
 An awed hush fell upon the bystanders.
 s=none
 
-“Do you want to commit suicide?”
-s=guestman1;e:guestman1=angry
+<span class='dialogue'>“Do you want to commit suicide?”</span>
 
-“You’re lucky it was just a wheel! A bad driver and not even *try*ing!”
-n:guestman2=Another Bystander;s=guestman2;e:guestman2=angry
+
+<span class='dialogue'>“You’re lucky it was just a wheel! A bad driver and not even *try*ing!”</span>
+
 
 “You don’t understand,” explained the criminal. “I wasn’t driving. There’s another man in the car.”
 s=owleyes;e:owleyes=desperate
 
-The shock that followed this declaration found voice in a sustained “Ah-h-h!”
+The shock that followed this declaration found voice in a sustained “Ah-h-h!” as the door of the coupé swung slowly open. The crowd—it was now a crowd—stepped back involuntarily, and when the door had opened wide there was a ghostly pause.
 s=none
-
-as the door of the coupé swung slowly open. The crowd—it was now a crowd—stepped back involuntarily, and when the door had opened wide there was a ghostly pause.
-
 
 Then, very gradually, part by part, a pale, dangling individual stepped out of the wreck, pawing tentatively at the ground with a large uncertain dancing shoe.
 n:driver=Driver;e:driver=confused
@@ -2308,14 +2311,14 @@ Blinded by the glare of the headlights and confused by the incessant groaning of
 “Wha’s matter?” he inquired calmly. “Did we run outa gas?”
 s=driver
 
-“Look!”
-s=guestman2;e:guestman2=angry
+<span class='dialogue'>“Look!”</span>
+
 
 Half a dozen fingers pointed at the amputated wheel—he stared at it for a moment, and then looked upward as though he suspected that it had dropped from the sky.
 s=none;e:driver=confused
 
-“It came off,” someone explained.
-s=guestman1
+<span class='dialogue'>“It came off,”</span> someone explained.
+
 
 He nodded.
 s=none
@@ -2330,7 +2333,7 @@ Then, taking a long breath and straightening his shoulders, he remarked in a det
 e:driver=serious
 
 “Wonder’ff tell me where there’s a gas’line station?”
-s=driver
+s=driver;e:driver=drunk
 
 At least a dozen men, some of them a little better off than he was, explained to him that wheel and car were no longer joined by any physical bond.
 s=none
@@ -2338,17 +2341,17 @@ s=none
 “Back out,” he suggested after a moment. “Put her in reverse.”
 s=driver
 
-“But the *wheel*’s off!”
-s=guestman2
+<span class='dialogue'>“But the *wheel*’s off!”</span>
+
 
 He hesitated.
 s=none;e:driver=thinking
 
 “No harm in trying,” he said.
-s=driver;e:driver=neutral
+s=driver;e:driver=drunk
 
 The caterwauling horns had reached a crescendo and I turned away and cut across the lawn toward home.
-s=none;e:nick=weary
+s=none;e:nick=weary;b=think
 
 I glanced back once. A wafer of a moon was shining over Gatsby’s house, making the night fine as before, and surviving the laughter and the sound of his still glowing garden.
 e:nick=contemplative
@@ -2357,10 +2360,10 @@ A sudden emptiness seemed to flow now from the windows and the great doors, endo
 e:gatsby=serious
 
 —
-
+r=title
 
 Reading over what I have written so far, I see I have given the impression that the events of three nights several weeks apart were all that absorbed me.
-e:nick=neutral
+e:nick=neutral;b=york-wide
 
 On the contrary, they were merely casual events in a crowded summer, and, until much later, they absorbed me infinitely less than my personal affairs.
 
@@ -2381,7 +2384,7 @@ There were generally a few rioters around, but they never came into the library,
 e:nick=neutral
 
 After that, if the night was mellow, I strolled down Madison Avenue past the old Murray Hill Hotel, and over 33rd Street to the Pennsylvania Station.
-e:nick=happy
+e:nick=happy;b=york-wide-night
 
 I began to like New York, the racy, adventurous feel of it at night, and the satisfaction that the constant flicker of men and women and machines gives to the restless eye.
 
@@ -2395,46 +2398,28 @@ Sometimes, in my mind, I followed them to their apartments on the corners of hid
 At the enchanted metropolitan twilight I felt a haunting loneliness sometimes, and felt it in others—poor young clerks who loitered in front of windows waiting until it was time for a solitary restaurant dinner—young clerks in the dusk, wasting the most poignant moments of night and life.
 e:nick=unhappy
 
-Again at eight o’clock, when the dark lanes of the Forties were lined five deep with throbbing taxicabs, bound for the theatre district, I felt a sinking in my heart.
-
-
-Forms leaned together in the taxis as they waited, and voices sang, and there was laughter from unheard jokes, and lighted cigarettes made unintelligible circles inside.
+Again at eight o’clock, when the dark lanes of the Forties were lined five deep with throbbing taxicabs, bound for the theatre district, I felt a sinking in my heart. Forms leaned together in the taxis as they waited, and voices sang, and there was laughter from unheard jokes, and lighted cigarettes made unintelligible circles inside.
 
 
 Imagining that I, too, was hurrying towards gaiety and sharing their intimate excitement, I wished them well.
 e:nick=contemplative
 
 For a while I lost sight of Jordan Baker, and then in midsummer I found her again.
-e:nick=neutral
+e:nick=neutral;b=light
 
-At first I was flattered to go places with her, because she was a golf champion, and everyone knew her name.
-e:nick=happy
-
-Then it was something more. I wasn’t actually in love, but I felt a sort of tender curiosity.
-
-
-The bored haughty face that she turned to the world concealed something—most affectations conceal something eventually, even though they don’t in the beginning—and one day I found what it was.
+At first I was flattered to go places with her, because she was a golf champion, and everyone knew her name. Then it was something more. I wasn’t actually in love, but I felt a sort of tender curiosity. The bored haughty face that she turned to the world concealed something—most affectations conceal something eventually, even though they don’t in the beginning—and one day I found what it was.
 e:nick=thinking
 
 When we were on a house-party together up in Warwick, she left a borrowed car out in the rain with the top down, and then lied about it—and suddenly I remembered the story about her that had eluded me that night at Daisy’s.
 
 
-At her first big golf tournament there was a row that nearly reached the newspapers—a suggestion that she had moved her ball from a bad lie in the semifinal round.
-
-
-The thing approached the proportions of a scandal—then died away.
-
-
-A caddy retracted his statement, and the only other witness admitted that he might have been mistaken.
+At her first big golf tournament there was a row that nearly reached the newspapers—a suggestion that she had moved her ball from a bad lie in the semifinal round. The thing approached the proportions of a scandal—then died away. A caddy retracted his statement, and the only other witness admitted that he might have been mistaken.
 
 
 The incident and the name had remained together in my mind.
 
 
-Jordan Baker instinctively avoided clever, shrewd men, and now I saw that this was because she felt safer on a plane where any divergence from a code would be thought impossible.
-
-
-She was incurably dishonest.
+Jordan Baker instinctively avoided clever, shrewd men, and now I saw that this was because she felt safer on a plane where any divergence from a code would be thought impossible. She was incurably dishonest.
 e:nick=serious
 
 She wasn’t able to endure being at a disadvantage and, given this unwillingness, I suppose she had begun dealing in subterfuges when she was very young in order to keep that cool, insolent smile turned to the world and yet satisfy the demands of her hard, jaunty body.
@@ -2444,7 +2429,7 @@ It made no difference to me. Dishonesty in a woman is a thing you never blame de
 e:nick=neutral
 
 It was on that same house-party that we had a curious conversation about driving a car.
-
+b=car-pov
 
 It started because she passed so close to some workmen that our fender flicked a button on one man’s coat.
 
@@ -2453,7 +2438,7 @@ It started because she passed so close to some workmen that our fender flicked a
 s=nick;e:nick=annoyed
 
 “Either you ought to be more careful, or you oughtn’t to drive at all.”
-s=none
+e:nick=serious
 
 “I am careful.”
 s=jordan;e:jordan=neutral
@@ -2465,13 +2450,13 @@ s=nick
 s=jordan;e:jordan=smirking
 
 “What’s that got to do with it?”
-s=nick;e:nick=confused
+s=nick;e:nick=annoyed
 
 “They’ll keep out of my way,” she insisted. “It takes two to make an accident.”
 s=jordan
 
 “Suppose you met somebody just as careless as yourself.”
-s=nick
+s=nick;e:nick=serious
 
 “I hope I never will,” she answered.
 s=jordan
@@ -2486,12 +2471,12 @@ But I am slow-thinking and full of interior rules that act as brakes on my desir
 e:nick=thinking
 
 I’d been writing letters once a week and signing them: “Love, Nick,” and all I could think of was how, when that certain girl played tennis, a faint moustache of perspiration appeared on her upper lip.
-
+b=light
 
 Nevertheless there was a vague understanding that had to be tactfully broken off before I was free.
 
 
-Everyone suspects himself of at least one of the cardinal virtues, and this is mine: I am one of the few honest people that I have ever known.<e>What did you live in the <book>Wisconsin Death Trip</book> town out in the Middle West?</e>
+Everyone suspects himself of at least one of the cardinal virtues, and this is mine: I am one of the few honest people that I have ever known.<e>You never met honest people back in the "Middle West"? What, did you live in the <book>Wisconsin Death Trip</book> town?</e>
 e:nick=neutral
 
 ## IV
