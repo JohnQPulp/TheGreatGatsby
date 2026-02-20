@@ -863,7 +863,7 @@ s=daisy;e:daisy=excited
 s=daisy;e:daisy=happy
 
 “That’s right,” corroborated Tom kindly. “We heard that you were engaged.”
-s=tom;e:tom=happy
+s=tom;e:tom=happy;x:nick=hat
 
 “It’s a libel. I’m too poor.”
 s=nick;e:nick=annoyed
@@ -920,7 +920,7 @@ e:nick=neutral;b=nick-wide-night
 r=title
 
 About halfway between West Egg and New York the motor road hastily joins the railroad and runs beside it for a quarter of a mile, so as to shrink away from a certain desolate area of land.
-
+b=ashes-wide
 
 This is a valley of ashes—a fantastic farm where ashes grow like wheat into ridges and hills and grotesque gardens; where ashes take the forms of houses and chimneys and rising smoke and, finally, with a transcendent effort, of ash-grey men, who move dimly and already crumbling through the powdery air.
 
@@ -929,7 +929,7 @@ Occasionally a line of grey cars crawls along an invisible track, gives out a gh
 
 
 But above the grey land and the spasms of bleak dust which drift endlessly over it, you perceive, after a moment, the eyes of Doctor T. J. Eckleburg.
-
+b=eyes
 
 The eyes of Doctor T. J. Eckleburg are blue and gigantic—their retinas are one yard high.
 
@@ -944,7 +944,7 @@ But his eyes, dimmed a little by many paintless days, under sun and rain, brood 
 
 
 The valley of ashes is bounded on one side by a small foul river, and, when the drawbridge is up to let barges through, the passengers on waiting trains can stare at the dismal scene for as long as half an hour.
-e:nick=neutral
+e:nick=neutral;b=ashes-wide
 
 There is always a halt there of at least a minute, and it was because of this that I first met Tom Buchanan’s mistress.
 
@@ -959,7 +959,7 @@ Though I was curious to see her, I had no desire to meet her—but I did.
 
 
 I went up to New York with Tom on the train one afternoon, and when we stopped by the ash-heaps he jumped to his feet and, taking hold of my elbow, literally forced me from the car.
-e:nick=surprised
+e:nick=surprised;b=eyes;x:nick=hat
 
 “We’re getting off,” he insisted. “I want you to meet my girl.”
 s=tom;e:tom=serious
@@ -980,22 +980,22 @@ One of the three shops it contained was for rent and another was an all-night re
 
 
 The interior was unprosperous and bare; the only car visible was the dust-covered wreck of a Ford which crouched in a dim corner.
-
+b=garage-int
 
 It had occurred to me that this shadow of a garage must be a blind, and that sumptuous and romantic apartments were concealed overhead, when the proprietor himself appeared in the door of an office, wiping his hands on a piece of waste.
 e:nick=thinking
 
 He was a blond, spiritless man, anaemic, and faintly handsome.
-n:wilson=George B. Wilson;e:wilson=weary
+n:wilson=George B. Wilson;e:wilson=weary;c=wilson
 
 When he saw us a damp gleam of hope sprang into his light blue eyes.
-e:wilson=happy
+e:wilson=
 
 “Hello, Wilson, old man,” said Tom, slapping him jovially on the shoulder. “How’s business?”
-s=tom;e:tom=happy
+s=tom;e:tom=happy;c=
 
 “I can’t complain,” answered Wilson unconvincingly.
-s=wilson;e:wilson=weary
+s=wilson;e:wilson=contemplative
 
 “When are you going to sell me that car?”
 s=wilson;e:wilson=nervous
@@ -1013,7 +1013,7 @@ s=tom;e:tom=annoyed
 
 
 “I don’t mean that,” explained Wilson quickly. “I just meant—”
-s=wilson;e:wilson=fearful
+s=wilson;e:wilson=unhappy
 
 His voice faded off and Tom glanced impatiently around the garage.
 s=none;e:tom=annoyed
@@ -1022,13 +1022,13 @@ Then I heard footsteps on a stairs, and in a moment the thickish figure of a wom
 e:wilson=weary
 
 She was in the middle thirties, and faintly stout, but she carried her flesh sensuously as some women can.
-n:myrtle=Mrs. Wilson
+n:myrtle=Mrs. Wilson;c=myrtle
 
 Her face, above a spotted dress of dark blue crêpe-de-chine, contained no facet or gleam of beauty, but there was an immediately perceptible vitality about her as if the nerves of her body were continually smouldering.
-e:myrtle=neutral
+e:myrtle=smirking
 
 She smiled slowly and, walking through her husband as if he were a ghost, shook hands with Tom, looking him flush in the eye.
-e:myrtle=smirking;e:tom=smirking
+e:myrtle=smirking;e:tom=smirking;c=
 
 Then she wet her lips, and without turning around spoke to her husband in a soft, coarse voice:
 
@@ -1055,7 +1055,7 @@ She nodded and moved away from him just as George Wilson emerged with two chairs
 s=none
 
 We waited for her down the road and out of sight.
-
+b=eyes
 
 It was a few days before the Fourth of July, and a grey, scrawny Italian child was setting torpedoes in a row along the railroad track.
 
@@ -1064,10 +1064,10 @@ It was a few days before the Fourth of July, and a grey, scrawny Italian child w
 s=tom;e:tom=annoyed
 
 “Awful.”
-s=nick;e:nick=neutral
+s=nick;e:nick=contemplative
 
 “It does her good to get away.”
-s=tom
+s=tom;e:tom=serious
 
 “Doesn’t her husband object?”
 s=nick;e:nick=thinking
@@ -1076,22 +1076,22 @@ s=nick;e:nick=thinking
 s=tom;e:tom=smirking
 
 So Tom Buchanan and his girl and I went up together to New York—or not quite together, for Mrs. Wilson sat discreetly in another car.
-s=none
+s=none;b=light
 
 Tom deferred that much to the sensibilities of those East Eggers who might be on the train.
 
 
 She had changed her dress to a brown figured muslin, which stretched tight over her rather wide hips as Tom helped her to the platform in New York.
-
+x:myrtle=muslin;c=myrtle
 
 At the newsstand she bought a copy of *Town Tattle* and a moving-picture magazine, and in the station drugstore some cold cream and a small flask of perfume.
-e:myrtle=happy
+e:myrtle=happy;c=
 
 Upstairs, in the solemn echoing drive she let four taxicabs drive away before she selected a new one, lavender-coloured with grey upholstery, and in this we slid out from the mass of the station into the glowing sunshine.
-
+b=taxi-int
 
 But immediately she turned sharply from the window and, leaning forward, tapped on the front glass.
-e:myrtle=excited
+e:myrtle=happy
 
 “I want to get one of those dogs,” she said earnestly.
 s=myrtle
@@ -1103,10 +1103,10 @@ We backed up to a grey old man who bore an absurd resemblance to John D. Rockefe
 s=none
 
 In a basket swung from his neck cowered a dozen very recent puppies of an indeterminate breed.
-n:dogman=Old Man
+n:dogman=Old Man;o=dog-basket
 
 “What kind are they?” asked Mrs. Wilson eagerly, as he came to the taxi-window.
-s=myrtle;e:myrtle=excited
+s=myrtle;e:myrtle=happy
 
 “All kinds. What kind do you want, lady?”
 s=dogman;e:dogman=neutral
@@ -1115,10 +1115,10 @@ s=dogman;e:dogman=neutral
 s=myrtle;e:myrtle=thinking
 
 The man peered doubtfully into the basket, plunged in his hand and drew one up, wriggling, by the back of the neck.
-s=none;e:dogman=thinking
+s=none;e:dogman=thinking;o=
 
 “That’s no police dog,” said Tom.
-s=tom;e:tom=annoyed
+s=tom;e:tom=annoyed;o=dog-in-hand
 
 “No, it’s not exactly a police dog,” said the man with disappointment in his voice.
 s=dogman;e:dogman=unhappy
@@ -1130,19 +1130,22 @@ He passed his hand over the brown washrag of a back.
 s=none
 
 “Look at that coat. Some coat. That’s a dog that’ll never bother you with catching cold.”
-s=dogman;e:dogman=happy
+s=dogman;e:dogman=
 
 “I think it’s cute,” said Mrs. Wilson enthusiastically. “How much is it?”
 s=myrtle;e:myrtle=happy
 
-“That dog?” He looked at it admiringly.
+“That dog?”
 s=dogman
 
-“That dog will cost you ten dollars.”
+He looked at it admiringly.
+s=
 
+“That dog will cost you ten dollars.”
+s=dogman;e:dogman=happy
 
 The Airedale—undoubtedly there was an Airedale concerned in it somewhere, though its feet were startlingly white—changed hands and settled down into Mrs. Wilson’s lap, where she fondled the weatherproof coat with rapture.
-s=none;e:myrtle=excited
+s=none;e:myrtle=excited;o=
 
 “Is it a boy or a girl?” she asked delicately.
 s=myrtle
@@ -1181,19 +1184,19 @@ We went on, cutting back again over the Park toward the West Hundreds.
 s=none
 
 At 158th Street the cab stopped at one slice in a long white cake of apartment-houses.
-
+b=158-ext
 
 Throwing a regal homecoming glance around the neighbourhood, Mrs. Wilson gathered up her dog and her other purchases, and went haughtily in.
 e:myrtle=smirking
 
 “I’m going to have the McKees come up,” she announced as we rose in the elevator.
-s=myrtle
+s=myrtle;b=158-elevator
 
 “And, of course, I got to call up my sister, too.”
 
 
 The apartment was on the top floor—a small living-room, a small dining-room, a small bedroom, and a bath.
-s=none
+s=none;b=158-living;x:tom=
 
 The living-room was crowded to the doors with a set of tapestried furniture entirely too large for it, so that to move about was to stumble continually over scenes of ladies swinging in the gardens of Versailles.
 
@@ -1213,62 +1216,53 @@ e:myrtle=happy
 Meanwhile Tom brought out a bottle of whisky from a locked bureau door.
 e:tom=neutral
 
-I have been drunk just twice in my life, and the second time was that afternoon;<e>What happened to writing what you know, Scott?</e>
-e:nick=weary;m=joined
+I have been drunk just twice in my life, and the second time was that afternoon;<e>So much for Scott writing what he knows.</e>
+e:nick=weary;m=
 
 so everything that happened has a dim, hazy cast over it, although until after eight o’clock the apartment was full of cheerful sun.
 m=
 
 Sitting on Tom’s lap Mrs. Wilson called up several people on the telephone; then there were no cigarettes, and I went out to buy some at the drugstore on the corner.
-e:myrtle=excited
+e:myrtle=excited;b=light
 
 When I came back they had both disappeared, so I sat down discreetly in the living-room and read a chapter of *Simon Called Peter*—either it was terrible stuff or the whisky distorted things, because it didn’t make any sense to me.
-e:nick=confused
+e:nick=confused;b=158-living
 
 Just as Tom and Myrtle (after the first drink Mrs. Wilson and I called each other by our first names) reappeared, company commenced to arrive at the apartment door.
 
 
 The sister, Catherine, was a slender, worldly girl of about thirty, with a solid, sticky bob of red hair, and a complexion powdered milky white.
-n:catherine=Catherine
+n:catherine=Catherine;b=light;c=catherine
 
 Her eyebrows had been plucked and then drawn on again at a more rakish angle, but the efforts of nature toward the restoration of the old alignment gave a blurred air to her face.
 e:catherine=neutral
 
 When she moved about there was an incessant clicking as innumerable pottery bracelets jingled up and down upon her arms.
+c=
 
-
-She came in with such a proprietary haste, and looked around so possessively at the furniture that I wondered if she lived here.
-e:nick=thinking
-
-But when I asked her she laughed immoderately, repeated my question aloud, and told me she lived with a girl friend at a hotel.
+She came in with such a proprietary haste, and looked around so possessively at the furniture that I wondered if she lived here. But when I asked her she laughed immoderately, repeated my question aloud, and told me she lived with a girl friend at a hotel.
 e:catherine=happy
 
-Mr. McKee was a pale, feminine man from the flat below.
-n:mckee=Mr. McKee
-
-He had just shaved, for there was a white spot of lather on his cheekbone, and he was most respectful in his greeting to everyone in the room.
-e:mckee=neutral
+Mr. McKee was a pale, feminine man from the flat below. He had just shaved, for there was a white spot of lather on his cheekbone, and he was most respectful in his greeting to everyone in the room.
+n:mckee=Mr. McKee;c=mckee,
 
 He informed me that he was in the “artistic game,” and I gathered later that he was a photographer and had made the dim enlargement of Mrs. Wilson’s mother which hovered like an ectoplasm on the wall.
-e:mckee=serious
+e:mckee=serious;c=
 
 His wife was shrill, languid, handsome, and horrible. She told me with pride that her husband had photographed her a hundred and twenty-seven times since they had been married.
-n:mrsmckee=Mrs. McKee;e:mrsmckee=smirking
+n:mrsmckee=Mrs. McKee;e:mrsmckee=smirking;c=,mrsmckee
 
 Mrs. Wilson had changed her costume some time before, and was now attired in an elaborate afternoon dress of cream-coloured chiffon, which gave out a continual rustle as she swept about the room.
+e:myrtle=;x:myrtle=chiffon;c=myrtle,
+
+With the influence of the dress her personality had also undergone a change. The intense vitality that had been so remarkable in the garage was converted into impressive hauteur.
 e:myrtle=smirking
 
-With the influence of the dress her personality had also undergone a change.
-
-
-The intense vitality that had been so remarkable in the garage was converted into impressive hauteur.
-
-
 Her laughter, her gestures, her assertions became more violently affected moment by moment, and as she expanded the room grew smaller around her, until she seemed to be revolving on a noisy, creaking pivot through the smoky air.
-
+c=
 
 “My dear,” she told her sister in a high, mincing shout, “most of these fellas will cheat you every time. All they think of is money. I had a woman up here last week to look at my feet, and when she gave me the bill you’d of thought she had my appendicitis out.”
-s=myrtle;e:myrtle=annoyed
+s=myrtle;e:myrtle=annoyed;b=158-living
 
 “What was the name of the woman?” asked Mrs. McKee.
 s=mrsmckee;e:mrsmckee=thinking
@@ -1304,19 +1298,22 @@ s=mckee
 
 
 “I wouldn’t think of changing the light,” cried Mrs. McKee. “I think it’s—”
-s=mrsmckee;e:mrsmckee=excited
+s=mrsmckee;e:mrsmckee=happy
 
-Her husband said “*Sh!*” and we all looked at the subject again, whereupon Tom Buchanan yawned audibly and got to his feet.
+Her husband said <span class='dialogue'>“*Sh!*”</span> and we all looked at the subject again, whereupon Tom Buchanan yawned audibly and got to his feet.
 s=none;e:tom=weary
 
 “You McKees have something to drink,” he said. “Get some more ice and mineral water, Myrtle, before everybody goes to sleep.”
 s=tom;e:tom=annoyed
 
-“I told that boy about the ice.” Myrtle raised her eyebrows in despair at the shiftlessness of the lower orders.
+“I told that boy about the ice.”
 s=myrtle;e:myrtle=annoyed
 
-“These people! You have to keep after them all the time.”
+Myrtle raised her eyebrows in despair at the shiftlessness of the lower orders.
+s=
 
+“These people! You have to keep after them all the time.”
+e:myrtle=angry;s=myrtle
 
 She looked at me and laughed pointlessly.
 s=none;e:myrtle=happy
@@ -1331,10 +1328,10 @@ Tom looked at him blankly.
 s=none;e:tom=neutral
 
 “Two of them we have framed downstairs.”
-s=mckee
+s=mckee;e:mckee=
 
 “Two what?” demanded Tom.
-s=tom;e:tom=confused
+s=tom;e:tom=serious
 
 “Two studies. One of them I call *Montauk Point—The Gulls*, and the other I call *Montauk Point—The Sea*.”
 s=mckee;e:mckee=serious
@@ -1343,22 +1340,22 @@ The sister Catherine sat down beside me on the couch.
 s=none;e:catherine=neutral
 
 “Do you live down on Long Island, too?” she inquired.
-s=catherine;e:catherine=thinking
+s=catherine;e:catherine=
 
 “I live at West Egg.”
 s=nick;e:nick=neutral
 
 “Really? I was down there at a party about a month ago. At a man named Gatsby’s. Do you know him?”
-s=catherine;e:catherine=excited
+s=catherine;e:catherine=happy
 
 “I live next door to him.”
 s=nick
 
 “Well, they say he’s a nephew or a cousin of Kaiser Wilhelm’s. That’s where all his money comes from.”
-s=catherine;e:catherine=suspicious
+s=catherine;e:catherine=serious
 
 “Really?”
-s=nick;e:nick=surprised
+s=nick;e:nick=suspicious
 
 She nodded.
 s=none
@@ -1370,13 +1367,13 @@ This absorbing information about my neighbour was interrupted by Mrs. McKee’s 
 s=none
 
 “Chester, I think you could do something with *her*,” she broke out, but Mr. McKee only nodded in a bored way, and turned his attention to Tom.
-s=mrsmckee;e:mckee=weary
+s=mrsmckee;e:mckee=weary;e:mrsmckee=
 
 “I’d like to do more work on Long Island, if I could get the entry. All I ask is that they should give me a start.”
 s=mckee;e:mckee=thinking
 
 “Ask Myrtle,” said Tom, breaking into a short shout of laughter as Mrs. Wilson entered with a tray.
-s=tom;e:tom=happy;e:myrtle=neutral
+s=tom;e:tom=smirking;e:myrtle=neutral
 
 “She’ll give you a letter of introduction, won’t you, Myrtle?”
 
@@ -1387,26 +1384,32 @@ s=myrtle;e:myrtle=surprised
 “You’ll give McKee a letter of introduction to your husband, so he can do some studies of him.”
 s=tom;e:tom=smirking
 
-His lips moved silently for a moment as he invented, “‘George B. Wilson at the Gasoline Pump,’ or something like that.”
+His lips moved silently for a moment as he invented,
 s=none
 
+“‘George B. Wilson at the Gasoline Pump,’ or something like that.”
+s=tom;e:tom=smirking
+
 Catherine leaned close to me and whispered in my ear:
-e:catherine=serious
+e:catherine=serious;s=
 
 “Neither of them can stand the person they’re married to.”
 s=catherine
 
 “Can’t they?”
-s=nick;e:nick=thinking
+s=nick;e:nick=contemplative
 
-“Can’t *stand* them.” She looked at Myrtle and then at Tom.
+“Can’t *stand* them.”
 s=catherine
+
+She looked at Myrtle and then at Tom.
+s=
 
 “What I say is, why go on living with them if they can’t stand them? If I was them I’d get a divorce and get married to each other right away.”
 e:catherine=thinking
 
 “Doesn’t she like Wilson either?”
-s=nick;e:nick=thinking
+s=nick;e:nick=wary
 
 The answer to this was unexpected.
 s=none
@@ -1415,7 +1418,7 @@ It came from Myrtle, who had overheard the question, and it was violent and obsc
 e:myrtle=angry
 
 “You see,” cried Catherine triumphantly.
-s=catherine;e:catherine=excited
+s=catherine;e:catherine=smirking
 
 She lowered her voice again.
 e:catherine=serious;s=none
@@ -1430,22 +1433,22 @@ s=none;e:nick=surprised
 s=catherine
 
 “It’d be more discreet to go to Europe.”
-s=nick;e:nick=thinking
+s=nick;e:nick=contemplative
 
 “Oh, do you like Europe?” she exclaimed surprisingly.
-s=catherine;e:catherine=excited
+s=catherine;e:catherine=happy
 
 “I just got back from Monte Carlo.”
 
 
 “Really.”
-s=nick;e:nick=neutral
+s=nick
 
 “Just last year. I went over there with another girl.”
 s=catherine
 
 “Stay long?”
-s=nick
+s=nick;e:nick=
 
 “No, we just went to Monte Carlo and back. We went by way of Marseilles. We had over twelve hundred dollars when we started, but we got gyped out of it all in two days in the private rooms. We had an awful time getting back, I can tell you. God, how I hated that town!”
 s=catherine;e:catherine=angry
@@ -1457,7 +1460,7 @@ s=none;e:mrsmckee=annoyed
 s=mrsmckee
 
 “I knew he was below me. Everybody kept saying to me: ‘Lucille, that man’s way below you!’ But if I hadn’t met Chester, he’d of got me sure.”
-
+e:mrsmckee=thinking
 
 “Yes, but listen,” said Myrtle Wilson, nodding her head up and down, “at least you didn’t marry him.”
 s=myrtle;e:myrtle=serious
@@ -1469,7 +1472,7 @@ s=mrsmckee
 s=myrtle;e:myrtle=unhappy
 
 “Why did you, Myrtle?” demanded Catherine. “Nobody forced you to.”
-s=catherine;e:catherine=thinking
+s=catherine;e:catherine=serious
 
 Myrtle considered.
 s=none;e:myrtle=contemplative
@@ -1484,7 +1487,7 @@ e:myrtle=angry
 s=catherine;e:catherine=neutral
 
 “Crazy about him!” cried Myrtle incredulously.
-s=myrtle;e:myrtle=annoyed
+s=myrtle;e:myrtle=angry
 
 “Who said I was crazy about him? I never was any more crazy about him than I was about that man there.”
 
@@ -1511,7 +1514,7 @@ Tom rang for the janitor and sent him for some celebrated sandwiches, which were
 
 
 I wanted to get out and walk eastward toward the park through the soft twilight, but each time I tried to go I became entangled in some wild, strident argument which pulled me back, as if with ropes, into my chair.
-e:nick=unhappy
+e:nick=unhappy;b=think
 
 Yet high over the city our line of yellow windows must have contributed their share of human secrecy to the casual watcher in the darkening streets, and I saw him too, looking up and wondering.
 e:nick=contemplative
@@ -1520,7 +1523,7 @@ I was within and without, simultaneously enchanted and repelled by the inexhaust
 
 
 Myrtle pulled her chair close to mine, and suddenly her warm breath poured over me the story of her first meeting with Tom.
-e:myrtle=excited
+e:myrtle=happy;b=158-living-night
 
 “It was on the two little seats facing each other that are always the last ones left on the train. I was going up to New York to see my sister and spend the night. He had on a dress suit and patent leather shoes, and I couldn’t keep my eyes off him, but every time he looked at me I had to pretend to be looking at the advertisement over his head.”
 s=myrtle
@@ -1562,10 +1565,10 @@ e:tom=angry;e:myrtle=angry
 s=myrtle
 
 Making a short deft movement, Tom Buchanan broke her nose with his open hand.
-s=none;e:myrtle=crying
+s=none;e:myrtle=crying;b=action
 
 Then there were bloody towels upon the bathroom floor, and women’s voices scolding, and high over the confusion a long broken wail of pain.
-e:tom=angry
+e:tom=angry;b=158-living-night
 
 Mr. McKee awoke from his doze and started in a daze toward the door.
 e:mckee=confused
@@ -1574,10 +1577,10 @@ When he had gone halfway he turned around and stared at the scene—his wife and
 e:mrsmckee=upset;e:catherine=upset
 
 Then Mr. McKee turned and continued on out the door. Taking my hat from the chandelier, I followed.
-e:mckee=weary;e:nick=weary
+e:mckee=;e:nick=weary;x:tom=hat;b=think
 
 “Come to lunch some day,” he suggested, as we groaned down in the elevator.
-s=mckee
+s=mckee;b=158-elevator
 
 “Where?”
 s=nick
@@ -1589,19 +1592,22 @@ s=mckee
 n:elboy=Elevator Boy;s=elboy;e:elboy=annoyed
 
 “I beg your pardon,” said Mr. McKee with dignity, “I didn’t know I was touching it.”
-s=mckee;e:mckee=surprised
+s=mckee;e:mckee=serious
 
 “All right,” I agreed, “I’ll be glad to.”
 s=nick;e:nick=neutral
 
-… I was standing beside his bed and he was sitting up between the sheets, clad in his underwear, with a great portfolio in his hands.
-s=none;e:mckee=neutral
+…
+b=think;s=
+
+I was standing beside his bed and he was sitting up between the sheets, clad in his underwear, with a great portfolio in his hands.
+s=none;e:mckee=neutral;b=bedroom-blur
 
 “Beauty and the Beast… Loneliness… Old Grocery Horse… Brook’n Bridge…”
-s=mckee
+s=mckee;x:mckee=underwear;e:mckee=weary
 
 Then I was lying half asleep in the cold lower level of the Pennsylvania Station, staring at the morning *Tribune*, and waiting for the four o’clock train.
-s=none;e:nick=weary
+s=none;e:nick=weary;b=think
 
 ## III
 r=title
