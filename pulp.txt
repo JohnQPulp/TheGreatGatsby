@@ -746,7 +746,7 @@ e:daisy=smirking
 b=light
 
 Inside, the crimson room bloomed with light.
-
+b=tom-room-calm
 
 Tom and Miss Baker sat at either end of the long couch and she read aloud to him from the *Saturday Evening Post*—the words, murmurous and uninflected, running together in a soothing tune.
 e:tom=neutral;e:jordan=neutral
@@ -763,8 +763,11 @@ s=jordan
 Her body asserted itself with a restless movement of her knee, and she stood up.
 s=none
 
-“Ten o’clock,” she remarked, apparently finding the time on the ceiling. “Time for this good girl to go to bed.”
-s=jordan;e:jordan=weary
+“Ten o’clock,” she remarked, apparently finding the time on the ceiling.
+s=jordan;e:jordan=yawning
+
+“Time for this good girl to go to bed.”
+e:jordan=thinking
 
 “Jordan’s going to play in the tournament tomorrow,” explained Daisy, “over at Westchester.”
 s=daisy;e:daisy=neutral
@@ -794,12 +797,15 @@ s=daisy;e:daisy=happy
 
 
 “You know—lock you up accidentally in linen closets and push you out to sea in a boat, and all that sort of thing—”
-
+e:daisy=smirking
 
 “Good night,” called Miss Baker from the stairs. “I haven’t heard a word.”
 s=jordan;e:jordan=smirking
 
-“She’s a nice girl,” said Tom after a moment. “They oughtn’t to let her run around the country this way.”
+“She’s a nice girl,” said Tom after a moment.
+s=tom
+
+“They oughtn’t to let her run around the country this way.”
 s=tom;e:tom=serious
 
 “Who oughtn’t to?” inquired Daisy coldly.
@@ -814,10 +820,7 @@ s=daisy
 “Besides, Nick’s going to look after her, aren’t you, Nick?”
 e:daisy=happy
 
-“She’s going to spend lots of weekends out here this summer.”
-
-
-“I think the home influence will be very good for her.”
+“She’s going to spend lots of weekends out here this summer. I think the home influence will be very good for her.”
 
 
 Daisy and Tom looked at each other for a moment in silence.
@@ -830,13 +833,13 @@ s=nick
 s=daisy
 
 “Our white girlhood was passed together there. Our beautiful white—”
-
+e:daisy=thinking
 
 “Did you give Nick a little heart to heart talk on the veranda?” demanded Tom suddenly.
 s=tom;e:tom=suspicious
 
 “Did I?” She looked at me. “I can’t seem to remember, but I think we talked about the Nordic race.”
-s=daisy;e:daisy=thinking
+s=daisy;e:daisy=contemplative
 
 “Yes, I’m sure we did. It sort of crept up on us and first thing you know—”
 
@@ -845,13 +848,19 @@ s=daisy;e:daisy=thinking
 s=tom;e:tom=serious
 
 I said lightly that I had heard nothing at all, and a few minutes later I got up to go home.
-s=none
+s=none;b=light
 
-They came to the door with me and stood side by side in a cheerful square of light. As I started my motor Daisy peremptorily called: “Wait!”
-e:daisy=excited
+They came to the door with me and stood side by side in a cheerful square of light.
+
+
+As I started my motor Daisy peremptorily called:
+b=car-view
+
+“Wait!”
+s=daisy;e:daisy=excited
 
 “I forgot to ask you something, and it’s important. We heard you were engaged to a girl out West.”
-s=daisy
+s=daisy;e:daisy=happy
 
 “That’s right,” corroborated Tom kindly. “We heard that you were engaged.”
 s=tom;e:tom=happy
@@ -859,20 +868,20 @@ s=tom;e:tom=happy
 “It’s a libel. I’m too poor.”
 s=nick;e:nick=annoyed
 
-“But we heard it,” insisted Daisy, surprising me by opening up again in a flower-like way. “We heard it from three people, so it must be true.”
+“But we heard it,” insisted Daisy, surprising me by opening up again in a flower-like way.
 s=daisy;e:daisy=happy
 
-Of course I knew what they were referring to, but I wasn’t even vaguely engaged.
+“We heard it from three people, so it must be true.”
+
+
+Of course I knew what they were referring to, but I wasn’t even vaguely engaged. The fact that gossip had published the banns was one of the reasons I had come East.
 s=none;e:nick=neutral
-
-The fact that gossip had published the banns was one of the reasons I had come East.
-
 
 You can’t stop going with an old friend on account of rumours, and on the other hand I had no intention of being rumoured into marriage.
 
 
 Their interest rather touched me and made them less remotely rich—nevertheless, I was confused and a little disgusted as I drove away.
-e:nick=confused
+e:nick=confused;b=think
 
 It seemed to me that the thing for Daisy to do was to rush out of the house, child in arms—but apparently there were no such intentions in her head.
 
@@ -884,7 +893,7 @@ Something was making him nibble at the edge of stale ideas as if his sturdy phys
 
 
 Already it was deep summer on roadhouse roofs and in front of wayside garages, where new red petrol-pumps sat out in pools of light, and when I reached my estate at West Egg I ran the car under its shed and sat for a while on an abandoned grass roller in the yard.
-e:nick=neutral
+e:nick=neutral;b=nick-wide-night
 
 The wind had blown off, leaving a loud, bright night, with wings beating in the trees and a persistent organ sound as the full bellows of the earth blew the frogs full of life.
 
@@ -902,10 +911,10 @@ But I didn’t call to him, for he gave a sudden intimation that he was content 
 
 
 Involuntarily I glanced seaward—and distinguished nothing except a single green light, minute and far away, that might have been the end of a dock.
-
+b=green-light
 
 When I looked once more for Gatsby he had vanished, and I was alone again in the unquiet darkness.
-e:nick=neutral
+e:nick=neutral;b=nick-wide-night
 
 ## II
 r=title
