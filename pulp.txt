@@ -2483,10 +2483,10 @@ e:nick=neutral
 r=title
 
 On Sunday morning while church bells rang in the villages alongshore, the world and its mistress returned to Gatsby’s house and twinkled hilariously on his lawn.
-
+b=gatsby-wide-full
 
 “He’s a bootlegger,” said the young ladies, moving somewhere between his cocktails and his flowers.
-
+m=dialogue
 
 “One time he killed a man who had found out that he was nephew to Von Hindenburg and second cousin to the devil.”
 
@@ -2495,7 +2495,7 @@ On Sunday morning while church bells rang in the villages alongshore, the world 
 
 
 Once I wrote down on the empty spaces of a timetable the names of those who came to Gatsby’s house that summer.
-s=none;e:nick=thinking
+s=none;e:nick=thinking;m=
 
 It is an old timetable now, disintegrating at its folds, and headed “This schedule in effect July 5th, 1922.”
 
@@ -2504,7 +2504,7 @@ But I can still read the grey names, and they will give you a better impression 
 e:nick=neutral
 
 From East Egg, then, came the Chester Beckers and the Leeches, and a man named Bunsen, whom I knew at Yale, and Doctor Webster Civet, who was drowned last summer up in Maine.
-
+b=eggs-wide
 
 And the Hornbeams and the Willie Voltaires, and a whole clan named Blackbuck, who always gathered in a corner and flipped up their noses like goats at whosoever came near.
 
@@ -2516,7 +2516,7 @@ Clarence Endive was from East Egg, as I remember. He came only once, in white kn
 
 
 From farther out on the Island came the Cheadles and the O. R. P. Schraeders, and the Stonewall Jackson Abrams of Georgia, and the Fishguards and the Ripley Snells.
-
+b=long-map
 
 Snell was there three days before he went to the penitentiary, so drunk out on the gravel drive that Mrs. Ulysses Swett’s automobile ran over his right hand.
 
@@ -2525,7 +2525,7 @@ The Dancies came, too, and S. B. Whitebait, who was well over sixty, and Maurice
 
 
 From West Egg came the Poles and the Mulreadys and Cecil Roebuck and Cecil Schoen and Gulick the State senator and Newton Orchid, who controlled Films Par Excellence, and Eckhaust and Clyde Cohen and Don S. Schwartz (the son) and Arthur McCarty, all connected with the movies in one way or another.
-
+b=eggs-wide
 
 And the Catlips and the Bembergs and G. Earl Muldoon, brother to that Muldoon who afterward strangled his wife.
 
@@ -2540,7 +2540,7 @@ Of theatrical people there were Gus Waize and Horace O’Donavan and Lester Myer
 
 
 Also from New York were the Chromes and the Backhyssons and the Dennickers and Russel Betty and the Corrigans and the Kellehers and the Dewars and the Scullys and S. W. Belcher and the Smirkes and the young Quinns, divorced now, and Henry L. Palmetto, who killed himself by jumping in front of a subway train in Times Square.
-
+b=long-map
 
 Benny McClenahan arrived always with four girls. They were never quite the same ones in physical person, but they were so identical one with another that it inevitably seemed they had been there before.
 
@@ -2552,13 +2552,13 @@ In addition to all these I can remember that Faustina O’Brien came there at le
 
 
 All these people came to Gatsby’s house in the summer.
-e:nick=neutral
+e:nick=neutral;b=gatsby-wide-full
 
-—<e>"You know that most annoying chapter from <book>The Iliad</book>? What if that, except the Jazz Age." —F. Scott Fitzgerald<br>(Pretty good bit honestly.)</e>
-
+—<e>"What if that most annoying chapter from <book>The Iliad</book>, except Jazz Age." —F. Scott Fitzgerald<br>(Pretty good bit honestly.)</e>
+b=light
 
 At nine o’clock, one morning late in July, Gatsby’s gorgeous car lurched up the rocky drive to my door and gave out a burst of melody from its three-noted horn.
-
+b=nick-wide
 
 It was the first time he had called on me, though I had gone to two of his parties, mounted in his hydroplane, and, at his urgent invitation, made frequent use of his beach.
 
@@ -2579,10 +2579,13 @@ He saw me looking with admiration at his car.
 
 
 “It’s pretty, isn’t it, old sport?”
-s=gatsby;e:gatsby=happy
+s=gatsby;e:gatsby=happy;x:gatsby=caramel;x:nick=hat
 
-He jumped off to give me a better view. “Haven’t you ever seen it before?”
+He jumped off to give me a better view.
+s=
 
+“Haven’t you ever seen it before?”
+s=gatsby;e:gatsby=
 
 I’d seen it. Everybody had seen it.
 s=none;e:nick=neutral
@@ -2591,12 +2594,9 @@ It was a rich cream colour, bright with nickel, swollen here and there in its mo
 
 
 Sitting down behind many layers of glass in a sort of green leather conservatory, we started to town.
+b=car-gatsby-pov
 
-
-I had talked with him perhaps half a dozen times in the past month and found, to my disappointment, that he had little to say.
-e:nick=unhappy
-
-So my first impression, that he was a person of some undefined consequence, had gradually faded and he had become simply the proprietor of an elaborate roadhouse next door.
+I had talked with him perhaps half a dozen times in the past month and found, to my disappointment, that he had little to say. So my first impression, that he was a person of some undefined consequence, had gradually faded and he had become simply the proprietor of an elaborate roadhouse next door.
 e:nick=neutral
 
 And then came that disconcerting ride.
@@ -2612,7 +2612,7 @@ A little overwhelmed, I began the generalized evasions which that question deser
 s=none;e:nick=surprised
 
 “Well, I’m going to tell you something about my life,” he interrupted.
-s=gatsby
+s=gatsby;e:gatsby=serious
 
 “I don’t want you to get a wrong idea of me from all these stories you hear.”
 e:gatsby=serious
@@ -2627,7 +2627,7 @@ His right hand suddenly ordered divine retribution to stand by.
 s=none
 
 “I am the son of some wealthy people in the Middle West—all dead now. I was brought up in America but educated at Oxford, because all my ancestors have been educated there for many years. It is a family tradition.”
-s=gatsby
+s=gatsby;e:gatsby=
 
 He looked at me sideways—and I knew why Jordan Baker had believed he was lying.
 s=none;e:gatsby=wary;e:nick=suspicious
@@ -2641,7 +2641,7 @@ And with this doubt, his whole statement fell to pieces, and I wondered if there
 “What part of the Middle West?” I inquired casually.
 s=nick
 
-“San Francisco.”
+“San Francisco.”<e>San Francisco Township, Minnesota.</e>
 s=gatsby
 
 “I see.”
@@ -2657,7 +2657,7 @@ For a moment I suspected that he was pulling my leg, but a glance at him convinc
 e:nick=thinking
 
 “After that I lived like a young rajah in all the capitals of Europe—Paris, Venice, Rome—collecting jewels, chiefly rubies, hunting big game, painting a little, things for myself only, and trying to forget something very sad that had happened to me long ago.”
-s=gatsby
+s=gatsby;e:gatsby=contemplative
 
 With an effort I managed to restrain my incredulous laughter.
 s=none;e:nick=smirking
@@ -2666,31 +2666,28 @@ The very phrases were worn so threadbare that they evoked no image except that o
 
 
 “Then came the war, old sport. It was a great relief, and I tried very hard to die, but I seemed to bear an enchanted life.”
-s=gatsby
+s=gatsby;e:gatsby=unhappy
 
 “I accepted a commission as first lieutenant when it began. In the Argonne Forest I took the remains of my machine-gun battalion so far forward that there was a half mile gap on either side of us where the infantry couldn’t advance.”
-
+e:gatsby=contemplative
 
 “We stayed there two days and two nights, a hundred and thirty men with sixteen Lewis guns, and when the infantry came up at last they found the insignia of three German divisions among the piles of dead.”
-e:gatsby=excited
+e:gatsby=serious
 
 “I was promoted to be a major, and every Allied government gave me a decoration—even Montenegro, little Montenegro down on the Adriatic Sea!”
-
+e:gatsby=smirking
 
 Little Montenegro! He lifted up the words and nodded at them—with his smile.
 s=none;e:gatsby=happy
 
-The smile comprehended Montenegro’s troubled history and sympathized with the brave struggles of the Montenegrin people.
-
-
-It appreciated fully the chain of national circumstances which had elicited this tribute from Montenegro’s warm little heart.
+The smile comprehended Montenegro’s troubled history and sympathized with the brave struggles of the Montenegrin people. It appreciated fully the chain of national circumstances which had elicited this tribute from Montenegro’s warm little heart.<e>To be clear, Montenegrins: we're laughing at you, not with you.</e>
 
 
 My incredulity was submerged in fascination now; it was like skimming hastily through a dozen magazines.
 e:nick=surprised
 
 He reached in his pocket, and a piece of metal, slung on a ribbon, fell into my palm.
-
+o=ribbon
 
 “That’s the one from Montenegro.”
 s=gatsby
@@ -2702,19 +2699,16 @@ s=none
 
 
 “Turn it.”
-s=gatsby
+s=gatsby;e:gatsby=
 
 “Major Jay Gatsby,” I read, “For Valour Extraordinary.”
-s=nick
+s=nick;e:nick=contemplative
 
 “Here’s another thing I always carry. A souvenir of Oxford days. It was taken in Trinity Quad—the man on my left is now the Earl of Doncaster.”
-s=gatsby
+s=gatsby;o=
 
-It was a photograph of half a dozen young men in blazers loafing in an archway through which were visible a host of spires.
-s=none;e:nick=happy
-
-There was Gatsby, looking a little, not much, younger—with a cricket bat in his hand.
-
+It was a photograph of half a dozen young men in blazers loafing in an archway through which were visible a host of spires. There was Gatsby, looking a little, not much, younger—with a cricket bat in his hand.
+s=none;e:nick=happy;o=blazers-photo
 
 Then it was all true.
 
@@ -2723,13 +2717,16 @@ I saw the skins of tigers flaming in his palace on the Grand Canal; I saw him op
 e:nick=excited
 
 “I’m going to make a big request of you today,” he said, pocketing his souvenirs with satisfaction, “so I thought you ought to know something about me.”
-s=gatsby;e:gatsby=happy
+s=gatsby;e:gatsby=happy;o=
 
 “I didn’t want you to think I was just some nobody. You see, I usually find myself among strangers because I drift here and there trying to forget the sad things that happened to me.”
 e:gatsby=neutral
 
-He hesitated. “You’ll hear about it this afternoon.”
+He hesitated.
+s=
 
+“You’ll hear about it this afternoon.”
+s=gatsby;e:gatsby=serious
 
 “At lunch?”
 s=nick;e:nick=confused
@@ -2743,11 +2740,8 @@ s=nick;e:nick=surprised
 “No, old sport, I’m not. But Miss Baker has kindly consented to speak to you about this matter.”
 s=gatsby;e:gatsby=neutral
 
-I hadn’t the faintest idea what “this matter” was, but I was more annoyed than interested.
+I hadn’t the faintest idea what “this matter” was, but I was more annoyed than interested. I hadn’t asked Jordan to tea in order to discuss Mr. Jay Gatsby.
 s=none;e:nick=annoyed
-
-I hadn’t asked Jordan to tea in order to discuss Mr. Jay Gatsby.
-
 
 I was sure the request would be something utterly fantastic, and for a moment I was sorry I’d ever set foot upon his overpopulated lawn.
 
@@ -2764,8 +2758,11 @@ Then the valley of ashes opened out on both sides of us, and I had a glimpse of 
 With fenders spread like wings we scattered light through half Astoria—only half, for as we twisted among the pillars of the elevated I heard the familiar “jug-jug-*spat*!” of a motorcycle, and a frantic policeman rode alongside.
 
 
-“All right, old sport,” called Gatsby. We slowed down.
-s=gatsby;e:gatsby=smirking
+“All right, old sport,” called Gatsby.
+s=gatsby;e:gatsby=
+
+We slowed down.
+s=
 
 Taking a white card from his wallet, he waved it before the man’s eyes.
 s=none
@@ -2780,7 +2777,7 @@ s=nick;e:nick=confused
 s=gatsby;e:gatsby=happy
 
 Over the great bridge, with the sunlight through the girders making a constant flicker upon the moving cars, with the city rising up across the river in white heaps and sugar lumps all built with a wish out of nonolfactory money.
-s=none
+s=none;b=york-wide
 
 The city seen from the Queensboro Bridge is always the city seen for the first time, in its first wild promise of all the mystery and the beauty in the world.<e>Heh heh, <a href='https://www.youtube.com/watch?v=bVTG7sy3-dM'>Queensboro Bridge</a>.</e>
 e:nick=excited
@@ -2791,20 +2788,20 @@ e:nick=contemplative
 The friends looked out at us with the tragic eyes and short upper lips of southeastern Europe, and I was glad that the sight of Gatsby’s splendid car was included in their sombre holiday.
 
 
-As we crossed Blackwell’s Island a limousine passed us, driven by a white chauffeur, in which sat three modish negroes, two bucks and a girl.
+As we crossed Blackwell’s Island a limousine passed us, driven by a white chauffeur, in which sat three modish negroes, two bucks and a girl.<e>New Yorkers: why did you change the name of that island like seven times?</e>
 
 
 I laughed aloud as the yolks of their eyeballs rolled toward us in haughty rivalry.
-e:nick=happy
+e:nick=smirking
 
 “Anything can happen now that we’ve slid over this bridge,” I thought; “anything at all…”
-
+t=nick
 
 Even Gatsby could happen, without any particular wonder.
-
+t=
 
 —
-
+b=light
 
 Roaring noon. In a well-fanned Forty-second Street cellar I met Gatsby for lunch.
 e:nick=neutral;e:gatsby=neutral
