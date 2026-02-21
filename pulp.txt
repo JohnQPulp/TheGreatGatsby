@@ -586,11 +586,11 @@ e:daisy=nervous
 Miss Baker and I exchanged a short glance consciously devoid of meaning.
 e:jordan=neutral;e:nick=neutral
 
-I was about to speak when she sat up alertly and said <span class='dialogue'>“*Sh!*”</span> in a warning voice.
-
+I was about to speak when she sat up alertly and said “*Sh!*” in a warning voice.
+m=dialogue
 
 A subdued impassioned murmur was audible in the room beyond, and Miss Baker leaned forward unashamed, trying to hear.
-s=none;e:jordan=suspicious
+s=none;e:jordan=suspicious;m=
 
 The murmur trembled on the verge of coherence, sank down, mounted excitedly, and then ceased altogether.
 
@@ -1300,11 +1300,11 @@ s=mckee
 “I wouldn’t think of changing the light,” cried Mrs. McKee. “I think it’s—”
 s=mrsmckee;e:mrsmckee=happy
 
-Her husband said <span class='dialogue'>“*Sh!*”</span> and we all looked at the subject again, whereupon Tom Buchanan yawned audibly and got to his feet.
-s=none;e:tom=weary
+Her husband said “*Sh!*” and we all looked at the subject again, whereupon Tom Buchanan yawned audibly and got to his feet.
+s=none;e:tom=weary;m=dialogue
 
 “You McKees have something to drink,” he said. “Get some more ice and mineral water, Myrtle, before everybody goes to sleep.”
-s=tom;e:tom=annoyed
+s=tom;e:tom=annoyed;m=
 
 “I told that boy about the ice.”
 s=myrtle;e:myrtle=annoyed
@@ -2137,8 +2137,8 @@ The tears coursed down her cheeks—not freely, however, for when they came into
 A humorous suggestion was made that she sing the notes on her face, whereupon she threw up her hands, sank into a chair, and went off into a deep vinous sleep.
 
 
-<span class='dialogue'>“She had a fight with a man who says he’s her husband,”</span> explained a girl at my elbow.
-
+“She had a fight with a man who says he’s her husband,” explained a girl at my elbow.
+m=dialogue
 
 I looked around. Most of the remaining women were now having fights with men said to be their husbands.
 s=none;e:nick=neutral
@@ -2146,11 +2146,11 @@ s=none;e:nick=neutral
 Even Jordan’s party, the quartet from East Egg, were rent asunder by dissension.
 
 
-One of the men was talking with curious intensity to a young actress, and his wife, after attempting to laugh at the situation in a dignified and indifferent way, broke down entirely and resorted to flank attacks—at intervals she appeared suddenly at his side like an angry diamond, and hissed: <span class='dialogue'>“You promised!”</span> into his ear.
+One of the men was talking with curious intensity to a young actress, and his wife, after attempting to laugh at the situation in a dignified and indifferent way, broke down entirely and resorted to flank attacks—at intervals she appeared suddenly at his side like an angry diamond, and hissed: “You promised!” into his ear.
 
 
 The reluctance to go home was not confined to wayward men.
-
+m=
 
 The hall was at present occupied by two deplorably sober men and their highly indignant wives.
 n:husband1=Husband;n:husband2=Other Husband;n:wife1=Wife;n:wife2=Other Wife
@@ -2263,8 +2263,8 @@ s=owleyes
 The fact was infinitely astonishing to him, and I recognized first the unusual quality of wonder, and then the man—it was the late patron of Gatsby’s library.
 s=none;e:nick=surprised;n:owleyes=Owl Eyes
 
-<span class='dialogue'>“How’d it happen?”</span>
-
+“How’d it happen?”
+m=dialogue
 
 He shrugged his shoulders.
 s=none
@@ -2272,8 +2272,8 @@ s=none
 “I know nothing whatever about mechanics,” he said decisively.
 s=owleyes;e:owleyes=serious
 
-<span class='dialogue'>“But how did it happen? Did you run into the wall?”</span>
-
+“But how did it happen? Did you run into the wall?”
+s=
 
 “Don’t ask me,” said Owl Eyes, washing his hands of the whole matter.
 s=owleyes;e:owleyes=serious
@@ -2281,8 +2281,8 @@ s=owleyes;e:owleyes=serious
 “I know very little about driving—next to nothing. It happened, and that’s all I know.”
 e:owleyes=thinking
 
-<span class='dialogue'>“Well, if you’re a poor driver you oughtn’t to try driving at night.”</span>
-
+“Well, if you’re a poor driver you oughtn’t to try driving at night.”
+s=
 
 “But I wasn’t even trying,” he explained indignantly, “I wasn’t even trying.”
 s=owleyes;e:owleyes=upset
@@ -2290,10 +2290,10 @@ s=owleyes;e:owleyes=upset
 An awed hush fell upon the bystanders.
 s=none
 
-<span class='dialogue'>“Do you want to commit suicide?”</span>
+“Do you want to commit suicide?”
 
 
-<span class='dialogue'>“You’re lucky it was just a wheel! A bad driver and not even *try*ing!”</span>
+“You’re lucky it was just a wheel! A bad driver and not even *try*ing!”
 
 
 “You don’t understand,” explained the criminal. “I wasn’t driving. There’s another man in the car.”
@@ -2311,13 +2311,13 @@ Blinded by the glare of the headlights and confused by the incessant groaning of
 “Wha’s matter?” he inquired calmly. “Did we run outa gas?”
 s=driver
 
-<span class='dialogue'>“Look!”</span>
-
+“Look!”
+s=
 
 Half a dozen fingers pointed at the amputated wheel—he stared at it for a moment, and then looked upward as though he suspected that it had dropped from the sky.
 s=none;e:driver=confused
 
-<span class='dialogue'>“It came off,”</span> someone explained.
+“It came off,” someone explained.
 
 
 He nodded.
@@ -2341,11 +2341,11 @@ s=none
 “Back out,” he suggested after a moment. “Put her in reverse.”
 s=driver
 
-<span class='dialogue'>“But the *wheel*’s off!”</span>
-
+“But the *wheel*’s off!”
+s=
 
 He hesitated.
-s=none;e:driver=thinking
+s=none;e:driver=thinking;m=
 
 “No harm in trying,” he said.
 s=driver;e:driver=drunk
