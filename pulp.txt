@@ -3947,31 +3947,22 @@ s=daisy
 s=none;o=;b=light
 
 After the house, we were to see the grounds and the swimming pool, and the hydroplane, and the midsummer flowers—but outside Gatsby’s window it began to rain again, so we stood in a row looking at the corrugated surface of the Sound.
-s=none;e:daisy=neutral;e:gatsby=neutral
+s=none;e:daisy=neutral;e:gatsby=neutral;b=green-light-misted
 
 “If it wasn’t for the mist we could see your home across the bay,” said Gatsby.
-s=gatsby
+s=gatsby;e:gatsby=contemplative
 
 “You always have a green light that burns all night at the end of your dock.”
 
 
-Daisy put her arm through his abruptly, but he seemed absorbed in what he had just said.
+Daisy put her arm through his abruptly, but he seemed absorbed in what he had just said. Possibly it had occurred to him that the colossal significance of that light had now vanished forever.
 s=none;e:gatsby=contemplative
 
-Possibly it had occurred to him that the colossal significance of that light had now vanished forever.
-
-
-Compared to the great distance that had separated him from Daisy it had seemed very near to her, almost touching her.
-
-
-It had seemed as close as a star to the moon.
-
-
-Now it was again a green light on a dock. His count of enchanted objects had diminished by one.
+Compared to the great distance that had separated him from Daisy it had seemed very near to her, almost touching her. It had seemed as close as a star to the moon. Now it was again a green light on a dock. His count of enchanted objects had diminished by one.
 
 
 I began to walk about the room, examining various indefinite objects in the half darkness.
-s=none;e:nick=neutral
+s=none;e:nick=neutral;b=gatsby-bedroom
 
 A large photograph of an elderly man in yachting costume attracted me, hung on the wall over his desk.
 
@@ -3980,7 +3971,7 @@ A large photograph of an elderly man in yachting costume attracted me, hung on t
 s=nick
 
 “That? That’s Mr. Dan Cody, old sport.”
-s=gatsby
+s=gatsby;e:gatsby=
 
 The name sounded faintly familiar.
 s=none;e:nick=thinking
@@ -3994,7 +3985,7 @@ s=none
 “I adore it,” exclaimed Daisy. “The pompadour! You never told me you had a pompadour—or a yacht.”
 s=daisy;e:daisy=happy
 
-“Look at this,” said Gatsby quickly. “Here’s a lot of clippings—about you.”
+“Look at this,” said Gatsby quickly. “Here’s a lot of clippings—about you.”<e>Gatsby, no. Bad idea, Gatsby.</e>
 s=gatsby;e:gatsby=excited
 
 They stood side by side examining it.
@@ -4004,19 +3995,25 @@ I was going to ask to see the rubies when the phone rang, and Gatsby took up the
 
 
 “Yes… Well, I can’t talk now… I can’t talk now, old sport… I said a *small* town… He must know what a small town is… Well, he’s no use to us if Detroit is his idea of a small town…”
-s=gatsby;e:gatsby=annoyed
+s=gatsby;e:gatsby=annoyed;o=phone
 
 He rang off.
-s=none
+s=none;o=
 
 “Come here *quick*!” cried Daisy at the window.
 s=daisy;e:daisy=excited
 
 The rain was still falling, but the darkness had parted in the west, and there was a pink and golden billow of foamy clouds above the sea.
-s=none
+s=none;b=green-light-misted
 
-“Look at that,” she whispered, and then after a moment: “I’d like to just get one of those pink clouds and put you in it and push you around.”
-s=daisy;e:daisy=happy
+“Look at that,” she whispered,
+s=daisy;e:daisy=happy;m=allowbreak
+
+and then after a moment:
+s=;m=
+
+“I’d like to just get one of those pink clouds and put you in it and push you around.”
+s=daisy
 
 I tried to go then, but they wouldn’t hear of it; perhaps my presence made them feel more satisfactorily alone.
 s=none;e:nick=neutral
@@ -4025,10 +4022,10 @@ s=none;e:nick=neutral
 s=gatsby;e:gatsby=happy
 
 He went out of the room calling “Ewing!” and returned in a few minutes accompanied by an embarrassed, slightly worn young man, with shell-rimmed glasses and scanty blond hair.
-s=none
+s=none;m=dialogue
 
 He was now decently clothed in a “sport shirt,” open at the neck, sneakers, and duck trousers of a nebulous hue.
-e:klipspringer=nervous
+e:klipspringer=nervous;m=
 
 “Did we interrupt your exercise?” inquired Daisy politely.
 s=daisy;e:daisy=neutral
@@ -4052,10 +4049,10 @@ s=klipspringer
 s=gatsby
 
 He flipped a switch. The grey windows disappeared as the house glowed full of light.
-s=none
+b=light;s=
 
 In the music-room Gatsby turned on a solitary lamp beside the piano.
-
+s=none;b=gatsby-large
 
 He lit Daisy’s cigarette from a trembling match, and sat down with her on a couch far across the room, where there was no light save what the gleaming floor bounced in from the hall.
 e:gatsby=nervous
@@ -4073,19 +4070,13 @@ s=gatsby;e:gatsby=serious
 
 
 “In the morning,<br>In the evening,<br>Ain’t we got fun—”
-s=klipspringer;m=margin
+m=margin;m=dialogue
 
-Outside the wind was loud and there was a faint flow of thunder along the Sound.
+Outside the wind was loud and there was a faint flow of thunder along the Sound. All the lights were going on in West Egg now; the electric trains, men-carrying, were plunging home through the rain from New York. It was the hour of a profound human change, and excitement was generating on the air.
 s=none;m=
 
-All the lights were going on in West Egg now; the electric trains, men-carrying, were plunging home through the rain from New York.
-
-
-It was the hour of a profound human change, and excitement was generating on the air.
-
-
 “One thing’s sure and nothing’s surer<br>The rich get richer and the poor get—children.<br>In the meantime,<br>In between time—”
-s=klipspringer;m=margin
+m=margin;m=dialogue
 
 As I went over to say goodbye I saw that the expression of bewilderment had come back into Gatsby’s face, as though a faint doubt had occurred to him as to the quality of his present happiness.
 s=none;e:gatsby=confused;m=
@@ -4093,29 +4084,20 @@ s=none;e:gatsby=confused;m=
 Almost five years! There must have been moments even that afternoon when Daisy tumbled short of his dreams—not through her own fault, but because of the colossal vitality of his illusion.
 e:nick=thinking
 
-It had gone beyond her, beyond everything. He had thrown himself into it with a creative passion, adding to it all the time, decking it out with every bright feather that drifted his way.
-
-
-No amount of fire or freshness can challenge what a man can store up in his ghostly heart.
+It had gone beyond her, beyond everything. He had thrown himself into it with a creative passion, adding to it all the time, decking it out with every bright feather that drifted his way. No amount of fire or freshness can challenge what a man can store up in his ghostly heart.
 
 
 As I watched him he adjusted himself a little, visibly.
 
 
-His hand took hold of hers, and as she said something low in his ear he turned toward her with a rush of emotion.
+His hand took hold of hers, and as she said something low in his ear he turned toward her with a rush of emotion. I think that voice held him most, with its fluctuating, feverish warmth, because it couldn’t be over-dreamed—that voice was a deathless song.
 e:gatsby=happy
 
-I think that voice held him most, with its fluctuating, feverish warmth, because it couldn’t be over-dreamed—that voice was a deathless song.
-
-
-They had forgotten me, but Daisy glanced up and held out her hand; Gatsby didn’t know me now at all.
-
-
-I looked once more at them and they looked back at me, remotely, possessed by intense life.
+They had forgotten me, but Daisy glanced up and held out her hand; Gatsby didn’t know me now at all. I looked once more at them and they looked back at me, remotely, possessed by intense life.
 
 
 Then I went out of the room and down the marble steps into the rain, leaving them there together.
-
+b=light
 
 ## VI
 r=title
