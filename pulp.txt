@@ -6047,7 +6047,7 @@ I was thirty. Before me stretched the portentous, menacing road of a new decade.
 e:nick=weary;s=none
 
 It was seven o’clock when we got into the coupé with him and started for Long Island.
-b=gatsby-car-pov
+b=tom-car-pov
 
 Tom talked incessantly, exulting and laughing, but his voice was as remote from Jordan and me as the foreign clamour on the sidewalk or the tumult of the elevated overhead.
 e:tom=happy
@@ -6071,19 +6071,19 @@ So we drove on toward death through the cooling twilight.
 b=think
 
 The young Greek, Michaelis, who ran the coffee joint beside the ash-heaps was the principal witness at the inquest.
-n:michaelis=Mavro Michaelis
+n:michaelis=Mavro Michaelis;b=ashes-wide;x:nick=hat
 
 He had slept through the heat until after five, when he strolled over to the garage, and found George Wilson sick in his office—really sick, pale as his own pale hair and shaking all over.
-e:wilson=sick
+
 
 Michaelis advised him to go to bed, but Wilson refused, saying that he’d miss a lot of business if he did.
-e:michaelis=neutral
+e:michaelis=neutral;b=garage-office
 
 While his neighbour was trying to persuade him a violent racket broke out overhead.
 
 
 “I’ve got my wife locked in up there,” explained Wilson calmly.
-s=wilson;e:wilson=serious
+s=wilson;e:wilson=weary
 
 “She’s going to stay there till the day after tomorrow, and then we’re going to move away.”
 
@@ -6091,41 +6091,35 @@ s=wilson;e:wilson=serious
 Michaelis was astonished; they had been neighbours for four years, and Wilson had never seemed faintly capable of such a statement.
 s=none;e:michaelis=surprised
 
-Generally he was one of these worn-out men: when he wasn’t working, he sat on a chair in the doorway and stared at the people and the cars that passed along the road.
-
-
-When anyone spoke to him he invariably laughed in an agreeable, colourless way.
-
-
-He was his wife’s man and not his own.
+Generally he was one of these worn-out men: when he wasn’t working, he sat on a chair in the doorway and stared at the people and the cars that passed along the road. When anyone spoke to him he invariably laughed in an agreeable, colourless way. He was his wife’s man and not his own.
 
 
 So naturally Michaelis tried to find out what had happened, but Wilson wouldn’t say a word—instead he began to throw curious, suspicious glances at his visitor and ask him what he’d been doing at certain times on certain days.
 e:wilson=suspicious
 
 Just as the latter was getting uneasy, some workmen came past the door bound for his restaurant, and Michaelis took the opportunity to get away, intending to come back later.
-e:michaelis=wary
+e:michaelis=wary;b=think
 
 But he didn’t. He supposed he forgot to, that’s all.
 
 
 When he came outside again, a little after seven, he was reminded of the conversation because he heard Mrs. Wilson’s voice, loud and scolding, downstairs in the garage.
-
+b=eyes-dusk
 
 “Beat me!” he heard her cry. “Throw me down and beat me, you dirty little coward!”
 s=myrtle;e:myrtle=angry
 
-A moment later she rushed out into the dusk, waving her hands and shouting—before he could move from his door the business was over.
-s=none
+A moment later she rushed out into the dusk, waving her hands and shouting—
+s=none;b=eyes-dusk-rush;m=joined;m=nospace
 
-The “death car” as the newspapers called it, didn’t stop; it came out of the gathering darkness, wavered tragically for a moment, and then disappeared around the next bend.
+before he could move from his door the business was over.
+m=;b=think
 
-
-Mavro Michaelis wasn’t even sure of its colour—he told the first policeman that it was light green.
+The “death car” as the newspapers called it, didn’t stop; it came out of the gathering darkness, wavered tragically for a moment, and then disappeared around the next bend. Mavro Michaelis wasn’t even sure of its colour—he told the first policeman that it was light green.
 
 
 The other car, the one going toward New York, came to rest a hundred yards beyond, and its driver hurried back to where Myrtle Wilson, her life violently extinguished, knelt in the road and mingled her thick dark blood with the dust.
-
+b=eyes-dusk-crowd
 
 Michaelis and this man reached her first, but when they had torn open her shirtwaist, still damp with perspiration, they saw that her left breast was swinging loose like a flap, and there was no need to listen for the heart beneath.
 e:michaelis=fearful
@@ -6134,31 +6128,31 @@ The mouth was wide open and ripped a little at the corners, as though she had ch
 
 
 —
-
+b=think
 
 We saw the three or four automobiles and the crowd when we were still some distance away.
-
+b=tom-car-pov
 
 “Wreck!” said Tom.
-s=tom;e:tom=surprised
+s=tom;e:tom=scowling
 
 “That’s good. Wilson’ll have a little business at last.”
-e:tom=happy
+e:tom=smirking
 
 He slowed down, but still without any intention of stopping, until, as we came nearer, the hushed, intent faces of the people at the garage door made him automatically put on the brakes.
-e:tom=neutral;s=none
+e:tom=neutral;s=none;b=eyes-dusk-crowd
 
 “We’ll take a look,” he said doubtfully, “just a look.”
-s=tom
+s=tom;e:tom=contemplative
 
 I became aware now of a hollow, wailing sound which issued incessantly from the garage, a sound which as we got out of the coupé and walked toward the door resolved itself into the words “Oh, my God!” uttered over and over in a gasping moan.
-s=none;e:nick=nervous
+s=none;e:nick=nervous;m=dialogue
 
 “There’s some bad trouble here,” said Tom excitedly.
-s=tom;e:tom=nervous
+s=tom;e:tom=nervous;m=
 
 He reached up on tiptoes and peered over a circle of heads into the garage, which was lit only by a yellow light in a swinging metal basket overhead.
-s=none
+s=none;b=think
 
 Then he made a harsh sound in his throat, and with a violent thrusting movement of his powerful arms pushed his way through.
 s=none
@@ -6170,7 +6164,7 @@ Then new arrivals deranged the line, and Jordan and I were pushed suddenly insid
 
 
 Myrtle Wilson’s body, wrapped in a blanket, and then in another blanket, as though she suffered from a chill in the hot night, lay on a worktable by the wall, and Tom, with his back to us, was bending over it, motionless.
-e:tom=upset
+e:tom=upset;b=garage-body
 
 Next to him stood a motorcycle policeman taking down names with much sweat and correction in a little book.
 
@@ -6185,13 +6179,13 @@ His eyes would drop slowly from the swinging light to the laden table by the wal
 
 
 “Oh, my Ga-od! Oh, my Ga-od! Oh, Ga-od! Oh, my Ga-od!”
-s=wilson;e:wilson=crying
+m=dialogue
 
 Presently Tom lifted his head with a jerk and, after staring around the garage with glazed eyes, addressed a mumbled incoherent remark to the policeman.
-s=none
+s=none;m=
 
 “*M*-*a*-*v*—” the policeman was saying, “—*o*—”
-s=policeman;e:policeman=neutral
+s=policeman;e:policeman=serious
 
 “No, *r*—” corrected the man, “*M*-*a*-*v*-*r*-*o*—”
 s=michaelis;e:michaelis=serious
@@ -6221,10 +6215,10 @@ s=tom;e:tom=serious
 s=policeman;e:policeman=neutral
 
 “Instantly killed,” repeated Tom, staring.
-s=tom;e:tom=upset
+s=tom;e:tom=staring
 
 “She ran out ina road. Son-of-a-bitch didn’t even stopus car.”
-s=policeman
+s=policeman;e:policeman=thinking
 
 “There was two cars,” said Michaelis, “one comin’, one goin’, see?”
 s=michaelis
@@ -6232,8 +6226,14 @@ s=michaelis
 “Going where?” asked the policeman keenly.
 s=policeman;e:policeman=serious
 
-“One goin’ each way. Well, she”—his hand rose toward the blankets but stopped halfway and fell to his side—“she ran out there an’ the one comin’ from N’York knock right into her, goin’ thirty or forty miles an hour.”
-s=michaelis;e:michaelis=neutral
+“One goin’ each way. Well, she”—
+s=michaelis;e:michaelis=neutral;m=nospace;m=allowbreak
+
+his hand rose toward the blankets but stopped halfway and fell to his side—
+s=
+
+“she ran out there an’ the one comin’ from N’York knock right into her, goin’ thirty or forty miles an hour.”
+s=michaelis;e:michaelis=serious;m=
 
 “What’s the name of this place here?” demanded the officer.
 s=policeman
@@ -6245,16 +6245,16 @@ A pale well-dressed negro stepped near.
 s=none
 
 “It was a yellow car,” he said, “big yellow car. New.”
-s=none
+m=dialogue
 
 “See the accident?” asked the policeman.
-s=policeman
+s=policeman;e:policeman=
 
 “No, but the car passed me down the road, going faster’n forty. Going fifty, sixty.”
 s=none
 
 “Come here and let’s have your name. Look out now. I want to get his name.”
-s=policeman
+s=policeman;m=
 
 Some words of this conversation must have reached Wilson, swaying in the office door, for suddenly a new theme found voice among his grasping cries:
 s=none
@@ -6274,8 +6274,11 @@ s=tom
 Wilson’s eyes fell upon Tom; he started up on his tiptoes and then would have collapsed to his knees had not Tom held him upright.
 s=none;e:wilson=weary
 
-“Listen,” said Tom, shaking him a little. “I just got here a minute ago, from New York. I was bringing you that coupé we’ve been talking about. That yellow car I was driving this afternoon wasn’t mine—do you hear? I haven’t seen it all afternoon.”
+“Listen,” said Tom, shaking him a little.
 s=tom;e:tom=serious
+
+“I just got here a minute ago, from New York. I was bringing you that coupé we’ve been talking about. That yellow car I was driving this afternoon wasn’t mine—do you hear? I haven’t seen it all afternoon.”
+
 
 Only the negro and I were near enough to hear what he said, but the policeman caught something in the tone and looked over with truculent eyes.
 s=none;e:policeman=suspicious
@@ -6322,14 +6325,17 @@ s=none
 Then Tom shut the door on them and came down the single step, his eyes avoiding the table.
 
 
-As he passed close to me he whispered: “Let’s get out.”
+As he passed close to me he whispered:
+
+
+“Let’s get out.”
 s=tom;e:tom=nervous
 
 Self-consciously, with his authoritative arms breaking the way, we pushed through the still gathering crowd, passing a hurried doctor, case in hand, who had been sent for in wild hope half an hour ago.
-s=none
+s=none;b=eyes-dusk-crowd
 
 Tom drove slowly until we were beyond the bend—then his foot came down hard, and the coupé raced along through the night.
-
+b=ashes-wide-night
 
 In a little while I heard a low husky sob, and saw that the tears were overflowing down his face.
 e:tom=crying
@@ -6340,26 +6346,26 @@ s=tom
 —
 s=none
 
-The Buchanans’ house floated suddenly toward us through the dark rustling trees.
-e:tom=neutral
+The Buchanans’ house floated suddenly toward us through the dark rustling trees. Tom stopped beside the porch and looked up at the second floor, where two windows bloomed with light among the vines.
+e:tom=neutral;b=tom-ext-night
 
-Tom stopped beside the porch and looked up at the second floor, where two windows bloomed with light among the vines.
-
-
-“Daisy’s home,” he said. As we got out of the car he glanced at me and frowned slightly.
+“Daisy’s home,” he said.
 s=tom;e:tom=serious
 
-“I ought to have dropped you in West Egg, Nick. There’s nothing we can do tonight.”
+As we got out of the car he glanced at me and frowned slightly.
+s=
 
+“I ought to have dropped you in West Egg, Nick. There’s nothing we can do tonight.”
+s=tom;e:tom=thinking
 
 A change had come over him, and he spoke gravely, and with decision.
 s=none
 
 As we walked across the moonlight gravel to the porch he disposed of the situation in a few brisk phrases.
-
+b=tom-porch
 
 “I’ll telephone for a taxi to take you home, and while you’re waiting you and Jordan better go in the kitchen and have them get you some supper—if you want any.”
-s=tom
+s=tom;e:tom=serious
 
 He opened the door.
 s=none
@@ -6395,7 +6401,7 @@ I sat down for a few minutes with my head in my hands, until I heard the phone t
 
 
 Then I walked slowly down the drive away from the house, intending to wait by the gate.
-e:nick=weary
+e:nick=weary;b=tom-gate-night
 
 I hadn’t gone twenty yards when I heard my name and Gatsby stepped from between two bushes into the path.
 
@@ -6404,10 +6410,10 @@ I must have felt pretty weird by that time, because I could think of nothing exc
 
 
 “What are you doing?” I inquired.
-s=nick;e:nick=neutral
+s=nick;e:nick=serious
 
 “Just standing here, old sport.”
-s=gatsby;e:gatsby=serious
+s=gatsby;e:gatsby=thinking
 
 Somehow, that seemed a despicable occupation.
 s=none;e:nick=annoyed
@@ -6437,24 +6443,27 @@ He spoke as if Daisy’s reaction was the only thing that mattered.
 s=none;e:nick=annoyed
 
 “I got to West Egg by a side road,” he went on, “and left the car in my garage. I don’t think anybody saw us, but of course I can’t be sure.”
-s=gatsby
+s=gatsby;e:gatsby=thinking
 
 I disliked him so much by this time that I didn’t find it necessary to tell him he was wrong.
 s=none
 
 “Who was the woman?” he inquired.
-s=gatsby
+s=gatsby;e:gatsby=serious
 
 “Her name was Wilson. Her husband owns the garage. How the devil did it happen?”
 s=nick;e:nick=angry
 
-“Well, I tried to swing the wheel—” He broke off, and suddenly I guessed at the truth.
+“Well, I tried to swing the wheel—”
 s=gatsby;e:gatsby=nervous
+
+He broke off, and suddenly I guessed at the truth.
+s=
 
 “Was Daisy driving?”
 s=nick;e:nick=surprised
 
-“Yes,” he said after a moment, “but of course I’ll say I was.”<e>So we're just doing full-on <book>Bonfire of the Vanities</book> plagiarism now.</e>
+“Yes,” he said after a moment, “but of course I’ll say I was.”<e>Full-on <book>Bonfire of the Vanities</book> plagiarism.</e>
 s=gatsby;e:gatsby=serious
 
 “You see, when we left New York she was very nervous and she thought it would steady her to drive—and this woman rushed out at us just as we were passing a car coming the other way.”
@@ -6467,7 +6476,7 @@ s=gatsby;e:gatsby=serious
 
 
 “It ripped her open—”
-s=nick;e:nick=upset
+s=nick;e:nick=scowling
 
 “Don’t tell me, old sport.”
 s=gatsby;e:gatsby=unhappy
@@ -6491,10 +6500,10 @@ s=nick;e:nick=weary
 s=gatsby;e:gatsby=wary
 
 “How long are you going to wait?”
-s=nick
+s=nick;e:nick=serious
 
 “All night, if necessary. Anyhow, till they all go to bed.”
-s=gatsby
+s=gatsby;e:gatsby=serious
 
 A new point of view occurred to me. Suppose Tom found out that Daisy had been driving. He might think he saw a connection in it—he might think anything.
 s=none;e:nick=thinking
@@ -6503,16 +6512,16 @@ I looked at the house; there were two or three bright windows downstairs and the
 
 
 “You wait here,” I said. “I’ll see if there’s any sign of a commotion.”
-s=nick;e:nick=neutral
+s=nick;e:nick=serious
 
 I walked back along the border of the lawn, traversed the gravel softly, and tiptoed up the veranda steps. The drawing-room curtains were open, and I saw that the room was empty.
-s=none
+s=none;b=think
 
 Crossing the porch where we had dined that June night three months before, I came to a small rectangle of light which I guessed was the pantry window. The blind was drawn, but I found a rift at the sill.
 
 
 Daisy and Tom were sitting opposite each other at the kitchen table, with a plate of cold fried chicken between them, and two bottles of ale.
-
+b=rift-view
 
 He was talking intently across the table at her, and in his earnestness his hand had fallen upon and covered her own. Once in a while she looked up at him and nodded in agreement.
 
@@ -6524,7 +6533,7 @@ There was an unmistakable air of natural intimacy about the picture, and anybody
 
 
 As I tiptoed from the porch I heard my taxi feeling its way along the dark road toward the house.
-
+b=tom-gate-night
 
 Gatsby was waiting where I had left him in the drive.
 
