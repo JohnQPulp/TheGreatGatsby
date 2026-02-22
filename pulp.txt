@@ -7556,7 +7556,7 @@ e:nick=wary;b=gatsby-large
 s=nick;o=phone
 
 “Oh!” He sounded relieved. “This is Klipspringer.”
-m=dialogue;s=
+s=klipspringer;e:klipspringer=surprised
 
 I was relieved too, for that seemed to promise another friend at Gatsby’s grave.
 s=none;e:nick=happy
@@ -7571,7 +7571,7 @@ e:nick=weary
 s=nick;e:nick=thinking
 
 “Oh, I will,” he broke out hastily. “Of course I’m not likely to see anybody, but if I do.”
-s=
+s=klipspringer;e:klipspringer=nervous
 
 His tone made me suspicious.
 s=none;e:nick=suspicious
@@ -7580,22 +7580,22 @@ s=none;e:nick=suspicious
 s=nick
 
 “Well, I’ll certainly try. What I called up about is—”
-s=
+s=klipspringer
 
 “Wait a minute,” I interrupted. “How about saying you’ll come?”
 s=nick;e:nick=annoyed
 
 “Well, the fact is—the truth of the matter is that I’m staying with some people up here in Greenwich, and they rather expect me to be with them tomorrow. In fact, there’s a sort of picnic or something. Of course I’ll do my best to get away.”
-s=
+s=klipspringer;e:klipspringer=thinking
 
 I ejaculated an unrestrained “Huh!” and he must have heard me, for he went on nervously:
-s=none;e:nick=angry
+s=none;e:nick=angry;m=dialogue
 
 “What I called up about was a pair of shoes I left there. I wonder if it’d be too much trouble to have the butler send them on. You see, they’re tennis shoes, and I’m sort of helpless without them. My address is care of B. F.—”
-
+s=klipspringer;e:klipspringer=nervous
 
 I didn’t hear the rest of the name, because I hung up the receiver.
-s=none;m=
+s=none;m=;o=
 
 After that I felt a certain shame for Gatsby—one gentleman to whom I telephoned implied that he had got what he deserved.
 e:nick=unhappy
