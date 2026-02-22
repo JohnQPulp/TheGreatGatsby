@@ -7292,7 +7292,7 @@ e:nick=upset
 r=title
 
 After two years I remember the rest of that day, and that night and the next day, only as an endless drill of police and photographers and newspaper men in and out of Gatsby’s front door.
-e:nick=weary
+e:nick=weary;b=eggs-wide
 
 A rope stretched across the main gate and a policeman by it kept out the curious, but little boys soon discovered that they could enter through my yard, and there were always a few of them clustered open-mouthed about the pool.
 
@@ -7312,10 +7312,7 @@ She showed a surprising amount of character about it too—looked at the coroner
 She convinced herself of it, and cried into her handkerchief, as if the very suggestion was more than she could endure.
 
 
-So Wilson was reduced to a man “deranged by grief” in order that the case might remain in its simplest form.
-
-
-And it rested there.
+So Wilson was reduced to a man “deranged by grief” in order that the case might remain in its simplest form. And it rested there.
 e:nick=neutral
 
 But all this part of it seemed remote and unessential.
@@ -7325,7 +7322,7 @@ I found myself on Gatsby’s side, and alone. From the moment I telephoned news 
 e:nick=serious
 
 At first I was surprised and confused; then, as he lay in his house and didn’t move or breathe or speak, hour upon hour, it grew upon me that I was responsible, because no one else was interested—interested, I mean, with that intense personal interest to which everyone has some vague right at the end.
-e:nick=weary
+e:nick=weary;b=gatsby-large
 
 I called up Daisy half an hour after we found him, called her instinctively and without hesitation.
 e:nick=serious
@@ -7334,25 +7331,25 @@ But she and Tom had gone away early that afternoon, and taken baggage with them.
 e:nick=surprised
 
 “Left no address?”
-n:servant=Servant;s=nick
+m=dialogue;s=nick;o=phone;e:nick=serious
 
 “No.”
-s=servant
+s=
 
 “Say when they’d be back?”
 s=nick
 
 “No.”
-s=servant
+s=
 
 “Any idea where they are? How I could reach them?”
 s=nick
 
 “I don’t know. Can’t say.”
-s=servant
+s=
 
 I wanted to get somebody for him.
-s=none;e:nick=unhappy
+s=none;e:nick=unhappy;m=;o=
 
 I wanted to go into the room where he lay and reassure him: “I’ll get somebody for you, Gatsby. Don’t worry. Just trust me and I’ll get somebody for you—”
 e:nick=crying
@@ -7364,34 +7361,34 @@ The butler gave me his office address on Broadway, and I called Information, but
 
 
 “Will you ring again?”
-s=nick
+s=nick;o=phone
 
 “I’ve rung three times.”
-n:operator=Operator;s=operator
+m=dialogue;s=
 
 “It’s very important.”
 s=nick
 
 “Sorry. I’m afraid no one’s there.”
-s=operator
+s=
 
 I went back to the drawing-room and thought for an instant that they were chance visitors, all these official people who suddenly filled it.
-s=none;e:nick=confused
+s=none;e:nick=confused;m=;o=;b=gatsby-drawing
 
 But, though they drew back the sheet and looked at Gatsby with shocked eyes, his protest continued in my brain:
 e:nick=upset
 
 “Look here, old sport, you’ve got to get somebody for me. You’ve got to try hard. I can’t go through this alone.”
-
+m=dialogue
 
 Someone started to ask me questions, but I broke away and going upstairs looked hastily through the unlocked parts of his desk—he’d never told me definitely that his parents were dead.
-s=none;e:nick=nervous
+s=none;e:nick=nervous;m=;b=gatsby-bedroom
 
 But there was nothing—only the picture of Dan Cody, a token of forgotten violence, staring down from the wall.
 e:nick=weary
 
 Next morning I sent the butler to New York with a letter to Wolfshiem, which asked for information and urged him to come out on the next train.
-e:nick=serious
+e:nick=serious;b=think
 
 That request seemed superfluous when I wrote it.
 
@@ -7400,19 +7397,13 @@ I was sure he’d start when he saw the newspapers, just as I was sure there’d
 e:nick=unhappy
 
 When the butler brought back Wolfshiem’s answer I began to have a feeling of defiance, of scornful solidarity between Gatsby and me against them all.
-e:nick=angry
+e:nick=angry;b=gatsby-large
 
-Dear Mr. Carraway. This has been one of the most terrible shocks of my life to me I hardly can believe it that it is true at all.
+Dear Mr. Carraway. This has been one of the most terrible shocks of my life to me I hardly can believe it that it is true at all. Such a mad act as that man did should make us all think.
 m=margin
 
-Such a mad act as that man did should make us all think.
-e:wolfshiem=serious
-
-I cannot come down now as I am tied up in some very important business and cannot get mixed up in this thing now.
+I cannot come down now as I am tied up in some very important business and cannot get mixed up in this thing now. If there is anything I can do a little later let me know in a letter by Edgar.
 e:wolfshiem=wary
-
-If there is anything I can do a little later let me know in a letter by Edgar.
-
 
 I hardly know where I am when I hear about a thing like this and am completely knocked down and out.
 e:wolfshiem=upset
@@ -7430,10 +7421,10 @@ When the phone rang that afternoon and Long Distance said Chicago was calling I 
 s=none;e:nick=excited;m=
 
 But the connection came through as a man’s voice, very thin and far away.
-e:nick=confused
+e:nick=confused;o=phone
 
 “This is Slagle speaking…”
-n:slagle=Slagle;s=slagle
+m=dialogue;s=
 
 “Yes?”
 s=nick
@@ -7442,13 +7433,13 @@ The name was unfamiliar.
 s=none
 
 “Hell of a note, isn’t it? Get my wire?”
-s=slagle;e:slagle=annoyed
+
 
 “There haven’t been any wires.”
-s=nick;e:nick=neutral
+s=nick;e:nick=serious
 
 “Young Parke’s in trouble,” he said rapidly. “They picked him up when he handed the bonds over the counter. They got a circular from New York giving ’em the numbers just five minutes before.”
-s=slagle;e:slagle=serious
+s=
 
 “What d’you know about that, hey? You never can tell in these hick towns—”
 
@@ -7456,14 +7447,17 @@ s=slagle;e:slagle=serious
 “Hello!”
 s=nick;e:nick=surprised
 
-I interrupted breathlessly. “Look here—this isn’t Mr. Gatsby. Mr. Gatsby’s dead.”
-e:nick=serious
+I interrupted breathlessly.
+s=
+
+“Look here—this isn’t Mr. Gatsby. Mr. Gatsby’s dead.”
+s=nick;e:nick=serious
 
 There was a long silence on the other end of the wire, followed by an exclamation… then a quick squawk as the connection was broken.
-s=none
+s=none;o=
 
 —
-
+b=light
 
 I think it was on the third day that a telegram signed Henry C. Gatz arrived from a town in Minnesota.
 e:nick=neutral
@@ -7472,13 +7466,13 @@ It said only that the sender was leaving immediately and to postpone the funeral
 
 
 It was Gatsby’s father, a solemn old man, very helpless and dismayed, bundled up in a long cheap ulster against the warm September day.
-n:gatz=Mr. Gatz;e:gatz=weary
+n:gatz=Mr. Gatz;e:gatz=weary;c=gatz
 
 His eyes leaked continuously with excitement, and when I took the bag and umbrella from his hands he began to pull so incessantly at his sparse grey beard that I had difficulty in getting off his coat.
-e:gatz=nervous
+e:gatz=nervous;c=
 
 He was on the point of collapse, so I took him into the music-room and made him sit down while I sent for something to eat.
-e:gatz=upset
+e:gatz=unhappy;b=gatsby-large
 
 But he wouldn’t eat, and the glass of milk spilled from his trembling hand.
 
@@ -7487,13 +7481,13 @@ But he wouldn’t eat, and the glass of milk spilled from his trembling hand.
 s=gatz
 
 “I didn’t know how to reach you.”
-s=nick;e:nick=sad
+s=nick;e:nick=unhappy
 
 His eyes, seeing nothing, moved ceaselessly about the room.
 s=none;e:gatz=confused
 
 “It was a madman,” he said. “He must have been mad.”
-s=gatz;e:gatz=fearful
+s=gatz;e:gatz=contemplative
 
 “Wouldn’t you like some coffee?” I urged him.
 s=nick
@@ -7502,31 +7496,31 @@ s=nick
 s=gatz;e:gatz=weary
 
 “Carraway.”
-s=nick
+s=nick;e:nick=thinking
 
 “Well, I’m all right now. Where have they got Jimmy?”
 s=gatz
 
 I took him into the drawing-room, where his son lay, and left him there.
-s=none
+s=none;b=gatsby-drawing
 
 Some little boys had come up on the steps and were looking into the hall; when I told them who had arrived, they went reluctantly away.
-e:nick=neutral
+e:nick=neutral;b=gatsby-front-steps
 
 After a little while Mr. Gatz opened the door and came out, his mouth ajar, his face flushed slightly, his eyes leaking isolated and unpunctual tears.
-e:gatz=crying
+e:gatz=crying;b=gatsby-large
 
 He had reached an age where death no longer has the quality of ghastly surprise, and when he looked around him now for the first time and saw the height and splendour of the hall and the great rooms opening out from it into other rooms, his grief began to be mixed with an awed pride.
 e:gatz=surprised
 
 I helped him to a bedroom upstairs; while he took off his coat and vest I told him that all arrangements had been deferred until he came.
-
+b=gatsby-bedroom;x:gatz=coatless
 
 “I didn’t know what you’d want, Mr. Gatsby—”
 s=nick;e:nick=nervous
 
 “Gatz is my name.”
-s=gatz;e:gatz=neutral
+s=gatz;e:gatz=thinking
 
 “—Mr. Gatz. I thought you might want to take the body West.”
 s=nick
@@ -7535,19 +7529,19 @@ He shook his head.
 s=none
 
 “Jimmy always liked it better down East. He rose up to his position in the East. Were you a friend of my boy’s, Mr.—?”
-s=gatz;e:gatz=happy
+s=gatz;e:gatz=contemplative
 
 “We were close friends.”
-s=nick;e:nick=neutral
+s=nick;e:nick=contemplative
 
 “He had a big future before him, you know. He was only a young man, but he had a lot of brain power here.”
-s=gatz
+s=gatz;e:gatz=head
 
 He touched his head impressively, and I nodded.
 s=none
 
 “If he’d of lived, he’d of been a great man. A man like James J. Hill. He’d of helped build up the country.”
-s=gatz
+s=gatz;e:gatz=thinking
 
 “That’s true,” I said, uncomfortably.
 s=nick;e:nick=nervous
@@ -7556,13 +7550,13 @@ He fumbled at the embroidered coverlet, trying to take it from the bed, and lay 
 s=none;e:gatz=weary
 
 That night an obviously frightened person called up, and demanded to know who I was before he would give his name.
-e:nick=wary
+e:nick=wary;b=gatsby-large
 
 “This is Mr. Carraway,” I said.
-s=nick
+s=nick;o=phone
 
 “Oh!” He sounded relieved. “This is Klipspringer.”
-s=klipspringer;e:klipspringer=nervous
+m=dialogue;s=
 
 I was relieved too, for that seemed to promise another friend at Gatsby’s grave.
 s=none;e:nick=happy
@@ -7573,14 +7567,11 @@ I didn’t want it to be in the papers and draw a sightseeing crowd, so I’d be
 They were hard to find.
 e:nick=weary
 
-“The funeral’s tomorrow,” I said.
-s=nick
-
-“Three o’clock, here at the house. I wish you’d tell anybody who’d be interested.”
-
+“The funeral’s tomorrow,” I said. “Three o’clock, here at the house. I wish you’d tell anybody who’d be interested.”
+s=nick;e:nick=thinking
 
 “Oh, I will,” he broke out hastily. “Of course I’m not likely to see anybody, but if I do.”
-s=klipspringer
+s=
 
 His tone made me suspicious.
 s=none;e:nick=suspicious
@@ -7589,22 +7580,22 @@ s=none;e:nick=suspicious
 s=nick
 
 “Well, I’ll certainly try. What I called up about is—”
-s=klipspringer
+s=
 
 “Wait a minute,” I interrupted. “How about saying you’ll come?”
 s=nick;e:nick=annoyed
 
 “Well, the fact is—the truth of the matter is that I’m staying with some people up here in Greenwich, and they rather expect me to be with them tomorrow. In fact, there’s a sort of picnic or something. Of course I’ll do my best to get away.”
-s=klipspringer;e:klipspringer=wary
+s=
 
 I ejaculated an unrestrained “Huh!” and he must have heard me, for he went on nervously:
 s=none;e:nick=angry
 
 “What I called up about was a pair of shoes I left there. I wonder if it’d be too much trouble to have the butler send them on. You see, they’re tennis shoes, and I’m sort of helpless without them. My address is care of B. F.—”
-s=klipspringer;e:klipspringer=nervous
+
 
 I didn’t hear the rest of the name, because I hung up the receiver.
-s=none
+s=none;m=
 
 After that I felt a certain shame for Gatsby—one gentleman to whom I telephoned implied that he had got what he deserved.
 e:nick=unhappy
@@ -7613,10 +7604,10 @@ However, that was my fault, for he was one of those who used to sneer most bitte
 e:nick=angry
 
 The morning of the funeral I went up to New York to see Meyer Wolfshiem; I couldn’t seem to reach him any other way.
-e:nick=neutral
+e:nick=neutral;b=york-wide
 
 The door that I pushed open, on the advice of an elevator boy, was marked “The Swastika Holding Company,” and at first there didn’t seem to be anyone inside.<e>lmao</e>
-
+b=meyer-lobby
 
 But when I’d shouted “hello” several times in vain, an argument broke out behind a partition, and presently a lovely Jewess appeared at an interior door and scrutinized me with black hostile eyes.
 n:stella=?;e:stella=annoyed
@@ -7634,10 +7625,10 @@ s=nick
 s=stella
 
 At this moment a voice, unmistakably Wolfshiem’s, called “Stella!” from the other side of the door.
-s=wolfshiem
+m=dialogue
 
 “Leave your name on the desk,” she said quickly. “I’ll give it to him when he gets back.”
-s=stella;e:stella=nervous;n:stella=Stella
+s=stella;e:stella=annoyed;n:stella=Stella;m=
 
 “But I know he’s there.”
 s=nick;e:nick=annoyed
@@ -7645,11 +7636,8 @@ s=nick;e:nick=annoyed
 She took a step toward me and began to slide her hands indignantly up and down her hips.
 s=none;e:stella=angry
 
-“You young men think you can force your way in here any time,” she scolded.
-s=stella
-
-“We’re getting sickantired of it. When I say he’s in Chicago, he’s in Chi*ca*go.”
-
+“You young men think you can force your way in here any time,” she scolded. “We’re getting sickantired of it. When I say he’s in Chicago, he’s in Chi*ca*go.”
+s=stella;e:stella=scowling
 
 I mentioned Gatsby.
 s=none
@@ -7657,8 +7645,11 @@ s=none
 “Oh-h!”
 s=stella;e:stella=surprised
 
-She looked at me over again. “Will you just—What was your name?”
-e:stella=neutral
+She looked at me over again.
+s=
+
+“Will you just—What was your name?”
+e:stella=annoyed;s=stella
 
 She vanished.
 s=none
@@ -7667,7 +7658,7 @@ In a moment Meyer Wolfshiem stood solemnly in the doorway, holding out both hand
 e:wolfshiem=serious
 
 He drew me into his office, remarking in a reverent voice that it was a sad time for all of us, and offered me a cigar.
-
+b=meyer-office
 
 “My memory goes back to when first I met him,” he said.
 s=wolfshiem;e:wolfshiem=contemplative
@@ -7679,7 +7670,7 @@ s=wolfshiem;e:wolfshiem=contemplative
 
 
 “Did you start him in business?” I inquired.
-s=nick;e:nick=neutral
+s=nick;e:nick=contemplative
 
 “Start him! I made him.”
 s=wolfshiem;e:wolfshiem=serious
@@ -7688,7 +7679,7 @@ s=wolfshiem;e:wolfshiem=serious
 s=nick
 
 “I raised him up out of nothing, right out of the gutter. I saw right away he was a fine-appearing, gentlemanly young man, and when he told me he was at Oggsford I knew I could use him good.”
-s=wolfshiem
+s=wolfshiem;e:wolfshiem=thinking
 
 “I got him to join the American Legion and he used to stand high there. Right off he did some work for a client of mine up to Albany. We were so thick like that in everything”—he held up two bulbous fingers—“always together.”
 
@@ -7703,16 +7694,16 @@ s=nick
 
 
 “I’d like to come.”
-s=wolfshiem;e:wolfshiem=sad
+s=wolfshiem;e:wolfshiem=unhappy
 
 “Well, come then.”
-s=nick
+s=nick;e:nick=serious
 
 The hair in his nostrils quivered slightly, and as he shook his head his eyes filled with tears.
 s=none;e:wolfshiem=crying
 
 “I can’t do it—I can’t get mixed up in it,” he said.
-s=wolfshiem;e:wolfshiem=nervous
+s=wolfshiem
 
 “There’s nothing to get mixed up in. It’s all over now.”
 s=nick
@@ -7730,27 +7721,36 @@ For a moment I thought he was going to suggest a “gonnegtion,” but he only n
 s=none;e:nick=wary
 
 “Let us learn to show our friendship for a man when he is alive and not after he is dead,” he suggested.
-s=wolfshiem
+s=wolfshiem;e:wolfshiem=contemplative
 
 “After that my own rule is to let everything alone.”
-
+e:wolfshiem=serious
 
 When I left his office the sky had turned dark and I got back to West Egg in a drizzle.
-s=none;e:nick=weary
+s=none;e:nick=weary;b=eggs-wide-rain
 
 After changing my clothes I went next door and found Mr. Gatz walking up and down excitedly in the hall.
-e:gatz=excited
+e:gatz=happy;b=gatsby-large
 
 His pride in his son and in his son’s possessions was continually increasing and now he had something to show me.
 
 
-“Jimmy sent me this picture.” He took out his wallet with trembling fingers. “Look there.”
+“Jimmy sent me this picture.”
+s=gatz
+
+He took out his wallet with trembling fingers.
+s=
+
+“Look there.”
 s=gatz
 
 It was a photograph of the house, cracked in the corners and dirty with many hands.
 s=none
 
-He pointed out every detail to me eagerly. “Look there!” and then sought admiration from my eyes.
+He pointed out every detail to me eagerly.
+
+
+“Look there!” and then sought admiration from my eyes.
 s=gatz;e:gatz=happy
 
 He had shown it so often that I think it was more real to him now than the house itself.
@@ -7760,13 +7760,13 @@ s=none;e:nick=thinking
 s=gatz
 
 “Very well. Had you seen him lately?”
-s=nick;e:nick=neutral
+s=nick;e:nick=contemplative
 
 “He come out to see me two years ago and bought me the house I live in now. Of course we was broke up when he run off from home, but I see now there was a reason for it.”
-s=gatz
+s=gatz;e:gatz=
 
 “He knew he had a big future in front of him. And ever since he made a success he was very generous with me.”
-
+e:gatz=happy
 
 He seemed reluctant to put away the picture, held it for another minute, lingeringly, before my eyes.
 s=none
@@ -7802,7 +7802,7 @@ s=gatz
 
 
 “He told me I et like a hog once, and I beat him for it.”
-e:gatz=thinking
+e:gatz=contemplative
 
 He was reluctant to close the book, reading each item aloud and then looking eagerly at me. I think he rather expected me to copy down the list for my own use.
 s=none;e:gatz=happy
@@ -7820,10 +7820,10 @@ But it wasn’t any use. Nobody came.
 e:nick=unhappy
 
 —
-
+b=think
 
 About five o’clock our procession of three cars reached the cemetery and stopped in a thick drizzle beside the gate—first a motor hearse, horribly black and wet, then Mr. Gatz and the minister and me in the limousine, and a little later four or five servants and the postman from West Egg, in Gatsby’s station wagon, all wet to the skin.
-
+b=cemetery
 
 As we started through the gate into the cemetery I heard a car stop and then the sound of someone splashing after us over the soggy ground.
 e:nick=surprised
@@ -7841,31 +7841,28 @@ I tried to think about Gatsby then for a moment, but he was already too far away
 e:nick=contemplative
 
 Dimly I heard someone murmur “Blessed are the dead that the rain falls on,” and then the owl-eyed man said “Amen to that,” in a brave voice.
-s=owleyes
+m=dialogue
 
 We straggled down quickly through the rain to the cars. Owl-eyes spoke to me by the gate.
-s=none
+s=none;m=
 
 “I couldn’t get to the house,” he remarked.
-s=owleyes;e:owleyes=sad
+s=owleyes;e:owleyes=unhappy
 
 “Neither could anybody else.”
-s=nick
+s=nick;e:nick=unhappy
 
-“Go on!” He started.
+“Go on!” He started. “Why, my God! they used to go there by the hundreds.”
 s=owleyes;e:owleyes=surprised
 
-“Why, my God! they used to go there by the hundreds.”
-
-
 He took off his glasses and wiped them again, outside and in.
-s=none;e:owleyes=crying
+s=none;e:owleyes=unhappy
 
 “The poor son-of-a-bitch,” he said.
 s=owleyes
 
 —
-s=
+s=;b=think
 
 One of my most vivid memories is of coming back West from prep school and later from college at Christmas time.
 s=none;e:nick=contemplative
@@ -7873,14 +7870,11 @@ s=none;e:nick=contemplative
 Those who went farther than Chicago would gather in the old dim Union Station at six o’clock of a December evening, with a few Chicago friends, already caught up into their own holiday gaieties, to bid them a hasty goodbye.
 
 
-I remember the fur coats of the girls returning from Miss This-or-That’s and the chatter of frozen breath and the hands waving overhead as we caught sight of old acquaintances, and the matchings of invitations: “Are you going to the Ordways’? the Herseys’? the Schultzes’?”
-
-
-and the long green tickets clasped tight in our gloved hands.
-
+I remember the fur coats of the girls returning from Miss This-or-That’s and the chatter of frozen breath and the hands waving overhead as we caught sight of old acquaintances, and the matchings of invitations: “Are you going to the Ordways’? the Herseys’? the Schultzes’?” and the long green tickets clasped tight in our gloved hands.
+m=dialogue
 
 And last the murky yellow cars of the Chicago, Milwaukee and St. Paul railroad looking cheerful as Christmas itself on the tracks beside the gate.
-e:nick=happy
+e:nick=happy;m=
 
 When we pulled out into the winter night and the real snow, our snow, began to stretch out beside us and twinkle against the windows, and the dim lights of small Wisconsin stations moved by, a sharp wild brace came suddenly into the air.
 
@@ -7888,14 +7882,14 @@ When we pulled out into the winter night and the real snow, our snow, began to s
 We drew in deep breaths of it as we walked back from dinner through the cold vestibules, unutterably aware of our identity with this country for one strange hour, before we melted indistinguishably into it again.
 
 
-That’s my Middle West—not the wheat or the prairies or the lost Swede towns, but the thrilling returning trains of my youth, and the street lamps and sleigh bells in the frosty dark and the shadows of holly wreaths thrown by lighted windows on the snow.
+That’s my Middle West—not the wheat or the prairies or the lost Swede towns, but the thrilling returning trains of my youth, and the street lamps and sleigh bells in the frosty dark and the shadows of holly wreaths thrown by lighted windows on the snow.<e>You're difficult to impress, Nick. Those Swede towns have goats grazing on the roofs.</e>
 
 
 I am part of that, a little solemn with the feel of those long winters, a little complacent from growing up in the Carraway house in a city where dwellings are still called through decades by a family’s name.
 e:nick=contemplative
 
 I see now that this has been a story of the West, after all—Tom and Gatsby, Daisy and Jordan and I, were all Westerners, and perhaps we possessed some deficiency in common which made us subtly unadaptable to Eastern life.
-
+b=eggs-wide-night
 
 Even when the East excited me most, even when I was most keenly aware of its superiority to the bored, sprawling, swollen towns beyond the Ohio, with their interminable inquisitions which spared only the children and the very old—even then it had always for me a quality of distortion.
 
@@ -7906,23 +7900,14 @@ West Egg, especially, still figures in my more fantastic dreams.
 I see it as a night scene by El Greco: a hundred houses, at once conventional and grotesque, crouching under a sullen, overhanging sky and a lustreless moon.
 e:nick=serious
 
-In the foreground four solemn men in dress suits are walking along the sidewalk with a stretcher on which lies a drunken woman in a white evening dress.
-
-
-Her hand, which dangles over the side, sparkles cold with jewels.
-
-
-Gravely the men turn in at a house—the wrong house.
-
-
-But no one knows the woman’s name, and no one cares.
+In the foreground four solemn men in dress suits are walking along the sidewalk with a stretcher on which lies a drunken woman in a white evening dress. Her hand, which dangles over the side, sparkles cold with jewels. Gravely the men turn in at a house—the wrong house. But no one knows the woman’s name, and no one cares.
 
 
 After Gatsby’s death the East was haunted for me like that, distorted beyond my eyes’ power of correction.
 e:nick=unhappy
 
 So when the blue smoke of brittle leaves was in the air and the wind blew the wet laundry stiff on the line I decided to come back home.
-e:nick=contemplative
+e:nick=contemplative;b=think
 
 There was one thing to be done before I left, an awkward, unpleasant thing that perhaps had better have been let alone.
 e:nick=serious
@@ -7931,7 +7916,7 @@ But I wanted to leave things in order and not just trust that obliging and indif
 
 
 I saw Jordan Baker and talked over and around what had happened to us together, and what had happened afterward to me, and she lay perfectly still, listening, in a big chair.
-
+x:jordan=golf;b=golf-chair
 
 She was dressed to play golf, and I remember thinking she looked like a good illustration, her chin raised a little jauntily, her hair the colour of an autumn leaf, her face the same brown tint as the fingerless glove on her knee.
 e:jordan=neutral
@@ -7955,16 +7940,19 @@ We shook hands.
 s=none;e:nick=neutral;e:jordan=neutral
 
 “Oh, and do you remember”—she added—“a conversation we had once about driving a car?”
-s=jordan
+s=jordan;e:jordan=thinking
 
 “Why—not exactly.”
-s=nick
+s=nick;e:nick=contemplative
 
-“You said a bad driver was only safe until she met another bad driver? Well, I met another bad driver, didn’t I?”
+“You said a bad driver was only safe until she met another bad driver?”
+s=jordan
+
+“Well, I met another bad driver, didn’t I?”
 s=jordan;e:jordan=smirking
 
 “I mean it was careless of me to make such a wrong guess. I thought you were rather an honest, straightforward person. I thought it was your secret pride.”
-
+e:jordan=thinking
 
 “I’m thirty,” I said. “I’m five years too old to lie to myself and call it honour.”
 s=nick;e:nick=serious
@@ -7976,10 +7964,10 @@ Angry, and half in love with her, and tremendously sorry, I turned away.
 e:nick=unhappy
 
 —
-
+b=think
 
 One afternoon late in October I saw Tom Buchanan.
-e:nick=serious;e:tom=serious
+e:nick=serious;e:tom=serious;b=fifth-avenue;x:nick=hat
 
 He was walking ahead of me along Fifth Avenue in his alert, aggressive way, his hands out a little from his body as if to fight off interference, his head moving sharply here and there, adapting itself to his restless eyes.
 
@@ -7988,13 +7976,13 @@ Just as I slowed up to avoid overtaking him he stopped and began frowning into t
 
 
 Suddenly he saw me and walked back, holding out his hand.
-e:tom=happy
+e:tom=
 
 “What’s the matter, Nick? Do you object to shaking hands with me?”
 s=tom
 
 “Yes. You know what I think of you.”
-s=nick;e:nick=angry;e:tom=surprised
+s=nick;e:nick=angry;e:tom=serious
 
 “You’re crazy, Nick,” he said quickly. “Crazy as hell. I don’t know what’s the matter with you.”
 s=tom;e:tom=angry
@@ -8012,7 +8000,7 @@ I started to turn away, but he took a step after me and grabbed my arm.
 s=tom;e:tom=serious
 
 “He came to the door while we were getting ready to leave, and when I sent down word that we weren’t in he tried to force his way upstairs. He was crazy enough to kill me if I hadn’t told him who owned the car.”
-e:tom=nervous
+
 
 “His hand was on a revolver in his pocket every minute he was in the house—”
 
@@ -8027,7 +8015,7 @@ There was nothing I could say, except the one unutterable fact that it wasn’t 
 s=none;e:nick=contemplative
 
 “And if you think I didn’t have my share of suffering—look here, when I went to give up that flat and saw that damn box of dog biscuits sitting there on the sideboard, I sat down and cried like a baby. By God it was awful—”
-s=tom;e:tom=upset
+s=tom;e:tom=unhappy
 
 I couldn’t forgive him or like him, but I saw that what he had done was, to him, entirely justified.
 s=none;e:nick=neutral;e:tom=neutral
@@ -8045,10 +8033,10 @@ Then he went into the jewellery store to buy a pearl necklace—or perhaps only 
 
 
 —
-
+b=think
 
 Gatsby’s house was still empty when I left—the grass on his lawn had grown as long as mine.
-e:nick=contemplative
+e:nick=contemplative;b=eggs-wide-night
 
 One of the taxi drivers in the village never took a fare past the entrance gate without stopping for a minute and pointing inside; perhaps it was he who drove Daisy and Gatsby over to East Egg the night of the accident, and perhaps he had made a story about it all his own.
 
@@ -8057,22 +8045,22 @@ I didn’t want to hear it and I avoided him when I got off the train.
 
 
 I spent my Saturday nights in New York because those gleaming, dazzling parties of his were with me so vividly that I could still hear the music and the laughter, faint and incessant, from his garden, and the cars going up and down his drive.
-e:nick=happy
+e:nick=happy;b=york-wide-night
 
 One night I did hear a material car there, and saw its lights stop at his front steps.
-e:nick=curious
+e:nick=curious;b=eggs-wide-night
 
 But I didn’t investigate. Probably it was some final guest who had been away at the ends of the earth and didn’t know that the party was over.
 e:nick=neutral
 
 On the last night, with my trunk packed and my car sold to the grocer, I went over and looked at that huge incoherent failure of a house once more.
-
+b=gatsby-wide-empty-night
 
 On the white steps an obscene word, scrawled by some boy with a piece of brick, stood out clearly in the moonlight, and I erased it, drawing my shoe raspingly along the stone.
 e:nick=angry
 
 Then I wandered down to the beach and sprawled out on the sand.
-e:nick=contemplative
+e:nick=contemplative;b=eggs-wide-night
 
 Most of the big shore places were closed now and there were hardly any lights except the shadowy, moving glow of a ferryboat across the Sound.
 
@@ -8084,7 +8072,7 @@ Its vanished trees, the trees that had made way for Gatsby’s house, had once p
 
 
 And as I sat there brooding on the old, unknown world, I thought of Gatsby’s wonder when he first picked out the green light at the end of Daisy’s dock.
-
+b=green-light
 
 He had come a long way to this blue lawn, and his dream must have seemed so close that he could hardly fail to grasp it.
 
@@ -8101,5 +8089,5 @@ It eluded us then, but that’s no matter—tomorrow we will run faster, stretch
 So we beat on, boats against the current, borne back ceaselessly into the past.
 
 
-<e>The End.</e>
+<e>The End. I take objection to you calling this a holocaust, Scott. Most of these assholes survived.</e>
 r=title
