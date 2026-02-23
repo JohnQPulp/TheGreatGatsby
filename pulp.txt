@@ -4241,7 +4241,7 @@ For several weeks I didn’t see him or hear his voice on the phone—mostly I w
 
 
 I hadn’t been there two minutes when somebody brought Tom Buchanan in for a drink.
-e:tom=neutral;n:sloane=Mr. Sloane;n:horselady=The Lady;b=light;x:tom=riding;x:sloane=riding;x:horselady=riding
+e:tom=neutral;n:sloane=Mr. Sloane;n:horselady=The Lady;b=light;x:tom=riding
 
 I was startled, naturally, but the really surprising thing was that it hadn’t happened before.
 
