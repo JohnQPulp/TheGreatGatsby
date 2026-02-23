@@ -2579,7 +2579,7 @@ He saw me looking with admiration at his car.
 
 
 “It’s pretty, isn’t it, old sport?”
-s=gatsby;e:gatsby=happy;x:gatsby=caramel;x:nick=hat
+s=gatsby;e:gatsby=happy;x:nick=hat
 
 He jumped off to give me a better view.
 s=
@@ -3521,7 +3521,7 @@ The flowers were unnecessary, for at two o’clock a greenhouse arrived from Gat
 
 
 An hour later the front door opened nervously, and Gatsby in a white flannel suit, silver shirt, and gold-coloured tie, hurried in.
-e:gatsby=nervous;x:gatsby=flannel;b=nick-commons
+e:gatsby=nervous;b=nick-commons
 
 He was pale, and there were dark signs of sleeplessness beneath his eyes.
 e:gatsby=weary;c=gatsby
@@ -5192,7 +5192,7 @@ That was it. I’d never understood before. It was full of money—that was the 
 s=none;e:nick=contemplative
 
 Tom came out of the house wrapping a quart bottle in a towel, followed by Daisy and Jordan wearing small tight hats of metallic cloth and carrying light capes over their arms.
-x:daisy=capehat;x:jordan=capehat;x:nick=strawhat;x:gatsby=strawhat;x:tom=coat
+x:daisy=capehat;x:jordan=capehat;x:nick=strawhat;x:gatsby=strawhat;x:tom=
 
 “Shall we all go in my car?” suggested Gatsby.
 s=gatsby;e:gatsby=neutral
@@ -7847,10 +7847,10 @@ We straggled down quickly through the rain to the cars. Owl-eyes spoke to me by 
 s=none;m=
 
 “I couldn’t get to the house,” he remarked.
-s=owleyes;e:owleyes=unhappy
+s=owleyes;e:owleyes=unhappy;x:owleyes=funeral
 
 “Neither could anybody else.”
-s=nick;e:nick=unhappy
+s=nick;e:nick=unhappy;x:nick=funeral
 
 “Go on!” He started. “Why, my God! they used to go there by the hundreds.”
 s=owleyes;e:owleyes=surprised
@@ -7865,7 +7865,7 @@ s=owleyes
 s=;b=think
 
 One of my most vivid memories is of coming back West from prep school and later from college at Christmas time.
-s=none;e:nick=contemplative
+s=none;e:nick=contemplative;x:nick=
 
 Those who went farther than Chicago would gather in the old dim Union Station at six o’clock of a December evening, with a few Chicago friends, already caught up into their own holiday gaieties, to bid them a hasty goodbye.
 
