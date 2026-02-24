@@ -1721,10 +1721,10 @@ She held my hand impersonally, as a promise that she’d take care of me in a mi
 s=none
 
 “Hello!” they cried together. “Sorry you didn’t win.”
-n:lucille=?/?;n:friend=?;s=lucille;e:lucille=happy;x:lucille=doubled
+n:lucille=?;n:friend=?;e:lucille=happy;m=dialogue
 
 That was for the golf tournament. She had lost in the finals the week before.
-s=none;x:lucille=
+s=none;x:lucille=;m=
 
 “You don’t know who we are,” said one of the girls in yellow, “but we met you here about a month ago.”
 s=friend;e:friend=happy
@@ -1853,7 +1853,7 @@ s=owleyes
 s=nick;e:nick=confused
 
 He waved his hand toward the bookshelves.
-s=none;e:owleyes=waving
+s=none
 
 “About that. As a matter of fact you needn’t bother to ascertain. I ascertained. They’re real.”
 s=owleyes
@@ -2156,25 +2156,25 @@ The hall was at present occupied by two deplorably sober men and their highly in
 n:husband1=Husband;n:husband2=Other Husband;n:wife1=Wife;n:wife2=Other Wife
 
 The wives were sympathizing with each other in slightly raised voices.
-
+m=dialogue
 
 “Whenever he sees I’m having a good time he wants to go home.”
-s=wife1;e:wife1=angry
+e:wife1=angry
 
 “Never heard anything so selfish in my life.”
-s=wife2;e:wife2=angry
+e:wife2=angry
 
 “We’re always the first ones to leave.”
-s=wife1
+
 
 “So are we.”
-s=wife2
+
 
 “Well, we’re almost the last tonight,” said one of the men sheepishly. “The orchestra left half an hour ago.”
-s=husband1;e:husband1=nervous
+e:husband1=nervous
 
 In spite of the wives’ agreement that such malevolence was beyond credibility, the dispute ended in a short struggle, and both wives were lifted, kicking, into the night.
-s=none
+s=none;m=
 
 As I waited for my hat in the hall the door of the library opened and Jordan Baker and Gatsby came out together.
 
@@ -2297,7 +2297,7 @@ s=none
 
 
 “You don’t understand,” explained the criminal. “I wasn’t driving. There’s another man in the car.”
-s=owleyes;e:owleyes=desperate
+s=owleyes;e:owleyes=upset
 
 The shock that followed this declaration found voice in a sustained “Ah-h-h!” as the door of the coupé swung slowly open. The crowd—it was now a crowd—stepped back involuntarily, and when the door had opened wide there was a ghostly pause.
 s=none
@@ -4886,10 +4886,10 @@ Daisy and Jordan lay upon an enormous couch, like silver idols weighing down the
 e:daisy=weary;e:jordan=weary
 
 “We can’t move,” they said together.
-s=daisy;x:daisy=jordan
+m=dialogue
 
 Jordan’s fingers, powdered white over their tan, rested for a moment in mine.
-s=none;x:daisy=
+s=none;x:daisy=;m=
 
 “And Mr. Thomas Buchanan, the athlete?” I inquired.
 s=nick
