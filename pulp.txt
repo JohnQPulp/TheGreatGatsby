@@ -179,7 +179,7 @@ This was a permanent move, said Daisy over the telephone, but I didn’t believe
 e:daisy=happy;e:tom=contemplative
 
 And so it happened that on a warm windy evening I drove over to East Egg to see two old friends whom I scarcely knew at all.
-b=tom-ext
+b=tom-wide
 
 Their house was even more elaborate than I expected, a cheerful red-and-white Georgian Colonial mansion, overlooking the bay.
 
@@ -4580,7 +4580,7 @@ She saw something awful in the very simplicity she failed to understand.<e>Scott
 
 
 I sat on the front steps with them while they waited for their car. It was dark here in front; only the bright door sent ten square feet of light volleying out into the soft black morning.
-b=gatsby-front-steps-night
+b=gatsby-wide-empty-night
 
 Sometimes a shadow moved against a dressing-room blind above, gave way to another shadow, an indefinite procession of shadows, who rouged and powdered in an invisible glass.
 
@@ -4769,7 +4769,7 @@ It was when curiosity about Gatsby was at its highest that the lights in his hou
 b=think
 
 Wondering if he were sick I went over to find out—an unfamiliar butler with a villainous face squinted at me suspiciously from the door.
-n:butler2=Butler;e:butler2=scowling;b=gatsby-front-steps
+n:butler2=Butler;e:butler2=scowling;b=gatsby-wide-empty
 
 “Is Mr. Gatsby sick?”
 s=nick
@@ -6347,7 +6347,7 @@ s=tom
 s=none
 
 The Buchanans’ house floated suddenly toward us through the dark rustling trees. Tom stopped beside the porch and looked up at the second floor, where two windows bloomed with light among the vines.
-e:tom=neutral;b=tom-ext-night
+e:tom=neutral;b=tom-wide-night
 
 “Daisy’s home,” he said.
 s=tom;e:tom=serious
@@ -7505,7 +7505,7 @@ I took him into the drawing-room, where his son lay, and left him there.
 s=none;b=gatsby-drawing
 
 Some little boys had come up on the steps and were looking into the hall; when I told them who had arrived, they went reluctantly away.
-e:nick=neutral;b=gatsby-front-steps
+e:nick=neutral;b=gatsby-wide-empty
 
 After a little while Mr. Gatz opened the door and came out, his mouth ajar, his face flushed slightly, his eyes leaking isolated and unpunctual tears.
 e:gatz=crying;b=gatsby-large
