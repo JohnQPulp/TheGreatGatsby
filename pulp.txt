@@ -32,7 +32,7 @@ Reserving judgements is a matter of infinite hope.
 
 
 I am still a little afraid of missing something if I forget that, as my father snobbishly suggested, and I snobbishly repeat, a sense of the fundamental decencies is parcelled out unequally at birth.
-b=abstract-snobbery
+b=think
 
 And, after boasting this way of my tolerance, I come to the admission that it has a limit.
 
@@ -71,7 +71,7 @@ I graduated from New Haven in 1915, just a quarter of a century after my father,
 b=college-wide;m=joined
 
 and a little later I participated in that delayed Teutonic migration known as the Great War.
-m=;b=warfare
+m=;b=think
 
 I enjoyed the counter-raid so thoroughly that I came back restless.
 b=childhood
@@ -959,7 +959,7 @@ Though I was curious to see her, I had no desire to meet her—but I did.
 
 
 I went up to New York with Tom on the train one afternoon, and when we stopped by the ash-heaps he jumped to his feet and, taking hold of my elbow, literally forced me from the car.
-e:nick=surprised;b=eyes;x:nick=hat
+e:nick=surprised;x:nick=hat
 
 “We’re getting off,” he insisted. “I want you to meet my girl.”
 s=tom;e:tom=serious
@@ -971,10 +971,10 @@ The supercilious assumption was that on Sunday afternoon I had nothing better to
 e:nick=annoyed
 
 I followed him over a low whitewashed railroad fence, and we walked back a hundred yards along the road under Doctor Eckleburg’s persistent stare.
-e:nick=neutral
+e:nick=neutral;b=eyes
 
 The only building in sight was a small block of yellow brick sitting on the edge of the waste land, a sort of compact Main Street ministering to it, and contiguous to absolutely nothing.
-
+b=garage-ext
 
 One of the three shops it contained was for rent and another was an all-night restaurant, approached by a trail of ashes; the third was a garage—*Repairs.* **George B. Wilson.** *Cars bought and sold.*—and I followed Tom inside.
 
@@ -1601,7 +1601,7 @@ s=nick;e:nick=neutral
 b=think;s=
 
 I was standing beside his bed and he was sitting up between the sheets, clad in his underwear, with a great portfolio in his hands.
-s=none;e:mckee=neutral;b=bedroom-blur
+s=none;e:mckee=neutral;b=bedroom-blur;f:b:bedroom-blur=blur(3px)
 
 “Beauty and the Beast… Loneliness… Old Grocery Horse… Brook’n Bridge…”
 s=mckee;x:mckee=underwear;e:mckee=weary
@@ -1628,7 +1628,7 @@ And on Mondays eight servants, including an extra gardener, toiled all day with 
 b=think
 
 Every Friday five crates of oranges and lemons arrived from a fruiterer in New York—every Monday these same oranges and lemons left his back door in a pyramid of pulpless halves.
-b=crates
+
 
 There was a machine in the kitchen which could extract the juice of two hundred oranges in half an hour if a little button was pressed two hundred times by a butler’s thumb.
 o=juice-loosener
@@ -3818,7 +3818,7 @@ Daisy went upstairs to wash her face—too late I thought with humiliation of my
 s=;m=joined;m=nospace
 
 while Gatsby and I waited on the lawn.
-s=none;m=;b=gatsby-wide
+s=none;m=;b=gatsby-wide-empty
 
 “My house looks well, doesn’t it?” he demanded. “See how the whole front of it catches the light.”
 s=gatsby;e:gatsby=smirking
@@ -4103,7 +4103,7 @@ b=light
 r=title
 
 About this time an ambitious young reporter from New York arrived one morning at Gatsby’s door and asked him if he had anything to say.
-n:reporter=Reporter;b=gatsby-wide
+n:reporter=Reporter;b=gatsby-wide-empty
 
 “Anything to say about what?” inquired Gatsby politely.
 s=gatsby;e:gatsby=neutral
@@ -4379,7 +4379,7 @@ s=horselady
 s=gatsby;e:gatsby=neutral
 
 The rest of us walked out on the porch, where Sloane and the lady began an impassioned conversation aside.
-s=none;b=gatsby-wide
+s=none;b=gatsby-wide-empty
 
 “My God, I believe the man’s coming,” said Tom. “Doesn’t he know she doesn’t want him?”
 s=tom;e:tom=annoyed
@@ -6587,7 +6587,7 @@ I found the humidor on an unfamiliar table, with two stale, dry cigarettes insid
 
 
 Throwing open the French windows of the drawing-room, we sat smoking out into the darkness.
-b=gatsby-drawing
+b=gatsby-drawing-night
 
 “You ought to go away,” I said.
 s=nick;e:nick=serious
@@ -6611,7 +6611,7 @@ It was this night that he told me the strange story of his youth with Dan Cody�
 e:gatsby=contemplative;b=superior;f:b:superior=blur(3px)
 
 I think that he would have acknowledged anything now, without reserve, but he wanted to talk about Daisy.
-b=gatsby-drawing
+b=gatsby-drawing-night
 
 She was the first “nice” girl he had ever known.
 b=past-road;f:b:past-road=blur(3px)
@@ -6683,7 +6683,7 @@ e:gatsby=contemplative
 b=think
 
 “I can’t describe to you how surprised I was to find out I loved her, old sport.”
-s=gatsby;b=gatsby-drawing;e:gatsby=thinking
+s=gatsby;b=gatsby-drawing-night;e:gatsby=thinking
 
 “I even hoped for a while that she’d throw me over, but she didn’t, because she was in love with me too.”
 s=gatsby
