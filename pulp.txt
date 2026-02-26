@@ -854,7 +854,7 @@ They came to the door with me and stood side by side in a cheerful square of lig
 
 
 As I started my motor Daisy peremptorily called:
-b=car-view
+b=tom-wide
 
 “Wait!”
 s=daisy;e:daisy=excited
@@ -3587,7 +3587,7 @@ He sat down miserably, as if I had pushed him, and simultaneously there was the 
 s=none;e:gatsby=unhappy;e:nick=nervous
 
 Under the dripping bare lilac-trees a large open car was coming up the drive. It stopped.
-b=daisy-car-rain
+b=nick-wide-rain
 
 Daisy’s face, tipped sideways beneath a three-cornered lavender hat, looked out at me with a bright ecstatic smile.
 e:daisy=happy;x:daisy=brassdress,hat
@@ -5141,7 +5141,7 @@ s=none
 s=daisy;e:daisy=thinking
 
 They went upstairs to get ready while we three men stood there shuffling the hot pebbles with our feet.
-s=none;b=tom-yard-cars
+s=none;b=tom-wide
 
 A silver curve of the moon hovered already in the western sky.
 
@@ -6632,7 +6632,7 @@ But what gave it an air of breathless intensity, was that Daisy lived there—it
 
 
 There was a ripe mystery about it, a hint of bedrooms upstairs more beautiful and cool than other bedrooms, of gay and radiant activities taking place through its corridors, and of romances that were not musty and laid away already in lavender but fresh and breathing and redolent of this year’s shining motorcars and of dances whose flowers were scarcely withered.
-b=daisy-bedroom;f:b:daisy-bedroom=blur(3px)
+b=bridal-room;f:b:bridal-room=blur(3px)
 
 It excited him, too, that many men had already loved Daisy—it increased her value in his eyes.<e>All right then.</e>
 e:gatsby=excited
