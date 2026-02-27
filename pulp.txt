@@ -1118,7 +1118,7 @@ The man peered doubtfully into the basket, plunged in his hand and drew one up, 
 s=none;e:dogman=thinking;o=
 
 “That’s no police dog,” said Tom.
-s=tom;e:tom=annoyed;o=dog-in-hand
+s=tom;e:tom=annoyed
 
 “No, it’s not exactly a police dog,” said the man with disappointment in his voice.
 s=dogman;e:dogman=unhappy
@@ -1627,17 +1627,14 @@ On weekends his Rolls-Royce became an omnibus, bearing parties to and from the c
 And on Mondays eight servants, including an extra gardener, toiled all day with mops and scrubbing-brushes and hammers and garden-shears, repairing the ravages of the night before.
 b=think
 
-Every Friday five crates of oranges and lemons arrived from a fruiterer in New York—every Monday these same oranges and lemons left his back door in a pyramid of pulpless halves.
-
-
-There was a machine in the kitchen which could extract the juice of two hundred oranges in half an hour if a little button was pressed two hundred times by a butler’s thumb.
+Every Friday five crates of oranges and lemons arrived from a fruiterer in New York—every Monday these same oranges and lemons left his back door in a pyramid of pulpless halves. There was a machine in the kitchen which could extract the juice of two hundred oranges in half an hour if a little button was pressed two hundred times by a butler’s thumb.
 o=juice-loosener
 
 At least once a fortnight a corps of caterers came down with several hundred feet of canvas and enough coloured lights to make a Christmas tree of Gatsby’s enormous garden.
-o=tree-lights
+o=
 
 On buffet tables, garnished with glistening hors-d’oeuvre, spiced baked hams crowded against salads of harlequin designs and pastry pigs and turkeys bewitched to a dark gold.
-o=buffet
+
 
 In the main hall a bar with a real brass rail was set up, and stocked with gins and liquors and with cordials so long forgotten that most of his female guests were too young to know one from another.<e>Heh heh, stupid women.</e>
 o=
