@@ -188,9 +188,12 @@ The lawn started at the beach and ran towards the front door for a quarter of a 
 
 
 The front was broken by a line of French windows, glowing now with reflected gold and wide open to the warm windy afternoon, and Tom Buchanan in riding clothes was standing with his legs apart on the front porch.
-e:tom=serious;b=tom-porch
 
-He had changed since his New Haven years. Now he was a sturdy straw-haired man of thirty, with a rather hard mouth and a supercilious manner.
+
+He had changed since his New Haven years.
+b=light
+
+Now he was a sturdy straw-haired man of thirty, with a rather hard mouth and a supercilious manner.
 x:tom=riding;c=tom
 
 Two shining arrogant eyes had established dominance over his face and gave him the appearance of always leaning aggressively forward.
@@ -209,7 +212,7 @@ We were in the same senior society, and while we were never intimate I always ha
 
 
 We talked for a few minutes on the sunny porch.
-
+b=tom-porch
 
 “I’ve got a nice place here,” he said, his eyes flashing about restlessly.
 s=tom;e:tom=
@@ -413,7 +416,7 @@ Before I could reply that he was my neighbour dinner was announced; wedging his 
 s=none
 
 Slenderly, languidly, their hands set lightly on their hips, the two young women preceded us out on to a rosy-coloured porch, open toward the sunset, where four candles flickered on the table in the diminished wind.
-b=tom-porch-sunset-view
+b=tom-porch-sunset
 
 “Why *candles*?” objected Daisy, frowning.
 s=daisy;e:daisy=pouting
@@ -5039,7 +5042,7 @@ e:tom=thinking
 e:tom=serious
 
 I went with them out to the veranda. On the green Sound, stagnant in the heat, one small sail crawled slowly toward the fresher sea.
-s=none;e:nick=weary;b=tom-porch-view
+s=none;e:nick=weary;b=tom-porch
 
 Gatsby’s eyes followed it momentarily; he raised his hand and pointed across the bay.
 e:gatsby=pointing
@@ -6101,22 +6104,19 @@ But he didn’t. He supposed he forgot to, that’s all.
 
 
 When he came outside again, a little after seven, he was reminded of the conversation because he heard Mrs. Wilson’s voice, loud and scolding, downstairs in the garage.
-b=eyes-dusk
+b=garage-ext
 
 “Beat me!” he heard her cry. “Throw me down and beat me, you dirty little coward!”
 s=myrtle;e:myrtle=angry
 
-A moment later she rushed out into the dusk, waving her hands and shouting—
-s=none;b=eyes-dusk-rush;m=joined;m=nospace
-
-before he could move from his door the business was over.
-m=;b=think
+A moment later she rushed out into the dusk, waving her hands and shouting—before he could move from his door the business was over.
+b=think;s=none
 
 The “death car” as the newspapers called it, didn’t stop; it came out of the gathering darkness, wavered tragically for a moment, and then disappeared around the next bend. Mavro Michaelis wasn’t even sure of its colour—he told the first policeman that it was light green.
 
 
 The other car, the one going toward New York, came to rest a hundred yards beyond, and its driver hurried back to where Myrtle Wilson, her life violently extinguished, knelt in the road and mingled her thick dark blood with the dust.
-b=eyes-dusk-crowd
+b=eyes-dusk
 
 Michaelis and this man reached her first, but when they had torn open her shirtwaist, still damp with perspiration, they saw that her left breast was swinging loose like a flap, and there was no need to listen for the heart beneath.
 e:michaelis=fearful
@@ -6137,7 +6137,7 @@ s=tom;e:tom=scowling
 e:tom=smirking
 
 He slowed down, but still without any intention of stopping, until, as we came nearer, the hushed, intent faces of the people at the garage door made him automatically put on the brakes.
-e:tom=neutral;s=none;b=eyes-dusk-crowd
+e:tom=neutral;s=none;b=eyes-dusk
 
 “We’ll take a look,” he said doubtfully, “just a look.”
 s=tom;e:tom=contemplative
@@ -6329,7 +6329,7 @@ As he passed close to me he whispered:
 s=tom;e:tom=nervous
 
 Self-consciously, with his authoritative arms breaking the way, we pushed through the still gathering crowd, passing a hurried doctor, case in hand, who had been sent for in wild hope half an hour ago.
-s=none;b=eyes-dusk-crowd
+s=none;b=eyes-dusk
 
 Tom drove slowly until we were beyond the bend—then his foot came down hard, and the coupé raced along through the night.
 b=ashes-wide-night
@@ -6359,7 +6359,7 @@ A change had come over him, and he spoke gravely, and with decision.
 s=none
 
 As we walked across the moonlight gravel to the porch he disposed of the situation in a few brisk phrases.
-b=tom-porch
+
 
 “I’ll telephone for a taxi to take you home, and while you’re waiting you and Jordan better go in the kitchen and have them get you some supper—if you want any.”
 s=tom;e:tom=serious
@@ -6517,16 +6517,10 @@ s=none;b=think
 Crossing the porch where we had dined that June night three months before, I came to a small rectangle of light which I guessed was the pantry window. The blind was drawn, but I found a rift at the sill.
 
 
-Daisy and Tom were sitting opposite each other at the kitchen table, with a plate of cold fried chicken between them, and two bottles of ale.
-b=rift-view
-
-He was talking intently across the table at her, and in his earnestness his hand had fallen upon and covered her own. Once in a while she looked up at him and nodded in agreement.
+Daisy and Tom were sitting opposite each other at the kitchen table, with a plate of cold fried chicken between them, and two bottles of ale. He was talking intently across the table at her, and in his earnestness his hand had fallen upon and covered her own. Once in a while she looked up at him and nodded in agreement.
 
 
-They weren’t happy, and neither of them had touched the chicken or the ale—and yet they weren’t unhappy either.
-
-
-There was an unmistakable air of natural intimacy about the picture, and anybody would have said that they were conspiring together.
+They weren’t happy, and neither of them had touched the chicken or the ale—and yet they weren’t unhappy either. There was an unmistakable air of natural intimacy about the picture, and anybody would have said that they were conspiring together.
 
 
 As I tiptoed from the porch I heard my taxi feeling its way along the dark road toward the house.
@@ -6995,7 +6989,7 @@ Someone, kind or curious, took her in his car and drove her in the wake of her s
 
 
 Until long after midnight a changing crowd lapped up against the front of the garage, while George Wilson rocked himself back and forth on the couch inside.
-e:wilson=upset;b=eyes-dusk-crowd
+e:wilson=upset;b=eyes-dusk
 
 For a while the door of the office was open, and everyone who came into the garage glanced irresistibly through it.
 
