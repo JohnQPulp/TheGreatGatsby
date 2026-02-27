@@ -1,7 +1,7 @@
 <div class='center'><span class='big italics'>The Great Gatsby</span> by&nbsp;F.&nbsp;Scott&nbsp;Fitzgerald</div><e>Nothing like a bit of orgiastic literature, old sport, from obstetrical echolalia to meretricious pasquinades. And above all else: good word choice.</e>
-r=title;t=author;z:author=70,70,1
+r=title;t=author;z:author-abased=70,70,1
 
-<div class='upper center'>Once again<br>to<br>Zelda</div><e>According to Zelda, Scott and Hemingway were banging. Since Hemingway has a chapter "A Matter of Measurements" in his memoir <book>A Moveable Feast</book> where he inspects Scott's cock, iceberg theory says: yes, they were.</e>
+<div class='upper center'>Once again<br>to<br>Zelda</div><e>As Zelda points out, Scott and Hemingway were definitely banging. See the chapter "A Matter of Measurements" in Hemingway's memoir <book>A Moveable Feast</book> where he inspects Scott's cock. Iceberg theory fills in the rest.</e>
 t=
 
 <span class='italics'>Then wear the gold hat, if that will move her;<br>&nbsp;&nbsp;If you can bounce high, bounce for her too,<br>Till she cry “Lover, gold-hatted, high-bouncing lover,<br>&nbsp;&nbsp;I must have you!”</span><br><span class='fright upper'>Thomas Parke d’Invilliers</span>
@@ -11,7 +11,7 @@ m=margin
 r=title
 
 In my younger and more vulnerable years my father gave me some advice that I’ve been turning over in my mind ever since.
-n:nick=Carraway;e:nick=thinking;b=childhood
+n:nick=Mr. Carraway;e:nick=thinking;b=childhood
 
 “Whenever you feel like criticizing anyone,” he told me, “just remember that all the people in this world haven’t had the advantages that you’ve had.”
 
@@ -32,7 +32,7 @@ Reserving judgements is a matter of infinite hope.
 
 
 I am still a little afraid of missing something if I forget that, as my father snobbishly suggested, and I snobbishly repeat, a sense of the fundamental decencies is parcelled out unequally at birth.
-b=think
+b=childhood
 
 And, after boasting this way of my tolerance, I come to the admission that it has a limit.
 
@@ -44,7 +44,7 @@ When I came back from the East last autumn I felt that I wanted the world to be 
 e:nick=weary
 
 Only Gatsby, the man who gives his name to this book, was exempt from my reaction—Gatsby, who represented everything for which I have an unaffected scorn.
-n:gatsby=Gatsby;e:nick=neutral;b=gatsby-wide-empty
+n:gatsby=Gatsby;e:nick=neutral;b=gatsby-wide-empty-night;f:b:gatsby-wide-empty-night=blur(3px)
 
 If personality is an unbroken series of successful gestures, then there was something gorgeous about him, some heightened sensitivity to the promises of life, as if he were related to one of those intricate machines that register earthquakes ten thousand miles away.
 e:nick=contemplative
@@ -52,8 +52,11 @@ e:nick=contemplative
 This responsiveness had nothing to do with that flabby impressionability which is dignified under the name of the “creative temperament”—it was an extraordinary gift for hope, a romantic readiness such as I have never found in any other person and which it is not likely I shall ever find again.
 
 
-No—Gatsby turned out all right at the end; it is what preyed on Gatsby, what foul dust floated in the wake of his dreams that temporarily closed out my interest in the abortive sorrows and short-winded elations of men.
-e:nick=serious;b=green-light
+No—Gatsby turned out all right at the end;
+e:nick=serious;m=joined
+
+it is what preyed on Gatsby, what foul dust floated in the wake of his dreams that temporarily closed out my interest in the abortive sorrows and short-winded elations of men.
+m=;b=green-light
 
 —
 
@@ -67,13 +70,7 @@ The Carraways are something of a clan, and we have a tradition that we’re desc
 I never saw this great-uncle, but I’m supposed to look like him—with special reference to the rather hard-boiled painting that hangs in father’s office.
 
 
-I graduated from New Haven in 1915, just a quarter of a century after my father,
-b=college-wide;m=joined
-
-and a little later I participated in that delayed Teutonic migration known as the Great War.
-m=;b=think
-
-I enjoyed the counter-raid so thoroughly that I came back restless.
+I graduated from New Haven in 1915, just a quarter of a century after my father, and a little later I participated in that delayed Teutonic migration known as the Great War. I enjoyed the counter-raid so thoroughly that I came back restless.
 b=childhood
 
 Instead of being the warm centre of the world, the Middle West now seemed like the ragged edge of the universe—so I decided to go East and learn the bond business. Everybody I knew was in the bond business, so I supposed it could support one more single man.
@@ -89,7 +86,7 @@ The practical thing was to find rooms in the city, but it was a warm season, and
 
 
 He found the house, a weather-beaten cardboard bungalow at eighty a month, but at the last minute the firm ordered him to Washington, and I went out to the country alone.
-b=nick-commons
+b=nick-wide
 
 I had a dog—at least I had him for a few days until he ran away—and an old Dodge and a Finnish woman, who made my bed and cooked breakfast and muttered Finnish wisdom to herself over the electric stove.
 
@@ -97,7 +94,7 @@ I had a dog—at least I had him for a few days until he ran away—and an old D
 It was lonely for a day or so until one morning some man, more recently arrived than I, stopped me on the road.
 b=egg-road
 
-“How do you get to West Egg village?” he asked helplessly.
+“How do you get to West Egg village?” he asked helplessly.<e>Practice, practice, practice.</e>
 n:stranger=?;s=stranger;e:stranger=confused
 
 I told him.
@@ -106,7 +103,7 @@ s=none
 And as I walked on I was lonely no longer. I was a guide, a pathfinder, an original settler.
 
 
-He had casually conferred on me the freedom of the neighbourhood.
+He had casually conferred on me the freedom of the neighbourhood.<e>What's with the limey spelling, Scott?</e>
 
 
 And so with the sunshine and the great bursts of leaves growing on the trees, just as things grow in fast movies, I had that familiar conviction that life was beginning over again with the summer.
@@ -194,7 +191,7 @@ He had changed since his New Haven years.
 b=light
 
 Now he was a sturdy straw-haired man of thirty, with a rather hard mouth and a supercilious manner.
-x:tom=riding;c=tom
+x:tom=riding;c=tom;v=100,125
 
 Two shining arrogant eyes had established dominance over his face and gave him the appearance of always leaning aggressively forward.
 e:tom=scowling
@@ -209,7 +206,7 @@ c=
 
 
 We were in the same senior society, and while we were never intimate I always had the impression that he approved of me and wanted me to like him with some harsh, defiant wistfulness of his own.
-
+b=college-wide;f:b:college-wide=blur(3px)
 
 We talked for a few minutes on the sunny porch.
 b=tom-porch
@@ -239,7 +236,7 @@ A breeze blew through the room, blew curtains in at one end and out the other li
 
 
 The only completely stationary object in the room was an enormous couch on which two young women were buoyed up as though upon an anchored balloon.
-n:jordan=Miss Baker
+n:jordan=Miss Baker;b=couch
 
 They were both in white, and their dresses were rippling and fluttering as if they had just been blown back in after a short flight around the house.
 
@@ -263,7 +260,7 @@ The other girl, Daisy, made an attempt to rise—she leaned slightly forward wit
 e:daisy=happy
 
 “I’m p-paralysed with happiness.”
-s=daisy
+s=daisy;z:daisy=98,49,6
 
 She laughed again, as if she said something very witty, and held my hand for a moment, looking up into my face, promising that there was no one in the world she so much wanted to see.
 s=none;e:daisy=excited
@@ -296,25 +293,25 @@ I told her how I had stopped off in Chicago for a day on my way East, and how a 
 s=daisy;e:daisy=excited
 
 “The whole town is desolate. All the cars have the left rear wheel painted black as a mourning wreath, and there’s a persistent wail all night along the north shore.”
-s=nick
+s=nick;e:nick=thinking;z:nick=98,49,4
 
 “How gorgeous! Let’s go back, Tom. Tomorrow!”
-s=daisy
+s=daisy;e:daisy=happy
 
 Then she added irrelevantly:
 s=
 
 “You ought to see the baby.”
-e:daisy=happy;s=daisy
+e:daisy=thinking;s=daisy
 
 “I’d like to.”
-s=nick
+s=nick;e:nick=
 
 “She’s asleep. She’s three years old. Haven’t you ever seen her?”
-s=daisy
+s=daisy;e:daisy=
 
 “Never.”
-s=nick
+s=nick;e:nick=
 
 “Well, you ought to see her. She’s—”
 s=daisy;e:daisy=
@@ -326,7 +323,7 @@ s=none;e:tom=serious
 s=tom;n:nick=Nick Carraway
 
 “I’m a bond man.”
-s=nick
+s=nick;e:nick=wary
 
 “Who with?”
 s=tom
@@ -335,13 +332,16 @@ I told him.
 s=none
 
 “Never heard of them,” he remarked decisively.
-s=tom;e:tom=annoyed
+s=tom;e:tom=thinking
 
 This annoyed me.
 s=none;e:nick=annoyed
 
-“You will,” I answered shortly. “You will if you stay in the East.”
+“You will,” I answered shortly.
 s=nick
+
+“You will if you stay in the East.”
+e:nick=contemplative
 
 “Oh, I’ll stay in the East, don’t you worry,” he said, glancing at Daisy and then back at me, as if he were alert for something more.
 s=tom;e:tom=serious
@@ -353,7 +353,7 @@ At this point Miss Baker said:
 s=
 
 “Absolutely!”
-s=jordan;e:jordan=neutral
+s=jordan;e:jordan=happy;z:jordan=101,49,5
 
 with such suddenness that I started—it was the first word she had uttered since I came into the room.
 s=none;e:nick=surprised
@@ -431,7 +431,7 @@ She looked at us all radiantly.
 s=
 
 “Do you always watch for the longest day of the year and then miss it? I always watch for the longest day in the year and then miss it.”
-s=daisy;e:daisy=pouting
+s=daisy;e:daisy=unhappy
 
 “We ought to plan something,” yawned Miss Baker, sitting down at the table as if she were getting into bed.
 s=jordan;e:jordan=yawning
@@ -500,9 +500,9 @@ e:tom=serious
 s=nick;e:nick=surprised
 
 “Well, it’s a fine book, and everybody ought to read it.”
-e:tom=thinking
+e:tom=thinking;s=tom
 
-“The idea is if we don’t look out the white race will be—will be utterly submerged.”<e>By the Irish.</e>
+“The idea is if we don’t look out the white race will be—will be utterly submerged.”<e>Submerged by the Irish.</e>
 s=tom;e:tom=serious
 
 “It’s all scientific stuff; it’s been proved.”
@@ -545,10 +545,10 @@ When, almost immediately, the telephone rang inside and the butler left the porc
 e:daisy=excited
 
 “I’ll tell you a family secret,” she whispered enthusiastically. “It’s about the butler’s nose. Do you want to hear about the butler’s nose?”
-s=daisy
+s=daisy;e:daisy=smirking
 
 “That’s why I came over tonight.”
-s=nick;e:nick=
+s=nick;e:nick=thinking
 
 “Well, he wasn’t always a butler; he used to be the silver polisher for some people in New York that had a silver service for two hundred people. He had to polish it from morning till night, until finally it began to affect his nose—”
 s=daisy;e:daisy=happy
@@ -575,7 +575,7 @@ She turned to Miss Baker for confirmation:
 s=
 
 “An absolute rose?”
-s=daisy
+s=daisy;e:daisy=unhappy
 
 This was untrue. I am not even faintly like a rose.<e>Ackchyually</e>
 s=none
@@ -671,7 +671,7 @@ Tom and Miss Baker, with several feet of twilight between them, strolled back in
 
 
 In its deep gloom we sat down side by side on a wicker settee.
-b=tom-porch-twilight
+b=tom-wide-night
 
 Daisy took her face in her hands as if feeling its lovely shape, and her eyes moved gradually out into the velvet dusk.
 e:daisy=unhappy
@@ -715,8 +715,11 @@ s=daisy;e:daisy=contemplative
 “Very much.”
 s=nick;e:nick=contemplative
 
-“It’ll show you how I’ve gotten to feel about—things. Well, she was less than an hour old and Tom was God knows where. I woke up out of the ether with an utterly abandoned feeling, and asked the nurse right away if it was a boy or a girl. She told me it was a girl, and so I turned my head away and wept.”
+“It’ll show you how I’ve gotten to feel about—things. Well, she was less than an hour old and Tom was God knows where.”
 s=daisy;e:daisy=unhappy
+
+“I woke up out of the ether with an utterly abandoned feeling, and asked the nurse right away if it was a boy or a girl. She told me it was a girl, and so I turned my head away and wept.”
+
 
 “‘All right,’ I said, ‘I’m glad it’s a girl. And I hope she’ll be a fool—that’s the best thing a girl can be in this world, a beautiful little fool.’”<e>Mark Twain.</e>
 
@@ -725,7 +728,7 @@ s=daisy;e:daisy=unhappy
 e:daisy=unhappy
 
 “Everybody thinks so—the most advanced people. And I *know*.”
-
+e:daisy=contemplative
 
 “I’ve been everywhere and seen everything and done everything.”
 e:daisy=contemplative
@@ -749,7 +752,7 @@ e:daisy=smirking
 b=light
 
 Inside, the crimson room bloomed with light.
-b=tom-room-calm
+b=tom-room-calm-night
 
 Tom and Miss Baker sat at either end of the long couch and she read aloud to him from the *Saturday Evening Post*—the words, murmurous and uninflected, running together in a soothing tune.
 e:tom=neutral;e:jordan=neutral
@@ -851,13 +854,13 @@ s=daisy;e:daisy=contemplative
 s=tom;e:tom=serious
 
 I said lightly that I had heard nothing at all, and a few minutes later I got up to go home.
-s=none;b=light
+s=none
 
 They came to the door with me and stood side by side in a cheerful square of light.
-
+b=tom-wide-night
 
 As I started my motor Daisy peremptorily called:
-b=tom-wide
+
 
 “Wait!”
 s=daisy;e:daisy=excited
@@ -884,7 +887,7 @@ You can’t stop going with an old friend on account of rumours, and on the othe
 
 
 Their interest rather touched me and made them less remotely rich—nevertheless, I was confused and a little disgusted as I drove away.
-e:nick=confused;b=think
+e:nick=confused;b=eggs-wide-night
 
 It seemed to me that the thing for Daisy to do was to rush out of the house, child in arms—but apparently there were no such intentions in her head.
 
@@ -892,14 +895,14 @@ It seemed to me that the thing for Daisy to do was to rush out of the house, chi
 As for Tom, the fact that he “had some woman in New York” was really less surprising than that he had been depressed by a book.
 e:nick=thinking
 
-Something was making him nibble at the edge of stale ideas as if his sturdy physical egotism no longer nourished his peremptory heart.<e>Chud Tom, crazy bitch Daisy, and now coping-and-seething Nick. I appreciate how the characters all have unique personalities.</e>
+Something was making him nibble at the edge of stale ideas as if his sturdy physical egotism no longer nourished his peremptory heart.<e>Nick somehow edging out both chud Tom and bipolar Daisy to be the most annoying character.</e>
 
 
 Already it was deep summer on roadhouse roofs and in front of wayside garages, where new red petrol-pumps sat out in pools of light, and when I reached my estate at West Egg I ran the car under its shed and sat for a while on an abandoned grass roller in the yard.
-e:nick=neutral;b=nick-wide-night
+e:nick=neutral;
 
 The wind had blown off, leaving a loud, bright night, with wings beating in the trees and a persistent organ sound as the full bellows of the earth blew the frogs full of life.
-
+b=nick-wide-night
 
 The silhouette of a moving cat wavered across the moonlight, and, turning my head to watch it, I saw that I was not alone—fifty feet away a figure had emerged from the shadow of my neighbour’s mansion and was standing with his hands in his pockets regarding the silver pepper of the stars.
 e:gatsby=contemplative
@@ -917,7 +920,7 @@ Involuntarily I glanced seaward—and distinguished nothing except a single gree
 b=green-light
 
 When I looked once more for Gatsby he had vanished, and I was alone again in the unquiet darkness.
-e:nick=neutral;b=nick-wide-night
+e:nick=neutral
 
 ## II
 r=title
