@@ -577,7 +577,7 @@ s=
 “An absolute rose?”
 s=daisy;e:daisy=unhappy
 
-This was untrue. I am not even faintly like a rose.<e>Ackchyually</e>
+This was untrue. I am not even faintly like a rose.
 s=none
 
 She was only extemporizing, but a stirring warmth flowed from her, as if her heart was trying to come out to you concealed in one of those breathless, thrilling words.
@@ -3400,7 +3400,7 @@ e:jordan=smirking
 “‘I don’t want to do anything out of the way!’ he kept saying. ‘I want to see her right next door.’”
 e:jordan=thinking
 
-“When I said you were a particular friend of Tom’s, he started to abandon the whole idea. He doesn’t know very much about Tom, though he says he’s read a Chicago paper for years just on the chance of catching a glimpse of Daisy’s name.”<e>Scott, it strains credulity making Gatsby this retarded.</e>
+“When I said you were a particular friend of Tom’s, he started to abandon the whole idea. He doesn’t know very much about Tom, though he says he’s read a Chicago paper for years just on the chance of catching a glimpse of Daisy’s name.”
 e:jordan=neutral
 
 It was dark now, and as we dipped under a little bridge I put my arm around Jordan’s golden shoulder and drew her toward me and asked her to dinner.
@@ -7993,7 +7993,7 @@ When we pulled out into the winter night and the real snow, our snow, began to s
 We drew in deep breaths of it as we walked back from dinner through the cold vestibules, unutterably aware of our identity with this country for one strange hour, before we melted indistinguishably into it again.
 
 
-That’s my Middle West—not the wheat or the prairies or the lost Swede towns, but the thrilling returning trains of my youth, and the street lamps and sleigh bells in the frosty dark and the shadows of holly wreaths thrown by lighted windows on the snow.<e>Counterargument: those Swede towns have grass-roofed restaurants with grazing goats.</e>
+That’s my Middle West—not the wheat or the prairies or the lost Swede towns, but the thrilling returning trains of my youth, and the street lamps and sleigh bells in the frosty dark and the shadows of holly wreaths thrown by lighted windows on the snow.<e>Counterpoint: those Swede towns have grass-roofed restaurants with grazing goats.</e>
 
 
 I am part of that, a little solemn with the feel of those long winters, a little complacent from growing up in the Carraway house in a city where dwellings are still called through decades by a family’s name.
