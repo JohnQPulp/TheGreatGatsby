@@ -1474,7 +1474,7 @@ e:catherine=angry
 The late afternoon sky bloomed in the window for a moment like the blue honey of the Mediterranean—then the shrill voice of Mrs. McKee called me back into the room.
 s=none;e:mrsmckee=annoyed
 
-“I almost made a mistake, too,” she declared vigorously. “I almost married a little kike who’d been after me for years.”<e>That kike's name? <book>The Sun Also Rises|Robert Cohn</book>.</e>
+“I almost made a mistake, too,” she declared vigorously. “I almost married a little kike who’d been after me for years.”<e><book>The Sun Also Rises|Robert Cohn</book>?</e>
 s=mrsmckee
 
 “I knew he was below me. Everybody kept saying to me: ‘Lucille, that man’s way below you!’ But if I hadn’t met Chester, he’d of got me sure.”
@@ -4864,8 +4864,11 @@ For a moment a phrase tried to take shape in my mouth and my lips parted like a 
 ## VII
 r=title
 
-It was when curiosity about Gatsby was at its highest that the lights in his house failed to go on one Saturday night—and, as obscurely as it had begun, his career as Trimalchio was over. Only gradually did I become aware that the automobiles which turned expectantly into his drive stayed for just a minute and then drove sulkily away.
-b=think
+It was when curiosity about Gatsby was at its highest that the lights in his house failed to go on one Saturday night—and, as obscurely as it had begun, his career as Trimalchio was over.
+b=gatsby-wide-empty
+
+Only gradually did I become aware that the automobiles which turned expectantly into his drive stayed for just a minute and then drove sulkily away.
+
 
 Wondering if he were sick I went over to find out—an unfamiliar butler with a villainous face squinted at me suspiciously from the door.
 n:butler2=Butler;e:butler2=scowling;b=gatsby-wide-empty
@@ -4874,13 +4877,13 @@ n:butler2=Butler;e:butler2=scowling;b=gatsby-wide-empty
 s=nick
 
 “Nope.”
-s=butler2
+s=butler2;z:butler2=96
 
 After a pause he added “sir” in a dilatory, grudging way.
 s=none;m=dialogue
 
 “I hadn’t seen him around, and I was rather worried. Tell him Mr. Carraway came over.”
-s=nick;m=
+s=nick;m=;e:nick=contemplative
 
 “Who?” he demanded rudely.
 s=butler2;e:butler2=annoyed
@@ -4895,7 +4898,7 @@ Abruptly he slammed the door.
 s=none
 
 My Finn informed me that Gatsby had dismissed every servant in his house a week ago and replaced them with half a dozen others, who never went into West Egg village to be bribed by the tradesmen, but ordered moderate supplies over the telephone.
-b=think
+b=nick-commons
 
 The grocery boy reported that the kitchen looked like a pigsty, and the general opinion in the village was that the new people weren’t servants at all.
 
@@ -4961,7 +4964,7 @@ e:nick=annoyed
 b=light
 
 Through the hall of the Buchanans’ house blew a faint wind, carrying the sound of the telephone bell out to Gatsby and me as we waited at the door.
-b=tom-porch
+b=tom-wide
 
 “The master’s body?” roared the butler into the mouthpiece. “I’m sorry, madame, but we can’t furnish it—it’s far too hot to touch this noon!”
 m=dialogue
@@ -5024,7 +5027,7 @@ Tom flung open the door, blocked out its space for a moment with his thick body,
 s=none
 
 “Mr. Gatsby!”
-s=tom;e:tom=scowling
+s=tom;e:tom=
 
 He put out his broad, flat hand with well-concealed dislike.
 s=
@@ -5078,10 +5081,10 @@ Afterward he kept looking at the child with surprise. I don’t think he had eve
 
 
 “I got dressed before luncheon,” said the child, turning eagerly to Daisy.
-s=pammy;e:pammy=happy
+s=pammy;e:pammy=happy;z:pammy=60
 
 “That’s because your mother wanted to show you off.”
-s=daisy;e:daisy=
+s=daisy;e:daisy=happy
 
 Her face bent into the single wrinkle of the small white neck.
 s=
@@ -5089,11 +5092,14 @@ s=
 “You dream, you. You absolute little dream.”
 s=daisy;e:daisy=contemplative
 
-“Yes,” admitted the child calmly. “Aunt Jordan’s got on a white dress too.”
+“Yes,” admitted the child calmly.<e>"admitted" lol</e>
 s=pammy;e:pammy=neutral
 
+“Aunt Jordan’s got on a white dress too.”
+e:pammy=happy
+
 “How do you like mother’s friends?”
-s=daisy;e:daisy=happy
+s=daisy;e:daisy=happy;e:pammy=
 
 Daisy turned her around so that she faced Gatsby.
 s=
@@ -5104,8 +5110,11 @@ s=daisy
 “Where’s Daddy?”
 s=pammy
 
-“She doesn’t look like her father,” explained Daisy. “She looks like me. She’s got my hair and shape of the face.”
-s=daisy;e:daisy=contemplative
+“She doesn’t look like her father,” explained Daisy.
+s=daisy;e:daisy=thinking
+
+“She looks like me. She’s got my hair and shape of the face.”<e>She has "yellowy hair". You have "dark shining hair". So the visuals are accurate, even though this dialogue makes no sense.</e>
+e:daisy=contemplative
 
 Daisy sat back upon the couch.
 s=none
@@ -5114,7 +5123,7 @@ The nurse took a step forward and held out her hand.
 
 
 “Come, Pammy.”
-s=nurse;e:nurse=neutral
+s=nurse;e:nurse=neutral;z:nurse=98,49,3
 
 “Goodbye, sweetheart!”
 s=daisy;e:daisy=thinking
@@ -5141,7 +5150,7 @@ e:tom=thinking
 e:tom=serious
 
 I went with them out to the veranda. On the green Sound, stagnant in the heat, one small sail crawled slowly toward the fresher sea.
-s=none;e:nick=weary;b=tom-porch
+s=none;e:nick=weary;b=tom-wide
 
 Gatsby’s eyes followed it momentarily; he raised his hand and pointed across the bay.
 e:gatsby=pointing
@@ -5150,7 +5159,7 @@ e:gatsby=pointing
 s=gatsby
 
 “So you are.”
-s=tom;e:tom=contemplative
+s=tom;e:tom=
 
 Our eyes lifted over the rose-beds and the hot lawn and the weedy refuse of the dog-days alongshore. Slowly the white wings of the boat moved against the blue cool limit of the sky.
 s=none
@@ -5213,7 +5222,7 @@ He got up, his eyes still flashing between Gatsby and his wife. No one moved.
 s=none
 
 “Come on!”
-s=tom
+s=tom;e:tom=scowling
 
 His temper cracked a little.
 s=none
@@ -5228,7 +5237,7 @@ s=none
 s=daisy;e:daisy=annoyed
 
 “Everybody smoked all through lunch.”
-s=tom
+s=tom;e:tom=annoyed
 
 “Oh, let’s have fun,” she begged him. “It’s too hot to fuss.”
 s=daisy
@@ -5240,7 +5249,7 @@ s=none
 s=daisy;e:daisy=thinking
 
 They went upstairs to get ready while we three men stood there shuffling the hot pebbles with our feet.
-s=none;b=tom-wide
+s=none;b=tom-wide;x:nick=strawhat;x:gatsby=strawhat
 
 A silver curve of the moon hovered already in the western sky.
 
@@ -5279,7 +5288,7 @@ Gatsby turned to me rigidly:
 s=gatsby;e:gatsby=nervous
 
 “She’s got an indiscreet voice,” I remarked. “It’s full of—”
-s=nick;e:nick=contemplative
+s=nick;e:nick=serious
 
 I hesitated.
 s=
@@ -5336,7 +5345,7 @@ s=tom;e:tom=smirking
 
 
 He opened the door, but she moved out from the circle of his arm.
-s=none;b=light
+s=none;
 
 “You take Nick and Jordan. We’ll follow you in the coupé.”
 s=daisy;e:daisy=serious
@@ -5423,13 +5432,13 @@ s=tom;e:tom=serious
 s=jordan;e:jordan=annoyed
 
 Tom threw on both brakes impatiently, and we slid to an abrupt dusty stop under Wilson’s sign.
-s=none
+s=none;b=garage-ext
 
 After a moment the proprietor emerged from the interior of his establishment and gazed hollow-eyed at the car.
 e:wilson=weary
 
 “Let’s have some gas!” cried Tom roughly. “What do you think we stopped for—to admire the view?”
-s=tom;e:tom=scowling
+s=tom;e:tom=scowling;b=garage-ext
 
 “I’m sick,” said Wilson without moving.
 s=wilson;e:wilson=weary
@@ -5513,7 +5522,7 @@ Wilson was so sick that he looked guilty, unforgivably guilty—as if he had jus
 s=tom;e:tom=annoyed
 
 That locality was always vaguely disquieting, even in the broad glare of afternoon, and now I turned my head as though I had been warned of something behind.
-s=none;e:nick=nervous
+s=none;e:nick=nervous;b=eyes
 
 Over the ash-heaps the giant eyes of Doctor T. J. Eckleburg kept their vigil, but I perceived, after a moment, that other eyes were regarding us with peculiar intensity from less than twenty feet away.
 
@@ -5593,8 +5602,8 @@ b=plaza-parlor
 Daisy went to the mirror and stood with her back to us, fixing her hair.
 e:daisy=neutral
 
-“It’s a swell suite,” whispered Jordan respectfully, and everyone laughed.
-s=jordan;e:jordan=
+“It’s a swell suite,” whispered Jordan respectfully, and everyone laughed.<e>…Did she do a funny voice?</e>
+s=jordan;e:jordan=smirking
 
 “Open another window,” commanded Daisy, without turning around.
 s=daisy;e:daisy=annoyed
@@ -5615,7 +5624,7 @@ He unrolled the bottle of whisky from the towel and put it on the table.
 s=none
 
 “Why not let her alone, old sport?” remarked Gatsby. “You’re the one that wanted to come to town.”
-s=gatsby;e:gatsby=serious
+s=gatsby;e:gatsby=serious;x:gatsby=
 
 There was a moment of silence.
 s=
@@ -5797,7 +5806,7 @@ e:tom=scowling
 “Nowadays people begin by sneering at family life and family institutions, and next they’ll throw everything overboard and have intermarriage between black and white.”
 
 
-Flushed with his impassioned gibberish, he saw himself standing alone on the last barrier of civilization.<e>Editorialize much?</e>
+Flushed with his impassioned gibberish, he saw himself standing alone on the last barrier of civilization.<e>Way to editorialize, Scott.</e>
 s=none
 
 “We’re all white here,” murmured Jordan.
@@ -5878,8 +5887,14 @@ s=tom;e:tom=contemplative
 Tom tapped his thick fingers together like a clergyman and leaned back in his chair.
 s=
 
-“You’re crazy!” he exploded. “I can’t speak about what happened five years ago, because I didn’t know Daisy then—and I’ll be damned if I see how you got within a mile of her unless you brought the groceries to the back door. But all the rest of that’s a God damned lie. Daisy loved me when she married me and she loves me now.”
-e:tom=angry;s=tom
+“You’re crazy!” he exploded.
+e:tom=scowling;s=tom
+
+“I can’t speak about what happened five years ago, because I didn’t know Daisy then—and I’ll be damned if I see how you got within a mile of her unless you brought the groceries to the back door.”
+e:tom=scowling
+
+“But all the rest of that’s a God damned lie. Daisy loved me when she married me and she loves me now.”
+
 
 “No,” said Gatsby, shaking his head.
 s=gatsby;e:gatsby=serious
@@ -6086,10 +6101,10 @@ s=none;e:gatsby=scowling
 s=tom;e:tom=serious
 
 I glanced at Daisy, who was staring terrified between Gatsby and her husband, and at Jordan, who had begun to balance an invisible but absorbing object on the tip of her chin.
-s=none;e:daisy=fearful;e:jordan=neutral;b=light
+s=none;e:daisy=fearful;e:jordan=neutral
 
 Then I turned back to Gatsby—and was startled at his expression. He looked—and this is said in all contempt for the babbled slander of his garden—as if he had “killed a man.”
-e:gatsby=irate;c=gatsby
+
 
 For a moment the set of his face could be described in just that fantastic way.
 
@@ -6098,7 +6113,7 @@ It passed, and he began to talk excitedly to Daisy, denying everything, defendin
 e:gatsby=excited;c=
 
 But with every word she was drawing further and further into herself, so he gave that up, and only the dead dream fought on as the afternoon slipped away, trying to touch what was no longer tangible, struggling unhappily, undespairingly, toward that lost voice across the room.
-e:daisy=despairing;c=daisy
+e:daisy=despairing;
 
 The voice begged again to go.
 c=
@@ -6131,13 +6146,13 @@ I didn’t answer.
 s=none
 
 “Nick?” He asked again.
-s=tom
+s=tom;e:tom=scowling
 
 “What?”
 s=nick;e:nick=nervous
 
 “Want any?”
-s=tom
+s=tom;e:tom=serious
 
 “No… I just remembered that today’s my birthday.”
 s=nick;e:nick=unhappy
@@ -6167,10 +6182,10 @@ So we drove on toward death through the cooling twilight.
 
 
 —
-b=think
+b=ashes-wide
 
 The young Greek, Michaelis, who ran the coffee joint beside the ash-heaps was the principal witness at the inquest.
-n:michaelis=Mavro Michaelis;b=ashes-wide;x:nick=hat
+n:michaelis=Mavro Michaelis;x:nick=strawhat
 
 He had slept through the heat until after five, when he strolled over to the garage, and found George Wilson sick in his office—really sick, pale as his own pale hair and shaking all over.
 
@@ -6197,7 +6212,7 @@ So naturally Michaelis tried to find out what had happened, but Wilson wouldn’
 e:wilson=suspicious
 
 Just as the latter was getting uneasy, some workmen came past the door bound for his restaurant, and Michaelis took the opportunity to get away, intending to come back later.
-e:michaelis=wary;b=think
+e:michaelis=wary;b=garage-ext
 
 But he didn’t. He supposed he forgot to, that’s all.
 
@@ -6208,14 +6223,17 @@ b=garage-ext
 “Beat me!” he heard her cry. “Throw me down and beat me, you dirty little coward!”
 s=myrtle;e:myrtle=angry
 
-A moment later she rushed out into the dusk, waving her hands and shouting—before he could move from his door the business was over.
-b=think;s=none
+A moment later she rushed out into the dusk, waving her hands and shouting—
+b=think;s=none;m=allowbreak;m=nospace
+
+before he could move from his door the business was over.
+b=action;m=
 
 The “death car” as the newspapers called it, didn’t stop; it came out of the gathering darkness, wavered tragically for a moment, and then disappeared around the next bend. Mavro Michaelis wasn’t even sure of its colour—he told the first policeman that it was light green.
-
+b=think
 
 The other car, the one going toward New York, came to rest a hundred yards beyond, and its driver hurried back to where Myrtle Wilson, her life violently extinguished, knelt in the road and mingled her thick dark blood with the dust.
-b=eyes-dusk
+b=eyes
 
 Michaelis and this man reached her first, but when they had torn open her shirtwaist, still damp with perspiration, they saw that her left breast was swinging loose like a flap, and there was no need to listen for the heart beneath.
 e:michaelis=fearful
@@ -6281,13 +6299,13 @@ Presently Tom lifted his head with a jerk and, after staring around the garage w
 s=none;m=
 
 “*M*-*a*-*v*—” the policeman was saying, “—*o*—”
-s=policeman;e:policeman=serious
+s=policeman;e:policeman=serious;z:policeman=97,49,3
 
 “No, *r*—” corrected the man, “*M*-*a*-*v*-*r*-*o*—”
-s=michaelis;e:michaelis=serious
+s=michaelis;e:michaelis=serious;z:michaelis=96
 
 “Listen to me!” muttered Tom fiercely.
-s=tom;e:tom=angry
+s=tom;e:tom=unhappy
 
 “*r*—” said the policeman, “*o*—”
 s=policeman
@@ -6305,7 +6323,7 @@ s=none
 s=policeman;e:policeman=annoyed
 
 “What happened?—that’s what I want to know.”
-s=tom;e:tom=serious
+s=tom;e:tom=unhappy
 
 “Auto hit her. Ins’antly killed.”
 s=policeman;e:policeman=neutral
@@ -6356,7 +6374,7 @@ Some words of this conversation must have reached Wilson, swaying in the office 
 s=none
 
 “You don’t have to tell me what kind of car it was! I know what kind of car it was!”
-s=wilson;e:wilson=angry
+s=wilson;e:wilson=crying
 
 Watching Tom, I saw the wad of muscle back of his shoulder tighten under his coat.
 s=none
@@ -6470,7 +6488,7 @@ s=none
 s=tom
 
 “No, thanks. But I’d be glad if you’d order me the taxi. I’ll wait outside.”
-s=nick;e:nick=weary
+s=nick;e:nick=weary;x:nick=
 
 Jordan put her hand on my arm.
 s=none
@@ -6484,7 +6502,7 @@ s=nick
 I was feeling a little sick and I wanted to be alone. But Jordan lingered for a moment more.
 s=none
 
-“It’s only half-past nine,” she said.<e>Jordan… what the f&#9472;&#9472;&#9472;.</e>
+“It’s only half-past nine,” she said.<e>Jordan doesn't give a shit about any of this lmao.</e>
 s=jordan;e:jordan=annoyed
 
 I’d be damned if I’d go in; I’d had enough of all of them for one day, and suddenly that included Jordan too.
@@ -6511,7 +6529,7 @@ s=nick;e:nick=serious
 “Just standing here, old sport.”
 s=gatsby;e:gatsby=thinking
 
-Somehow, that seemed a despicable occupation.
+Somehow, that seemed a despicable occupation.<e>Somehow, Gatsby returned.</e>
 s=none;e:nick=annoyed
 
 For all I knew he was going to rob the house in a moment; I wouldn’t have been surprised to see sinister faces, the faces of “Wolfshiem’s people,” behind him in the dark shrubbery.
@@ -6527,7 +6545,7 @@ He hesitated.
 s=none
 
 “Was she killed?”
-s=gatsby
+s=gatsby;e:gatsby=unhappy
 
 “Yes.”
 s=nick
@@ -6548,7 +6566,7 @@ s=none
 s=gatsby;e:gatsby=serious
 
 “Her name was Wilson. Her husband owns the garage. How the devil did it happen?”
-s=nick;e:nick=angry
+s=nick;e:nick=serious
 
 “Well, I tried to swing the wheel—”
 s=gatsby;e:gatsby=nervous
@@ -6572,7 +6590,7 @@ s=gatsby;e:gatsby=serious
 
 
 “It ripped her open—”
-s=nick;e:nick=scowling
+s=nick;e:nick=serious
 
 “Don’t tell me, old sport.”
 s=gatsby;e:gatsby=unhappy
@@ -6611,7 +6629,7 @@ I looked at the house; there were two or three bright windows downstairs and the
 s=nick;e:nick=serious
 
 I walked back along the border of the lawn, traversed the gravel softly, and tiptoed up the veranda steps. The drawing-room curtains were open, and I saw that the room was empty.
-s=none;b=think
+s=none;b=tom-wide-night
 
 Crossing the porch where we had dined that June night three months before, I came to a small rectangle of light which I guessed was the pantry window. The blind was drawn, but I found a rift at the sill.
 
@@ -6631,7 +6649,13 @@ Gatsby was waiting where I had left him in the drive.
 “Is it all quiet up there?” he asked anxiously.
 s=gatsby;e:gatsby=nervous
 
-“Yes, it’s all quiet.” I hesitated. “You’d better come home and get some sleep.”
+“Yes, it’s all quiet.”
+s=nick;e:nick=serious
+
+I hesitated.
+s=
+
+“You’d better come home and get some sleep.”
 s=nick;e:nick=weary
 
 He shook his head.
