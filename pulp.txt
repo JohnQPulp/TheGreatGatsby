@@ -7499,7 +7499,7 @@ But there was nothing—only the picture of Dan Cody, a token of forgotten viole
 e:nick=weary
 
 Next morning I sent the butler to New York with a letter to Wolfshiem, which asked for information and urged him to come out on the next train.
-e:nick=serious;b=think
+e:nick=serious;b=york-wide
 
 That request seemed superfluous when I wrote it.
 
@@ -7577,7 +7577,7 @@ It said only that the sender was leaving immediately and to postpone the funeral
 
 
 It was Gatsby’s father, a solemn old man, very helpless and dismayed, bundled up in a long cheap ulster against the warm September day.
-n:gatz=Mr. Gatz;e:gatz=weary;c=gatz
+n:gatz=Mr. Gatz;e:gatz=weary;c=gatz;v=100,120
 
 His eyes leaked continuously with excitement, and when I took the bag and umbrella from his hands he began to pull so incessantly at his sparse grey beard that I had difficulty in getting off his coat.
 e:gatz=nervous;c=
@@ -7589,7 +7589,7 @@ But he wouldn’t eat, and the glass of milk spilled from his trembling hand.
 
 
 “I saw it in the Chicago newspaper,” he said. “It was all in the Chicago newspaper. I started right away.”
-s=gatz
+s=gatz;z:gatz=93
 
 “I didn’t know how to reach you.”
 s=nick;e:nick=unhappy
@@ -7607,7 +7607,7 @@ s=nick
 s=gatz;e:gatz=weary
 
 “Carraway.”
-s=nick;e:nick=thinking
+s=nick;e:nick=unhappy
 
 “Well, I’m all right now. Where have they got Jimmy?”
 s=gatz
@@ -7661,7 +7661,7 @@ He fumbled at the embroidered coverlet, trying to take it from the bed, and lay 
 s=none;e:gatz=weary
 
 That night an obviously frightened person called up, and demanded to know who I was before he would give his name.
-e:nick=wary;b=gatsby-large
+e:nick=wary;b=gatsby-drawing-night
 
 “This is Mr. Carraway,” I said.
 s=nick;o=phone
@@ -7679,7 +7679,7 @@ They were hard to find.
 e:nick=weary
 
 “The funeral’s tomorrow,” I said. “Three o’clock, here at the house. I wish you’d tell anybody who’d be interested.”
-s=nick;e:nick=thinking
+s=nick;e:nick=serious
 
 “Oh, I will,” he broke out hastily. “Of course I’m not likely to see anybody, but if I do.”
 s=klipspringer;e:klipspringer=nervous
@@ -7736,7 +7736,7 @@ s=nick
 s=stella
 
 At this moment a voice, unmistakably Wolfshiem’s, called “Stella!” from the other side of the door.
-m=dialogue
+m=dialogue;s=
 
 “Leave your name on the desk,” she said quickly. “I’ll give it to him when he gets back.”
 s=stella;e:stella=annoyed;n:stella=Stella;m=
@@ -7799,7 +7799,7 @@ I wondered if this partnership had included the World’s Series transaction in 
 s=none;e:nick=thinking
 
 “Now he’s dead,” I said after a moment.
-s=nick
+s=nick;e:nick=contemplative
 
 “You were his closest friend, so I know you’ll want to come to his funeral this afternoon.”
 
@@ -7993,7 +7993,7 @@ When we pulled out into the winter night and the real snow, our snow, began to s
 We drew in deep breaths of it as we walked back from dinner through the cold vestibules, unutterably aware of our identity with this country for one strange hour, before we melted indistinguishably into it again.
 
 
-That’s my Middle West—not the wheat or the prairies or the lost Swede towns, but the thrilling returning trains of my youth, and the street lamps and sleigh bells in the frosty dark and the shadows of holly wreaths thrown by lighted windows on the snow.<e>You're difficult to impress, Nick. Those Swede towns have goats grazing on the roofs.</e>
+That’s my Middle West—not the wheat or the prairies or the lost Swede towns, but the thrilling returning trains of my youth, and the street lamps and sleigh bells in the frosty dark and the shadows of holly wreaths thrown by lighted windows on the snow.<e>Counterargument: those Swede towns have grass-roofed restaurants with grazing goats.</e>
 
 
 I am part of that, a little solemn with the feel of those long winters, a little complacent from growing up in the Carraway house in a city where dwellings are still called through decades by a family’s name.
@@ -8144,10 +8144,10 @@ Then he went into the jewellery store to buy a pearl necklace—or perhaps only 
 
 
 —
-b=think
+b=eggs-wide-night
 
 Gatsby’s house was still empty when I left—the grass on his lawn had grown as long as mine.
-e:nick=contemplative;b=eggs-wide-night
+e:nick=contemplative;
 
 One of the taxi drivers in the village never took a fare past the entrance gate without stopping for a minute and pointing inside; perhaps it was he who drove Daisy and Gatsby over to East Egg the night of the accident, and perhaps he had made a story about it all his own.
 
@@ -8200,5 +8200,5 @@ It eluded us then, but that’s no matter—tomorrow we will run faster, stretch
 So we beat on, boats against the current, borne back ceaselessly into the past.
 
 
-<e>The End. I take objection to you calling this a holocaust, Scott. Most of these assholes survived.</e>
+<e>The End. I take objection to Scott's labeling of this a holocaust. Most of these assholes survived.</e>
 r=title
