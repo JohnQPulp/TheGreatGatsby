@@ -2552,7 +2552,7 @@ m=dialogue
 
 
 Once I wrote down on the empty spaces of a timetable the names of those who came to Gatsby’s house that summer.
-s=none;e:nick=thinking;m=
+s=none;e:nick=thinking;m=;b=nick-shelves
 
 It is an old timetable now, disintegrating at its folds, and headed “This schedule in effect July 5th, 1922.”
 
@@ -2612,7 +2612,7 @@ All these people came to Gatsby’s house in the summer.
 e:nick=neutral;b=gatsby-wide-full
 
 —<e>"What if that most annoying chapter from <book>The Iliad</book>, except Jazz Age." —F. Scott Fitzgerald<br>(Pretty good bit honestly.)</e>
-b=light
+b=title
 
 At nine o’clock, one morning late in July, Gatsby’s gorgeous car lurched up the rocky drive to my door and gave out a burst of melody from its three-noted horn.
 b=nick-wide
@@ -2699,7 +2699,7 @@ And with this doubt, his whole statement fell to pieces, and I wondered if there
 s=nick
 
 “San Francisco.”<e>San Francisco Township, Minnesota.</e>
-s=gatsby
+s=gatsby;e:gatsby=contemplative
 
 “I see.”
 s=nick;e:nick=neutral
@@ -2771,7 +2771,7 @@ Then it was all true.
 
 
 I saw the skins of tigers flaming in his palace on the Grand Canal; I saw him opening a chest of rubies to ease, with their crimson-lighted depths, the gnawings of his broken heart.
-e:nick=excited
+e:nick=excited;o=
 
 “I’m going to make a big request of you today,” he said, pocketing his souvenirs with satisfaction, “so I thought you ought to know something about me.”
 s=gatsby;e:gatsby=happy;o=
@@ -2792,7 +2792,7 @@ s=nick;e:nick=confused
 s=gatsby
 
 “Do you mean you’re in love with Miss Baker?”
-s=nick;e:nick=surprised
+s=nick;e:nick=serious
 
 “No, old sport, I’m not. But Miss Baker has kindly consented to speak to you about this matter.”
 s=gatsby;e:gatsby=neutral
@@ -2834,7 +2834,7 @@ s=nick;e:nick=confused
 s=gatsby;e:gatsby=happy
 
 Over the great bridge, with the sunlight through the girders making a constant flicker upon the moving cars, with the city rising up across the river in white heaps and sugar lumps all built with a wish out of nonolfactory money.
-s=none;b=york-wide
+s=none
 
 The city seen from the Queensboro Bridge is always the city seen for the first time, in its first wild promise of all the mystery and the beauty in the world.<e>Heh heh, <a href='https://www.youtube.com/watch?v=bVTG7sy3-dM'>Queensboro Bridge</a>.</e>
 e:nick=excited
@@ -2869,14 +2869,14 @@ b=anteroom
 “Mr. Carraway, this is my friend Mr. Wolfshiem.”
 s=gatsby
 
-A small, flat-nosed Jew raised his large head and regarded me with two fine growths of hair which luxuriated in either nostril.<e>How did both Scott and Hemingway arrive at the same flat-nosed Jew joke a year apart from each other?</e>
+A small, flat-nosed Jew raised his large head and regarded me with two fine growths of hair which luxuriated in either nostril.<e>How did both Scott and Hemingway arrive at the same "flat-nosed Jew" bit a year apart from each other?</e>
 n:wolfshiem=Mr. Wolfshiem;s=none;e:wolfshiem=neutral
 
 After a moment I discovered his tiny eyes in the half-darkness.
 
 
 “—So I took one look at him,” said Mr. Wolfshiem, shaking my hand earnestly, “and what do you think I did?”
-s=wolfshiem
+s=wolfshiem;z:wolfshiem=87,49,3
 
 “What?” I inquired politely.
 s=nick
@@ -2918,7 +2918,7 @@ s=nick
 s=gatsby
 
 “The old Metropole,” brooded Mr. Wolfshiem gloomily. “Filled with faces dead and gone. Filled with friends gone now forever.”
-e:wolfshiem=unhappy
+e:wolfshiem=unhappy;s=wolfshiem
 
 “I can’t forget so long as I live the night they shot Rosy Rosenthal there. It was six of us at the table, and Rosy had eat and drunk a lot all evening.”
 e:wolfshiem=thinking
@@ -2927,7 +2927,7 @@ e:wolfshiem=thinking
 
 
 “‘Let the bastards come in here if they want you, Rosy, but don’t you, so help me, move outside this room.’”
-e:wolfshiem=angry
+e:wolfshiem=annoyed
 
 “It was four o’clock in the morning then, and if we’d of raised the blinds we’d of seen daylight.”
 e:wolfshiem=unhappy
@@ -2965,8 +2965,11 @@ s=none
 “Oh, no,” he exclaimed, “this isn’t the man.”
 s=gatsby;e:gatsby=serious
 
-“No?” Mr. Wolfshiem seemed disappointed.
+“No?”
 s=wolfshiem;e:wolfshiem=unhappy
+
+Mr. Wolfshiem seemed disappointed.
+s=
 
 “This is just a friend. I told you we’d talk about that some other time.”
 s=gatsby;e:gatsby=
@@ -2992,8 +2995,11 @@ s=none;e:nick=annoyed
 “I don’t like mysteries,” I answered, “and I don’t understand why you won’t come out frankly and tell me what you want. Why has it all got to come through Miss Baker?”
 s=nick
 
-“Oh, it’s nothing underhand,” he assured me. “Miss Baker’s a great sportswoman, you know, and she’d never do anything that wasn’t all right.”
+“Oh, it’s nothing underhand,” he assured me.
 s=gatsby;e:gatsby=happy
+
+“Miss Baker’s a great sportswoman, you know, and she’d never do anything that wasn’t all right.”
+
 
 Suddenly he looked at his watch, jumped up, and hurried from the room, leaving me with Mr. Wolfshiem at the table.
 s=none;e:gatsby=nervous
@@ -3017,13 +3023,13 @@ s=nick;e:nick=surprised
 s=wolfshiem
 
 “I’ve heard of it.”
-s=nick;e:nick=neutral
+s=nick;e:nick=annoyed
 
 “It’s one of the most famous colleges in the world.”
 s=wolfshiem
 
 “Have you known Gatsby for a long time?” I inquired.
-s=nick
+s=nick;e:nick=
 
 “Several years,” he answered in a gratified way.
 s=wolfshiem;e:wolfshiem=happy
@@ -3046,8 +3052,11 @@ s=none;e:nick=thinking
 “Finest specimens of human molars,” he informed me.
 s=wolfshiem;e:wolfshiem=smirking
 
-“Well!” I inspected them. “That’s a very interesting idea.”
+“Well!” I inspected them.
 s=nick;e:nick=surprised
+
+“That’s a very interesting idea.”
+e:nick=contemplative
 
 “Yeah.”
 s=wolfshiem
@@ -3142,8 +3151,11 @@ s=nick
 When he saw us Tom jumped up and took half a dozen steps in our direction.
 s=none;e:tom=excited
 
-“Where’ve you been?” he demanded eagerly. “Daisy’s furious because you haven’t called up.”
+“Where’ve you been?” he demanded eagerly.
 s=tom;e:tom=happy
+
+“Daisy’s furious because you haven’t called up.”
+
 
 “This is Mr. Gatsby, Mr. Buchanan.”
 s=nick
@@ -3151,8 +3163,11 @@ s=nick
 They shook hands briefly, and a strained, unfamiliar look of embarrassment came over Gatsby’s face.
 s=none;e:gatsby=nervous;e:tom=neutral
 
-“How’ve you been, anyhow?” demanded Tom of me. “How’d you happen to come up this far to eat?”
-s=tom
+“How’ve you been, anyhow?” demanded Tom of me.
+s=tom;e:tom=
+
+“How’d you happen to come up this far to eat?”
+e:tom=confused
 
 “I’ve been having lunch with Mr. Gatsby.”
 s=nick
@@ -3188,7 +3203,7 @@ She dressed in white, and had a little white roadster, and all day long the tele
 b=light
 
 “Anyways, for an hour!”
-s=daisy
+s=daisy;n:daisy=Daisy Fay
 
 When I came opposite her house that morning her white roadster was beside the kerb, and she was sitting in it with a lieutenant I had never seen before.
 s=none;b=daisy-road
@@ -3263,7 +3278,7 @@ She began to cry—she cried and cried.
 s=none
 
 I rushed out and found her mother’s maid, and we locked the door and got her into a cold bath.
-b=light
+b=think
 
 She wouldn’t let go of the letter. She took it into the tub with her and squeezed it up in a wet ball, and only let me leave it in the soap-dish when she saw that it was coming to pieces like snow.
 
@@ -3275,7 +3290,7 @@ We gave her spirits of ammonia and put ice on her forehead and hooked her back i
 e:daisy=neutral;e:jordan=neutral
 
 Next day at five o’clock she married Tom Buchanan without so much as a shiver, and started off on a three months’ trip to the South Seas.
-e:daisy=happy
+e:daisy=happy;n:daisy=Daisy Fay Buchanan
 
 I saw them in Santa Barbara when they came back, and I thought I’d never seen a girl so mad about her husband.
 b=santa-barbara-wide
@@ -3290,7 +3305,7 @@ It was touching to see them together—it made you laugh in a hushed, fascinated
 
 
 A week after I left Santa Barbara Tom ran into a wagon on the Ventura road one night, and ripped a front wheel off his car.
-e:tom=unhappy
+e:tom=unhappy;f:b:santa-barbara-wide=blur(5px)
 
 The girl who was with him got into the papers, too, because her arm was broken—she was one of the chambermaids in the Santa Barbara Hotel.
 
@@ -3338,7 +3353,7 @@ s=nick;e:nick=thinking;m=
 s=jordan;e:jordan=serious
 
 “Why not?”
-s=nick
+s=nick;e:nick=contemplative
 
 “Gatsby bought that house so that Daisy would be just across the bay.”
 s=jordan
@@ -3397,7 +3412,7 @@ e:jordan=happy
 A phrase began to beat in my ears with a sort of heady excitement: “There are only the pursued, the pursuing, the busy, and the tired.”
 e:nick=excited
 
-“And Daisy ought to have something in her life,” murmured Jordan to me.
+“And Daisy ought to have something in her life,” murmured Jordan to me.<e>Has a daughter btw.</e>
 s=jordan;e:jordan=contemplative
 
 “Does she want to see Gatsby?”
@@ -6118,7 +6133,7 @@ e:nick=contemplative
 But there was Jordan beside me, who, unlike Daisy, was too wise ever to carry well-forgotten dreams from age to age.
 e:jordan=neutral
 
-As we passed over the dark bridge her wan face fell lazily against my coat’s shoulder and the formidable stroke of thirty died away with the reassuring pressure of her hand.
+As we passed over the dark bridge her wan face fell lazily against my coat’s shoulder and the formidable stroke of thirty died away with the reassuring pressure of her hand.<e>Scott, this is the fourth time you've described Jordan's face as "wan".</e>
 
 
 So we drove on toward death through the cooling twilight.
