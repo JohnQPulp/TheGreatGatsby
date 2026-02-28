@@ -3434,7 +3434,7 @@ e:jordan=happy
 r=title
 
 When I came home to West Egg that night I was afraid for a moment that my house was on fire.
-e:nick=nervous;b=eggs-wide-night
+e:nick=nervous;b=light
 
 Two o’clock and the whole corner of the peninsula was blazing with light, which fell unreal on the shrubbery and made thin elongating glints upon the roadside wires.
 
@@ -3460,8 +3460,11 @@ s=gatsby;e:gatsby=thinking
 He turned his eyes toward it absently.
 s=
 
-“I have been glancing into some of the rooms. Let’s go to Coney Island, old sport. In my car.”
-s=gatsby;e:gatsby=happy
+“I have been glancing into some of the rooms.”
+s=gatsby;e:gatsby=contemplative
+
+“Let’s go to Coney Island, old sport. In my car.”
+e:gatsby=happy
 
 “It’s too late.”
 s=nick;e:nick=contemplative
@@ -3473,7 +3476,7 @@ s=gatsby
 s=nick;e:nick=weary
 
 “All right.”
-s=gatsby;e:gatsby=neutral
+s=gatsby;e:gatsby=contemplative
 
 He waited, looking at me with suppressed eagerness.
 s=none;e:gatsby=excited
@@ -3485,13 +3488,13 @@ s=nick;e:nick=contemplative
 
 
 “Oh, that’s all right,” he said carelessly. “I don’t want to put you to any trouble.”
-s=gatsby;e:gatsby=neutral
+s=gatsby;e:gatsby=nervous
 
 “What day would suit you?”
 s=nick;e:nick=
 
 “What day would suit *you*?” he corrected me quickly.
-s=gatsby;e:gatsby=
+s=gatsby;e:gatsby=thinking
 
 “I don’t want to put you to any trouble, you see.”
 e:gatsby=nervous
@@ -3569,7 +3572,7 @@ I called up Daisy from the office next morning, and invited her to come to tea.
 e:nick=neutral;b=nick-office
 
 “Don’t bring Tom,” I warned her.
-s=nick;x:nick=;o=phone;x:daisy=brassdress
+s=nick;x:nick=;o=phone;x:daisy=brassdress;e:nick=contemplative
 
 “What?”
 s=daisy;e:daisy=surprised
@@ -3581,7 +3584,7 @@ s=nick
 s=daisy;e:daisy=smirking
 
 The day agreed upon was pouring rain.
-s=none;e:nick=neutral;b=eggs-wide-rain
+s=none;e:nick=neutral;b=eggs-wide-rain;o=
 
 At eleven o’clock a man in a raincoat, dragging a lawn-mower, tapped at my front door and said that Mr. Gatsby had sent him over to cut my grass.
 
@@ -3596,7 +3599,7 @@ An hour later the front door opened nervously, and Gatsby in a white flannel sui
 e:gatsby=nervous;b=nick-commons
 
 He was pale, and there were dark signs of sleeplessness beneath his eyes.
-e:gatsby=weary;c=gatsby
+e:gatsby=weary;c=gatsby;v=100,125
 
 “Is everything all right?” he asked immediately.
 s=gatsby;e:gatsby=nervous
@@ -3620,7 +3623,7 @@ s=gatsby
 e:gatsby=nervous
 
 I took him into the pantry, where he looked a little reproachfully at the Finn.
-s=none;b=nick-kitchen
+s=none;b=nick-kitchen;c=
 
 Together we scrutinized the twelve lemon cakes from the delicatessen shop.
 
@@ -3655,8 +3658,11 @@ s=gatsby
 “Don’t be silly; it’s just two minutes to four.”
 s=nick;e:nick=annoyed
 
-He sat down miserably, as if I had pushed him, and simultaneously there was the sound of a motor turning into my lane. We both jumped up, and, a little harrowed myself, I went out into the yard.
-s=none;e:gatsby=unhappy;e:nick=nervous
+He sat down miserably, as if I had pushed him, and simultaneously there was the sound of a motor turning into my lane.
+s=none;e:gatsby=unhappy;e:nick=nervous;
+
+We both jumped up, and, a little harrowed myself, I went out into the yard.
+b=nick-wide-rain
 
 Under the dripping bare lilac-trees a large open car was coming up the drive. It stopped.
 b=nick-wide-rain
@@ -3680,7 +3686,7 @@ A damp streak of hair lay like a dash of blue paint across her cheek, and her ha
 s=daisy;e:daisy=smirking
 
 “That’s the secret of Castle Rackrent. Tell your chauffeur to go far away and spend an hour.”
-s=nick;e:nick=
+s=nick;e:nick=thinking
 
 “Come back in an hour, Ferdie.”
 s=daisy;e:daisy=
@@ -3692,7 +3698,7 @@ s=
 s=daisy;e:daisy=serious
 
 “Does the gasoline affect his nose?”
-s=nick
+s=nick;e:nick=contemplative
 
 “I don’t think so,” she said innocently. “Why?”
 s=daisy;e:daisy=neutral
@@ -3737,7 +3743,7 @@ His head leaned back so far that it rested against the face of a defunct mantelp
 e:daisy=nervous
 
 “We’ve met before,” muttered Gatsby.
-s=gatsby
+s=gatsby;e:gatsby=nervous
 
 His eyes glanced momentarily at me, and his lips parted with an abortive attempt at a laugh.
 s=none;e:gatsby=nervous
@@ -3784,8 +3790,11 @@ s=nick
 “I’ve got to speak to you about something before you go.”
 s=gatsby;e:gatsby=nervous
 
-He followed me wildly into the kitchen, closed the door, and whispered: “Oh, God!” in a miserable way.
-m=dialogue;b=nick-kitchen
+He followed me wildly into the kitchen, closed the door, and whispered:
+s=;b=nick-kitchen;
+
+“Oh, God!” in a miserable way.
+s=gatsby;e:gatsby=weary
 
 “What’s the matter?”
 s=nick;e:nick=confused;m=
@@ -3797,7 +3806,7 @@ s=gatsby;e:gatsby=unhappy
 s=nick;e:nick=annoyed
 
 “She’s embarrassed?” he repeated incredulously.
-s=gatsby;e:gatsby=surprised
+s=gatsby;e:gatsby=confused
 
 “Just as much as you are.”
 s=nick
@@ -3815,7 +3824,7 @@ He raised his hand to stop my words, looked at me with unforgettable reproach, a
 s=none;e:gatsby=unhappy
 
 I walked out the back way—just as Gatsby had when he had made his nervous circuit of the house half an hour before—and ran for a huge black knotted tree, whose massed leaves made a fabric against the rain.
-e:nick=neutral;b=light
+e:nick=neutral;b=nick-wide-rain
 
 Once more it was pouring, and my irregular lawn, well-shaved by Gatsby’s gardener, abounded in small muddy swamps and prehistoric marshes.
 
@@ -3827,18 +3836,21 @@ A brewer had built it early in the “period” craze, a decade before, and ther
 
 
 Perhaps their refusal took the heart out of his plan to Found a Family—he went into an immediate decline. His children sold his house with the black wreath still on the door.
-
+b=eggs-wide-rain
 
 Americans, while willing, even eager, to be serfs, have always been obstinate about being peasantry.
 
 
 After half an hour, the sun shone again, and the grocer’s automobile rounded Gatsby’s drive with the raw material for his servants’ dinner—I felt sure he wouldn’t eat a spoonful.
-b=eggs-wide
+b=gatsby-wide-empty
 
 A maid began opening the upper windows of his house, appeared momentarily in each, and, leaning from the large central bay, spat meditatively into the garden.
 
 
-It was time I went back. While the rain continued it had seemed like the murmur of their voices, rising and swelling a little now and then with gusts of emotion. But in the new silence I felt that silence had fallen within the house too.
+It was time I went back.
+b=nick-wide
+
+While the rain continued it had seemed like the murmur of their voices, rising and swelling a little now and then with gusts of emotion. But in the new silence I felt that silence had fallen within the house too.
 
 
 I went in—after making every possible noise in the kitchen, short of pushing over the stove—but I don’t believe they heard a sound.
@@ -3868,8 +3880,11 @@ s=nick;e:nick=surprised
 When he realized what I was talking about, that there were twinkle-bells of sunshine in the room, he smiled like a weather man, like an ecstatic patron of recurrent light, and repeated the news to Daisy.
 s=none
 
-“What do you think of that? It’s stopped raining.”
+“What do you think of that?”
 s=gatsby
+
+“It’s stopped raining.”
+
 
 “I’m glad, Jay.”
 s=daisy;e:daisy=handkerchief
@@ -3887,7 +3902,7 @@ s=nick
 s=gatsby
 
 Daisy went upstairs to wash her face—too late I thought with humiliation of my towels—
-s=;m=joined;m=nospace
+s=;m=allowbreak;m=nospace
 
 while Gatsby and I waited on the lawn.
 s=none;m=;b=gatsby-wide-empty
@@ -3916,8 +3931,11 @@ s=gatsby
 I think he hardly knew what he was saying, for when I asked him what business he was in he answered: “That’s my affair,” before he realized that it wasn’t an appropriate reply.
 s=none;e:gatsby=nervous;m=dialogue
 
-“Oh, I’ve been in several things,” he corrected himself. “I was in the drug business and then I was in the oil business. But I’m not in either one now.”
+“Oh, I’ve been in several things,” he corrected himself.
 s=gatsby;e:gatsby=neutral;m=
+
+“I was in the drug business and then I was in the oil business. But I’m not in either one now.”
+
 
 He looked at me with more attention.
 s=
@@ -4016,7 +4034,7 @@ s=daisy
 
 
 —
-s=none;o=;b=light
+s=none;o=;b=green-light-misted
 
 After the house, we were to see the grounds and the swimming pool, and the hydroplane, and the midsummer flowers—but outside Gatsby’s window it began to rain again, so we stood in a row looking at the corrugated surface of the Sound.
 s=none;e:daisy=neutral;e:gatsby=neutral;b=green-light-misted
@@ -4076,7 +4094,7 @@ s=none;o=
 s=daisy;e:daisy=excited
 
 The rain was still falling, but the darkness had parted in the west, and there was a pink and golden billow of foamy clouds above the sea.
-s=none;b=green-light-misted
+s=none;b=eggs-wide-rain
 
 “Look at that,” she whispered,
 s=daisy;e:daisy=happy;m=allowbreak
@@ -4088,7 +4106,7 @@ s=;m=
 s=daisy
 
 I tried to go then, but they wouldn’t hear of it; perhaps my presence made them feel more satisfactorily alone.
-s=none;e:nick=neutral
+s=none;e:nick=neutral;b=gatsby-bedroom
 
 “I know what we’ll do,” said Gatsby, “we’ll have Klipspringer play the piano.”
 s=gatsby;e:gatsby=happy
@@ -4142,16 +4160,16 @@ s=gatsby;e:gatsby=serious
 
 
 “In the morning,<br>In the evening,<br>Ain’t we got fun—”
-m=margin;m=dialogue
+m=margin;m=dialogue;s=
 
 Outside the wind was loud and there was a faint flow of thunder along the Sound. All the lights were going on in West Egg now; the electric trains, men-carrying, were plunging home through the rain from New York. It was the hour of a profound human change, and excitement was generating on the air.
-s=none;m=
+s=none;m=;b=eggs-wide-rain
 
 “One thing’s sure and nothing’s surer<br>The rich get richer and the poor get—children.<br>In the meantime,<br>In between time—”
 m=margin;m=dialogue
 
 As I went over to say goodbye I saw that the expression of bewilderment had come back into Gatsby’s face, as though a faint doubt had occurred to him as to the quality of his present happiness.
-s=none;e:gatsby=confused;m=
+s=none;e:gatsby=confused;m=;b=gatsby-large
 
 Almost five years! There must have been moments even that afternoon when Daisy tumbled short of his dreams—not through her own fault, but because of the colossal vitality of his illusion.
 e:nick=thinking
@@ -4169,7 +4187,7 @@ They had forgotten me, but Daisy glanced up and held out her hand; Gatsby didn�
 
 
 Then I went out of the room and down the marble steps into the rain, leaving them there together.
-b=light
+b=eggs-wide-rain
 
 ## VI
 r=title
