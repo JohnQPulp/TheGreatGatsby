@@ -1,8 +1,14 @@
 ### *The Great Gatsby: The Visual Novel*
 
-This repository will contain the metadata and images for the visual novel transformation (pulpification) of F. Scott Fitzgerald's book *The Great Gatsby*.
+This repository contains the metadata and images for the visual novel transformation (pulpification) of F. Scott Fitzgerald's book *The Great Gatsby*.
 
-This VN is a work-in-progress.
+You can read it in a few ways:
+
+* Online at https://publicdomainpulp.com/vn/TheGreatGatsby
+* Locally at http://localhost:1929/vn/TheGreatGatsby running https://github.com/JohnQPulp/PublicDomainPulp (ASP.NET/C#) from source
+* Locally via static html file using the tool https://github.com/JohnQPulp/Pulpifier (C#) from source
+
+![Preview](images/preview.webp)
 
 ### License Information
 
