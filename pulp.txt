@@ -6677,13 +6677,13 @@ I couldn’t sleep all night; a foghorn was groaning incessantly on the Sound, a
 e:nick=weary;b=think
 
 Toward dawn I heard a taxi go up Gatsby’s drive, and immediately I jumped out of bed and began to dress—I felt that I had something to tell him, something to warn him about, and morning would be too late.
-e:nick=wary
+e:nick=wary;b=gatsby-wide-empty-night
 
 Crossing his lawn, I saw that his front door was still open and he was leaning against a table in the hall, heavy with dejection or sleep.
 e:gatsby=weary
 
 “Nothing happened,” he said wanly.
-s=gatsby;b=gatsby-large
+s=gatsby
 
 “I waited, and about four o’clock she came to the window and stood there for a minute and then turned out the light.”
 s=gatsby
@@ -6710,7 +6710,7 @@ s=nick;e:nick=serious
 s=nick
 
 “Go away *now*, old sport?”
-s=gatsby;e:gatsby=surprised
+s=gatsby;e:gatsby=confused
 
 “Go to Atlantic City for a week, or up to Montreal.”<e>Leave one godforsaken island for another, yep.</e>
 s=nick
@@ -6748,7 +6748,7 @@ But what gave it an air of breathless intensity, was that Daisy lived there—it
 There was a ripe mystery about it, a hint of bedrooms upstairs more beautiful and cool than other bedrooms, of gay and radiant activities taking place through its corridors, and of romances that were not musty and laid away already in lavender but fresh and breathing and redolent of this year’s shining motorcars and of dances whose flowers were scarcely withered.
 b=bridal-room;f:b:bridal-room=blur(3px)
 
-It excited him, too, that many men had already loved Daisy—it increased her value in his eyes.<e>All right then.</e>
+It excited him, too, that many men had already loved Daisy—it increased her value in his eyes.<e>Hah?</e>
 e:gatsby=excited
 
 He felt their presence all about the house, pervading the air with the shades and echoes of still vibrant emotions.
@@ -6794,10 +6794,10 @@ She had caught a cold, and it made her voice huskier and more charming than ever
 e:gatsby=contemplative
 
 —
-b=think
+b=gatsby-drawing-night
 
 “I can’t describe to you how surprised I was to find out I loved her, old sport.”
-s=gatsby;b=gatsby-drawing-night;e:gatsby=thinking
+s=gatsby;e:gatsby=thinking
 
 “I even hoped for a while that she’d throw me over, but she didn’t, because she was in love with me too.”
 s=gatsby
@@ -6848,7 +6848,7 @@ And all the time something within her was crying for a decision. She wanted her 
 
 
 That force took shape in the middle of spring with the arrival of Tom Buchanan. There was a wholesome bulkiness about his person and his position, and Daisy was flattered.
-b=think
+b=light
 
 Doubtless there was a certain struggle and a certain relief.
 
@@ -6920,7 +6920,7 @@ He stretched out his hand desperately as if to snatch only a wisp of air, to sav
 e:gatsby=crying
 
 It was nine o’clock when we finished breakfast and went out on the porch.
-e:gatsby=neutral;e:nick=neutral;b=gatsby-lawn
+e:gatsby=neutral;e:nick=neutral;b=gatsby-steps
 
 The night had made a sharp difference in the weather and there was an autumn flavour in the air.
 
@@ -6965,10 +6965,10 @@ s=nick
 s=gatsby;e:gatsby=serious
 
 “I’ll call you about noon.”
-s=nick;e:nick=thinking
+s=nick;e:nick=contemplative
 
 We walked slowly down the steps.
-s=none
+s=none;b=gatsby-lawn
 
 “I suppose Daisy’ll call too.”
 s=gatsby;e:gatsby=nervous
@@ -6977,7 +6977,7 @@ He looked at me anxiously, as if he hoped I’d corroborate this.
 s=none
 
 “I suppose so.”
-s=nick;e:nick=wary
+s=nick;e:nick=unhappy
 
 “Well, goodbye.”
 s=nick;e:nick=contemplative
@@ -6986,7 +6986,7 @@ We shook hands and I started away.
 s=none;b=gatsby-lawn
 
 Just before I reached the hedge I remembered something and turned around.
-x:nick=hat
+x:nick=
 
 “They’re a rotten crowd,” I shouted across the lawn.
 s=nick;e:nick=serious
@@ -7010,10 +7010,10 @@ I thanked him for his hospitality. We were always thanking him for that—I and 
 
 
 “Goodbye,” I called.
-s=nick;e:nick=thinking
+s=nick;e:nick=contemplative
 
 “I enjoyed breakfast, Gatsby.”
-s=nick
+s=nick;e:nick=thinking
 
 —
 s=none;b=think
@@ -7045,11 +7045,8 @@ s=jordan
 “How could it have mattered then?”
 s=nick
 
-Silence for a moment.
+Silence for a moment. Then:
 s=none
-
-Then:
-
 
 “However—I want to see you.”
 s=jordan;e:jordan=contemplative
@@ -7088,7 +7085,7 @@ Then I leaned back in my chair and tried to think. It was just noon.
 e:nick=thinking
 
 —
-b=think
+b=ashes-wide
 
 When I passed the ash-heaps on the train that morning I had crossed deliberately to the other side of the car.
 b=ashes-wide
@@ -7250,7 +7247,7 @@ e:wilson=suspicious
 s=wilson
 
 “I’m one of these trusting fellas and I don’t think any harm to *no*body, but when I get to know a thing I know it.”
-s=wilson
+s=wilson;e:wilson=serious
 
 “It was the man in that car. She ran out to speak to him and he wouldn’t stop.”
 s=wilson
@@ -7316,7 +7313,7 @@ But Wilson stood there a long time, his face close to the window pane, nodding i
 e:wilson=contemplative
 
 —
-b=think
+b=eyes
 
 By six o’clock Michaelis was worn out, and grateful for the sound of a car stopping outside.
 e:michaelis=weary;b=eyes
@@ -7349,10 +7346,10 @@ So by that time he knew Gatsby’s name.
 
 
 —
-b=think
+b=gatsby-wide-empty
 
 At two o’clock Gatsby put on his bathing-suit and left word with the butler that if anyone phoned word was to be brought to him at the pool.
-e:gatsby=weary;x:gatsby=bathing;b=gatsby-wide-empty
+e:gatsby=weary;x:gatsby=bathing
 
 He stopped at the garage for a pneumatic mattress that had amused his guests during the summer, and the chauffeur helped him to pump it up.
 o=mattress
@@ -7379,10 +7376,10 @@ A new world, material without being real, where poor ghosts, breathing dreams li
 e:gatsby=fearful
 
 The chauffeur—he was one of Wolfshiem’s protégés—heard the shots—afterwards he could only say that he hadn’t thought anything much about them.
-b=think
+b=action
 
 I drove from the station directly to Gatsby’s house and my rushing anxiously up the front steps was the first thing that alarmed anyone. But they knew then, I firmly believe.
-e:nick=nervous
+e:nick=nervous;b=gatsby-wide-empty
 
 With scarcely a word said, four of us, the chauffeur, butler, gardener, and I hurried down to the pool.
 
