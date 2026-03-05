@@ -1,5 +1,5 @@
 <div class='center'><span class='big italics'>The Great Gatsby</span> by&nbsp;F.&nbsp;Scott&nbsp;Fitzgerald</div><e>Nothing like a bit of orgiastic literature, old sport, from obstetrical echolalia to meretricious pasquinades. And above all else: good word choice.</e>
-r=title;t=author;z:author-abased=70,70,1
+r=title;t=author;z:author=,,2;z:author-abased=50,70,1
 
 <div class='upper center'>Once again<br>to<br>Zelda</div><e>As Zelda points out, Scott and Hemingway were definitely banging. See the chapter "A Matter of Measurements" in Hemingway's memoir <book>A Moveable Feast</book> where he inspects Scott's cock. Iceberg theory fills in the rest.</e>
 t=
@@ -95,7 +95,7 @@ It was lonely for a day or so until one morning some man, more recently arrived 
 b=egg-road
 
 “How do you get to West Egg village?” he asked helplessly.<e>Practice, practice, practice.</e>
-n:stranger=?;s=stranger;e:stranger=confused
+n:stranger=?;s=stranger;e:stranger=confused;z:stranger=,,3
 
 I told him.
 s=none
@@ -155,7 +155,7 @@ My own house was an eyesore, but it was a small eyesore, and it had been overloo
 b=nick-wide
 
 Across the courtesy bay the white palaces of fashionable East Egg glittered along the water, and the history of the summer really begins on the evening I drove over there to have dinner with the Tom Buchanans.
-n:tom=Tom Buchanan;n:daisy=Daisy Buchanan;b=eggs-wide
+n:tom=Tom Buchanan;n:daisy=Daisy Buchanan;b=eggs-wide;z:tom=,,1
 
 Daisy was my second cousin once removed, and I’d known Tom in college. And just after the war I spent two days with them in Chicago.
 
@@ -1037,7 +1037,7 @@ Her face, above a spotted dress of dark blue crêpe-de-chine, contained no facet
 e:myrtle=smirking
 
 She smiled slowly and, walking through her husband as if he were a ghost, shook hands with Tom, looking him flush in the eye.
-e:myrtle=smirking;e:tom=smirking;c=;b=garage-int;z:myrtle=98
+e:myrtle=smirking;e:tom=smirking;c=;b=garage-int;z:myrtle=98,50;z:wilson=,,2
 
 Then she wet her lips, and without turning around spoke to her husband in a soft, coarse voice:
 
@@ -1244,7 +1244,7 @@ Just as Tom and Myrtle (after the first drink Mrs. Wilson and I called each othe
 
 
 The sister, Catherine, was a slender, worldly girl of about thirty, with a solid, sticky bob of red hair, and a complexion powdered milky white.
-n:catherine=Catherine;b=think;c=catherine;z:catherine=96
+n:catherine=Catherine;b=light;c=catherine;z:catherine=96;v=100,140
 
 Her eyebrows had been plucked and then drawn on again at a more rakish angle, but the efforts of nature toward the restoration of the old alignment gave a blurred air to her face.
 e:catherine=neutral
@@ -1690,7 +1690,10 @@ b=gatsby-wide-full-night
 Laughter is easier minute by minute, spilled with prodigality, tipped out at a cheerful word.
 
 
-The groups change more swiftly, swell with new arrivals, dissolve and form in the same breath; already there are wanderers, confident girls who weave here and there among the stouter and more stable, become for a sharp, joyous moment the centre of a group, and then, excited with triumph, glide on through the sea-change of faces and voices and colour under the constantly changing light.
+The groups change more swiftly, swell with new arrivals, dissolve and form in the same breath;
+
+
+already there are wanderers, confident girls who weave here and there among the stouter and more stable, become for a sharp, joyous moment the centre of a group, and then, excited with triumph, glide on through the sea-change of faces and voices and colour under the constantly changing light.
 
 
 Suddenly one of these gypsies, in trembling opal, seizes a cocktail out of the air, dumps it down for courage and, moving her hands like Frisco, dances out alone on the canvas platform.
@@ -1886,7 +1889,7 @@ A stout, middle-aged man, with enormous owl-eyed spectacles, was sitting somewha
 n:owleyes=Owl Eyes;e:owleyes=contemplative
 
 As we entered he wheeled excitedly around and examined Jordan from head to foot.
-e:owleyes=excited;c=owleyes;z:owleyes=90;v=100,160
+e:owleyes=excited;c=owleyes;z:owleyes=90,42,4;v=100,160
 
 “What do you think?” he demanded impetuously.
 s=owleyes
@@ -1973,7 +1976,7 @@ At a lull in the entertainment the man looked at me and smiled.
 e:gatsby=happy;n:gatsby=?
 
 “Your face is familiar,” he said politely.
-s=gatsby;e:gatsby=neutral;z:gatsby=107,49,5
+s=gatsby;e:gatsby=neutral;z:gatsby=107,49,6
 
 “Weren’t you in the First Division during the war?”
 
@@ -2351,7 +2354,7 @@ The crowd—it was now a crowd—stepped back involuntarily, and when the door h
 
 
 Then, very gradually, part by part, a pale, dangling individual stepped out of the wreck, pawing tentatively at the ground with a large uncertain dancing shoe.
-n:driver=Driver;e:driver=confused
+n:driver=Driver;e:driver=confused;z:driver=93,
 
 Blinded by the glare of the headlights and confused by the incessant groaning of the horns, the apparition stood swaying for a moment before he perceived the man in the duster.
 
@@ -2876,7 +2879,7 @@ After a moment I discovered his tiny eyes in the half-darkness.
 
 
 “—So I took one look at him,” said Mr. Wolfshiem, shaking my hand earnestly, “and what do you think I did?”
-s=wolfshiem;z:wolfshiem=87,49,3
+s=wolfshiem;z:wolfshiem=87,53,3
 
 “What?” I inquired politely.
 s=nick
@@ -3278,7 +3281,7 @@ She began to cry—she cried and cried.
 s=none
 
 I rushed out and found her mother’s maid, and we locked the door and got her into a cold bath.
-b=think
+b=light
 
 She wouldn’t let go of the letter. She took it into the tub with her and squeezed it up in a wet ball, and only let me leave it in the soap-dish when she saw that it was coming to pieces like snow.
 
@@ -3599,7 +3602,7 @@ An hour later the front door opened nervously, and Gatsby in a white flannel sui
 e:gatsby=nervous;b=nick-commons
 
 He was pale, and there were dark signs of sleeplessness beneath his eyes.
-e:gatsby=weary;c=gatsby;v=100,125
+e:gatsby=weary;c=gatsby;v=100,140,60
 
 “Is everything all right?” he asked immediately.
 s=gatsby;e:gatsby=nervous
@@ -3716,7 +3719,7 @@ She turned her head as there was a light dignified knocking at the front door.
 s=none
 
 I went out and opened it.
-b=light
+b=think
 
 Gatsby, pale as death, with his hands plunged like weights in his coat pockets, was standing in a puddle of water glaring tragically into my eyes.
 e:gatsby=pockets;c=gatsby;x:daisy=brassdress
@@ -3977,7 +3980,7 @@ We went upstairs, through period bedrooms swathed in rose and lavender silk and 
 b=light
 
 It was Mr. Klipspringer, the “boarder.” I had seen him wandering hungrily about the beach that morning.
-n:klipspringer=Mr. Klipspringer
+n:klipspringer=Mr. Klipspringer;z:klipspringer=,52,2
 
 Finally we came to Gatsby’s own apartment, a bedroom and a bath, and an Adam’s study, where we sat down and drank a glass of some Chartreuse he took from a cupboard in the wall.
 b=gatsby-bedroom
@@ -4199,7 +4202,7 @@ n:reporter=Reporter;b=gatsby-wide-empty
 s=gatsby;e:gatsby=neutral
 
 “Why—any statement to give out.”
-s=reporter;z:reporter=93,48,4
+s=reporter;z:reporter=93,48,2
 
 It transpired after a confused five minutes that the man had heard Gatsby’s name around his office in a connection which he either wouldn’t reveal or didn’t fully understand. This was his day off and with laudable initiative he had hurried out “to see.”
 s=none
@@ -4247,10 +4250,10 @@ His brown, hardening body lived naturally through the half-fierce, half-lazy wor
 
 
 He knew women early, and since they spoiled him he became contemptuous of them, of young virgins because they were ignorant, of the others because they were hysterical about things which in his overwhelming self-absorption he took for granted.
-
+b=think
 
 But his heart was in a constant, turbulent riot. The most grotesque and fantastic conceits haunted him in his bed at night.
-e:gatsby=excited;b=think
+e:gatsby=excited;
 
 A universe of ineffable gaudiness spun itself out in his brain while the clock ticked on the washstand and the moon soaked with wet light his tangled clothes upon the floor.
 
@@ -4334,7 +4337,7 @@ For several weeks I didn’t see him or hear his voice on the phone—mostly I w
 
 
 I hadn’t been there two minutes when somebody brought Tom Buchanan in for a drink.
-e:tom=neutral;n:sloane=Mr. Sloane;n:horselady=The Lady;b=light;x:tom=riding;b=gatsby-steps
+e:tom=neutral;n:sloane=Mr. Sloane;n:horselady=The Lady;b=light;x:tom=riding;b=gatsby-steps;z:sloane=,,-1
 
 I was startled, naturally, but the really surprising thing was that it hadn’t happened before.
 
@@ -4628,7 +4631,7 @@ At this inquiry she sat up and opened her eyes.
 
 
 “Wha’?”
-s=baedeker;e:baedeker=confused;z:baedeker=90
+s=baedeker;e:baedeker=confused;z:baedeker=90,,3
 
 A massive and lethargic woman, who had been urging Daisy to play golf with her at the local club tomorrow, spoke in Miss Baedeker’s defence:
 n:guestwoman=Woman;s=none
@@ -4652,7 +4655,7 @@ s=baedeker;e:baedeker=unhappy
 
 
 “Then you ought to leave it alone,” countered Doctor Civet.
-n:civet=Dr. Webster Civet;s=civet;z:civet=92,49,3
+n:civet=Dr. Webster Civet;s=civet;z:civet=92,53,3
 
 “Speak for yourself!” cried Miss Baedeker violently. “Your hand shakes. I wouldn’t let you operate on me!”
 s=baedeker;e:baedeker=angry
@@ -4877,7 +4880,7 @@ n:butler2=Butler;e:butler2=scowling;b=gatsby-wide-empty
 s=nick
 
 “Nope.”
-s=butler2;z:butler2=96
+s=butler2;z:butler2=96,,2
 
 After a pause he added “sir” in a dilatory, grudging way.
 s=none;m=dialogue
@@ -5123,7 +5126,7 @@ The nurse took a step forward and held out her hand.
 
 
 “Come, Pammy.”
-s=nurse;e:nurse=neutral;z:nurse=98,49,3
+s=nurse;e:nurse=neutral;z:nurse=98,49,2
 
 “Goodbye, sweetheart!”
 s=daisy;e:daisy=thinking
@@ -6302,7 +6305,7 @@ s=none;m=
 s=policeman;e:policeman=serious;z:policeman=97,49,3
 
 “No, *r*—” corrected the man, “*M*-*a*-*v*-*r*-*o*—”
-s=michaelis;e:michaelis=serious;z:michaelis=96
+s=michaelis;e:michaelis=serious;z:michaelis=96,,1
 
 “Listen to me!” muttered Tom fiercely.
 s=tom;e:tom=unhappy
@@ -6932,7 +6935,7 @@ n:gardener=Gardener;b=gatsby-steps
 s=gardener
 
 “Leaves’ll start falling pretty soon, and then there’s always trouble with the pipes.”
-s=gardener
+s=gardener;z:gardener=95
 
 “Don’t do it today,” Gatsby answered.
 s=gatsby;e:gatsby=serious
@@ -7325,7 +7328,7 @@ Wilson was quieter now, and Michaelis went home to sleep; when he awoke four hou
 e:michaelis=surprised
 
 His movements—he was on foot all the time—were afterward traced to Port Roosevelt and then to Gad’s Hill, where he bought a sandwich that he didn’t eat, and a cup of coffee. He must have been tired and walking slowly, for he didn’t reach Gad’s Hill until noon.
-b=think
+b=light
 
 Thus far there was no difficulty in accounting for his time—there were boys who had seen a man “acting sort of crazy,” and motorists at whom he stared oddly from the side of the road.
 
@@ -7577,7 +7580,7 @@ It said only that the sender was leaving immediately and to postpone the funeral
 
 
 It was Gatsby’s father, a solemn old man, very helpless and dismayed, bundled up in a long cheap ulster against the warm September day.
-n:gatz=Mr. Gatz;e:gatz=weary;c=gatz;v=100,120
+n:gatz=Mr. Gatz;e:gatz=weary;c=gatz;v=100,140
 
 His eyes leaked continuously with excitement, and when I took the bag and umbrella from his hands he began to pull so incessantly at his sparse grey beard that I had difficulty in getting off his coat.
 e:gatz=nervous;c=
@@ -7589,7 +7592,7 @@ But he wouldn’t eat, and the glass of milk spilled from his trembling hand.
 
 
 “I saw it in the Chicago newspaper,” he said. “It was all in the Chicago newspaper. I started right away.”
-s=gatz;z:gatz=93
+s=gatz;z:gatz=93,,1
 
 “I didn’t know how to reach you.”
 s=nick;e:nick=unhappy
@@ -7931,7 +7934,7 @@ But it wasn’t any use. Nobody came.
 e:nick=unhappy
 
 —
-b=think
+b=light
 
 About five o’clock our procession of three cars reached the cemetery and stopped in a thick drizzle beside the gate—first a motor hearse, horribly black and wet, then Mr. Gatz and the minister and me in the limousine, and a little later four or five servants and the postman from West Egg, in Gatsby’s station wagon, all wet to the skin.
 b=cemetery
