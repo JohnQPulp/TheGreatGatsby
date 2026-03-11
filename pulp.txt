@@ -1061,10 +1061,10 @@ s=tom;e:tom=serious;c=myrtle;e:myrtle=smirking
 s=myrtle;e:myrtle=neutral
 
 “I’ll meet you by the newsstand on the lower level.”
-s=tom;e:myrtle=neutral
+s=tom;e:myrtle=neutral;m=nocounter
 
 She nodded and moved away from him just as George Wilson emerged with two chairs from his office door.
-s=none;c=
+s=none;c=;m=
 
 We waited for her down the road and out of sight.
 b=eyes
@@ -1895,7 +1895,7 @@ e:owleyes=excited;c=owleyes;z:owleyes=90,42,4;v=100,160
 s=owleyes
 
 “About what?”
-s=nick;e:nick=confused
+s=nick;e:nick=confused;m=nocounter
 
 He waved his hand toward the bookshelves.
 s=none;c=
@@ -1913,7 +1913,7 @@ s=none;e:owleyes=happy
 s=owleyes
 
 Taking our scepticism for granted, he rushed to the bookcases and returned with Volume One of the *Stoddard Lectures*.
-c=;s=
+c=;s=;m=
 
 “See!” he cried triumphantly.
 s=owleyes
@@ -3608,10 +3608,10 @@ e:gatsby=weary;c=gatsby;v=100,140,60
 s=gatsby;e:gatsby=nervous
 
 “The grass looks fine, if that’s what you mean.”
-s=nick;e:nick=annoyed
+s=nick;e:nick=annoyed;m=nocounter
 
 “What grass?” he inquired blankly.
-s=gatsby;e:gatsby=confused
+s=gatsby;e:gatsby=confused;m=
 
 “Oh, the grass in the yard.”
 e:gatsby=contemplative
