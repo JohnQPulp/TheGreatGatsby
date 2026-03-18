@@ -1061,7 +1061,7 @@ s=tom;e:tom=serious;c=myrtle;e:myrtle=smirking
 s=myrtle;e:myrtle=neutral
 
 “I’ll meet you by the newsstand on the lower level.”
-s=tom;e:myrtle=neutral
+s=tom;e:myrtle=neutral;i:myrtle=
 
 She nodded and moved away from him just as George Wilson emerged with two chairs from his office door.
 s=none;c=
@@ -1895,7 +1895,7 @@ e:owleyes=excited;c=owleyes;z:owleyes=90,42,4;v=100,160
 s=owleyes
 
 “About what?”
-s=nick;e:nick=confused
+s=nick;e:nick=confused;i:owleyes=
 
 He waved his hand toward the bookshelves.
 s=none;c=
@@ -1904,10 +1904,10 @@ s=none;c=
 s=owleyes;c=owleyes
 
 “The books?”
-s=nick;e:nick=surprised
+s=nick;e:nick=surprised;i:owleyes=
 
 He nodded.
-s=none;e:owleyes=happy
+s=none;e:owleyes=happy;i:owleyes=
 
 “Absolutely real—have pages and everything. I thought they’d be a nice durable cardboard. Matter of fact, they’re absolutely real. Pages and—Here! Lemme show you.”
 s=owleyes
@@ -3608,7 +3608,7 @@ e:gatsby=weary;c=gatsby;v=100,140,60
 s=gatsby;e:gatsby=nervous
 
 “The grass looks fine, if that’s what you mean.”
-s=nick;e:nick=annoyed
+s=nick;e:nick=annoyed;i:gatsby=
 
 “What grass?” he inquired blankly.
 s=gatsby;e:gatsby=confused
