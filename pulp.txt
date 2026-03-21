@@ -4037,10 +4037,10 @@ s=daisy
 
 
 —
-s=none;o=;b=green-light-misted
+s=none;o=;b=gatsby-wide-rain
 
 After the house, we were to see the grounds and the swimming pool, and the hydroplane, and the midsummer flowers—but outside Gatsby’s window it began to rain again, so we stood in a row looking at the corrugated surface of the Sound.
-s=none;e:daisy=neutral;e:gatsby=neutral;b=green-light-misted
+s=none;e:daisy=neutral;e:gatsby=neutral
 
 “If it wasn’t for the mist we could see your home across the bay,” said Gatsby.
 s=gatsby;e:gatsby=contemplative
