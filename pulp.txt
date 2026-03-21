@@ -1121,7 +1121,7 @@ n:dogman=Old Man
 s=myrtle;e:myrtle=happy;o=;b=taxi-int
 
 “All kinds. What kind do you want, lady?”
-s=dogman;e:dogman=neutral
+s=dogman;e:dogman=neutral;z:dogman=95,,3
 
 “I’d like to get one of those police dogs; I don’t suppose you got that kind?”
 s=myrtle;e:myrtle=thinking
@@ -1256,16 +1256,16 @@ She came in with such a proprietary haste, and looked around so possessively at 
 e:catherine=happy
 
 Mr. McKee was a pale, feminine man from the flat below. He had just shaved, for there was a white spot of lather on his cheekbone, and he was most respectful in his greeting to everyone in the room.
-n:mckee=Mr. McKee;c=mckee,
+n:mckee=Mr. McKee;c=mckee,;e:mckee=clasped
 
 He informed me that he was in the “artistic game,” and I gathered later that he was a photographer and had made the dim enlargement of Mrs. Wilson’s mother which hovered like an ectoplasm on the wall.
-
+c=
 
 His wife was shrill, languid, handsome, and horrible. She told me with pride that her husband had photographed her a hundred and twenty-seven times since they had been married.
 n:mrsmckee=Mrs. McKee;e:mrsmckee=smirking;c=,mrsmckee
 
 Mrs. Wilson had changed her costume some time before, and was now attired in an elaborate afternoon dress of cream-coloured chiffon, which gave out a continual rustle as she swept about the room.
-e:myrtle=;x:myrtle=chiffon;c=myrtle,
+e:myrtle=;x:myrtle=chiffon;c=myrtle,;e:mckee=
 
 With the influence of the dress her personality had also undergone a change. The intense vitality that had been so remarkable in the garage was converted into impressive hauteur.
 e:myrtle=smirking
@@ -1280,7 +1280,7 @@ s=myrtle;e:myrtle=annoyed;b=158-living
 e:myrtle=angry
 
 “What was the name of the woman?” asked Mrs. McKee.
-s=mrsmckee;e:mrsmckee=thinking;z:mrsmckee=100,42,5
+s=mrsmckee;e:mrsmckee=thinking;z:mrsmckee=96,42,1
 
 “Mrs. Eberhardt. She goes around looking at people’s feet in their own homes.”
 s=myrtle;e:myrtle=neutral
@@ -1295,10 +1295,10 @@ s=none;e:myrtle=scowling
 s=myrtle;e:myrtle=smirking
 
 “But it looks wonderful on you, if you know what I mean,” pursued Mrs. McKee.
-s=mrsmckee
+s=mrsmckee;e:mrsmckee=
 
 “If Chester could only get you in that pose I think he could make something of it.”
-
+e:mrsmckee=happy
 
 We all looked in silence at Mrs. Wilson, who removed a strand of hair from over her eyes and looked back at us with a brilliant smile.
 s=none;e:myrtle=happy
