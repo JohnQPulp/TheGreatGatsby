@@ -305,7 +305,7 @@ s=
 e:daisy=thinking;s=daisy
 
 “I’d like to.”
-s=nick;e:nick=
+s=nick;e:nick=;i=3
 
 “She’s asleep. She’s three years old. Haven’t you ever seen her?”
 s=daisy;e:daisy=
@@ -485,7 +485,7 @@ e:nick=thinking
 s=nick;e:nick=neutral
 
 “Can’t you talk about crops or something?”
-
+i=3
 
 I meant nothing in particular by this remark, but it was taken up in an unexpected way.
 s=none
@@ -686,7 +686,7 @@ s=daisy
 
 
 “I wasn’t back from the war.”<e>Wah wah wah. It's all war-this, war-that with you Lost Generation writers.</e>
-s=nick
+s=nick;i=3
 
 “That’s true.”
 s=daisy;e:daisy=contemplative
@@ -965,7 +965,7 @@ Though I was curious to see her, I had no desire to meet her—but I did.
 
 
 I went up to New York with Tom on the train one afternoon, and when we stopped by the ash-heaps he jumped to his feet and, taking hold of my elbow, literally forced me from the car.
-e:nick=surprised;x:nick=hat
+e:nick=surprised;x:nick=
 
 “We’re getting off,” he insisted. “I want you to meet my girl.”
 s=tom;e:tom=serious
@@ -992,7 +992,7 @@ It had occurred to me that this shadow of a garage must be a blind, and that sum
 e:nick=thinking
 
 He was a blond, spiritless man, anaemic, and faintly handsome.
-n:wilson=George B. Wilson;e:wilson=weary;c=wilson
+n:wilson=George B. Wilson;e:wilson=wearycrossed;c=wilson
 
 When he saw us a damp gleam of hope sprang into his light blue eyes.
 e:wilson=
@@ -1007,10 +1007,10 @@ s=tom;e:tom=happy;e:wilson=weary
 s=wilson;e:wilson=contemplative
 
 “When are you going to sell me that car?”
-s=wilson;e:wilson=nervous
+s=wilson;e:wilson=nervous;i=2
 
 “Next week; I’ve got my man working on it now.”
-s=tom;e:tom=neutral;e:wilson=weary
+s=tom;e:tom=neutral;e:wilson=nervous;i:wilson=2
 
 “Works pretty slow, don’t he?”
 s=wilson;e:wilson=unhappy
@@ -1022,7 +1022,7 @@ s=tom;e:tom=annoyed;e:wilson=weary
 
 
 “I don’t mean that,” explained Wilson quickly. “I just meant—”
-s=wilson;e:wilson=unhappy
+s=wilson;e:wilson=unhappy;i=3
 
 His voice faded off and Tom glanced impatiently around the garage.
 s=none;e:tom=annoyed;c=
@@ -1031,10 +1031,10 @@ Then I heard footsteps on a stairs, and in a moment the thickish figure of a wom
 e:wilson=weary;b=light
 
 She was in the middle thirties, and faintly stout, but she carried her flesh sensuously as some women can.
-n:myrtle=Mrs. Wilson;c=myrtle
+n:myrtle=Mrs. Wilson;c=myrtle;e:myrtle=smirking
 
 Her face, above a spotted dress of dark blue crêpe-de-chine, contained no facet or gleam of beauty, but there was an immediately perceptible vitality about her as if the nerves of her body were continually smouldering.
-e:myrtle=smirking
+e:myrtle=smirking;c=
 
 She smiled slowly and, walking through her husband as if he were a ghost, shook hands with Tom, looking him flush in the eye.
 e:myrtle=smirking;e:tom=smirking;c=;b=garage-int;z:myrtle=98,50;z:wilson=,,2
@@ -1055,13 +1055,13 @@ A white ashen dust veiled his dark suit and his pale hair as it veiled everythin
 s=none;e:wilson=weary
 
 “I want to see you,” said Tom intently. “Get on the next train.”
-s=tom;e:tom=serious;c=myrtle;e:myrtle=smirking
+s=tom;e:tom=serious;e:myrtle=smirking
 
 “All right.”
 s=myrtle;e:myrtle=neutral
 
 “I’ll meet you by the newsstand on the lower level.”
-s=tom;e:myrtle=neutral;i:myrtle=
+s=tom;e:myrtle=neutral;
 
 She nodded and moved away from him just as George Wilson emerged with two chairs from his office door.
 s=none;c=
@@ -1265,10 +1265,10 @@ His wife was shrill, languid, handsome, and horrible. She told me with pride tha
 n:mrsmckee=Mrs. McKee;e:mrsmckee=smirking;c=,mrsmckee
 
 Mrs. Wilson had changed her costume some time before, and was now attired in an elaborate afternoon dress of cream-coloured chiffon, which gave out a continual rustle as she swept about the room.
-e:myrtle=;x:myrtle=chiffon;c=myrtle,;e:mckee=
+e:myrtle=;x:myrtle=chiffon;c=myrtle,;e:myrtle=chiffon
 
 With the influence of the dress her personality had also undergone a change. The intense vitality that had been so remarkable in the garage was converted into impressive hauteur.
-e:myrtle=smirking
+c=
 
 Her laughter, her gestures, her assertions became more violently affected moment by moment, and as she expanded the room grew smaller around her, until she seemed to be revolving on a noisy, creaking pivot through the smoky air.
 c=;b=158-living
@@ -1358,7 +1358,7 @@ s=none;e:catherine=neutral
 s=catherine;e:catherine=
 
 “I live at West Egg.”
-s=nick;e:nick=neutral
+s=nick;e:nick=neutral;i=3
 
 “Really? I was down there at a party about a month ago. At a man named Gatsby’s. Do you know him?”
 s=catherine;e:catherine=happy
@@ -1463,7 +1463,7 @@ s=nick;e:nick=thinking
 s=catherine
 
 “Stay long?”
-s=nick;e:nick=
+s=nick;e:nick=;i=3
 
 “No, we just went to Monte Carlo and back. We went by way of Marseilles. We had over twelve hundred dollars when we started, but we got gyped out of it all in two days in the private rooms.”
 s=catherine;e:catherine=serious
@@ -1610,7 +1610,7 @@ When he had gone halfway he turned around and stared at the scene—his wife and
 e:mrsmckee=upset;e:catherine=upset
 
 Then Mr. McKee turned and continued on out the door. Taking my hat from the chandelier, I followed.
-e:mckee=;e:nick=weary;x:tom=hat
+e:mckee=;e:nick=weary;x:tom=hat;x:nick=hat
 
 “Come to lunch some day,” he suggested, as we groaned down in the elevator.
 s=mckee;b=158-elevator;f:b:158-elevator=blur(4px)
@@ -2111,7 +2111,7 @@ There was the boom of a bass drum, and the voice of the orchestra leader rang ou
 s=none
 
 “Ladies and gentlemen,” he cried. “At the request of Mr. Gatsby we are going to play for you Mr. Vladmir Tostoff’s latest work, which attracted so much attention at Carnegie Hall last May. If you read the papers you know there was a big sensation.”
-n:leader=Orchestra Leader;s=leader;e:leader=happy
+n:leader=Orchestra Leader;s=leader;e:leader=happy;i=2
 
 He smiled with jovial condescension, and added:
 s=
@@ -2123,7 +2123,7 @@ Whereupon everybody laughed.
 s=none
 
 “The piece is known,” he concluded lustily, “as ‘Vladmir Tostoff’s Jazz History of the World!’”
-s=leader
+s=leader;i=2
 
 The nature of Mr. Tostoff’s composition eluded me, because just as it began my eyes fell on Gatsby, standing alone on the marble steps and looking from one group to another with approving eyes.
 s=none;e:gatsby=happy
@@ -2882,7 +2882,7 @@ After a moment I discovered his tiny eyes in the half-darkness.
 s=wolfshiem;z:wolfshiem=87,53,3
 
 “What?” I inquired politely.
-s=nick
+s=nick;x:nick=;i=3
 
 But evidently he was not addressing me, for he dropped my hand and covered Gatsby with his expressive nose.
 s=none
@@ -2936,7 +2936,7 @@ e:wolfshiem=annoyed
 e:wolfshiem=unhappy
 
 “Did he go?” I asked innocently.
-s=nick;e:nick=neutral
+s=nick;e:nick=neutral;i=3
 
 “Sure he went.”
 s=wolfshiem;e:wolfshiem=annoyed
@@ -3149,7 +3149,7 @@ I insisted on paying the check. As the waiter brought my change I caught sight o
 s=none;e:nick=neutral
 
 “Come along with me for a minute,” I said; “I’ve got to say hello to someone.”
-s=nick
+s=nick;i=3
 
 When he saw us Tom jumped up and took half a dozen steps in our direction.
 s=none;e:tom=excited
@@ -3173,7 +3173,7 @@ s=tom;e:tom=
 e:tom=confused
 
 “I’ve been having lunch with Mr. Gatsby.”
-s=nick
+s=nick;i=3
 
 I turned toward Mr. Gatsby, but he was no longer there.
 s=none;e:nick=surprised
@@ -3256,11 +3256,8 @@ e:daisy=confused;b=bridal-room;x:daisy=young,bridal;x:jordan=young,bridal
 She had a bottle of Sauterne in one hand and a letter in the other.
 
 
-“’Gratulate me,” she muttered.
+“’Gratulate me,” she muttered. “Never had a drink before, but oh how I do enjoy it.”
 s=daisy;e:daisy=drunk
-
-“Never had a drink before, but oh how I do enjoy it.”
-e:daisy=happy
 
 “What’s the matter, Daisy?”
 s=jordan;e:jordan=wary
@@ -3269,7 +3266,7 @@ I was scared, I can tell you; I’d never seen a girl like that before.
 s=none
 
 “Here, dearies.”
-s=daisy;e:daisy=drunk
+s=daisy;e:daisy=happy
 
 She groped around in a wastebasket she had with her on the bed and pulled out the string of pearls.
 s=none
@@ -3494,7 +3491,7 @@ s=nick;e:nick=contemplative
 s=gatsby;e:gatsby=nervous
 
 “What day would suit you?”
-s=nick;e:nick=
+s=nick;e:nick=;i=3
 
 “What day would suit *you*?” he corrected me quickly.
 s=gatsby;e:gatsby=thinking
@@ -3647,7 +3644,7 @@ Finally he got up and informed me, in an uncertain voice, that he was going home
 
 
 “Why’s that?”
-s=nick;e:nick=
+s=nick;e:nick=;i=3
 
 “Nobody’s coming to tea. It’s too late!”
 s=gatsby;e:gatsby=unhappy
@@ -4412,7 +4409,7 @@ s=none
 s=tom;e:tom=neutral
 
 “Next door.”
-s=nick
+s=nick;i=3
 
 “That so?”
 s=tom
@@ -4877,7 +4874,7 @@ Wondering if he were sick I went over to find out—an unfamiliar butler with a 
 n:butler2=Butler;e:butler2=scowling;b=gatsby-wide-empty
 
 “Is Mr. Gatsby sick?”
-s=nick
+s=nick;i=3
 
 “Nope.”
 s=butler2;z:butler2=96,,2
