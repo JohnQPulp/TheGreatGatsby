@@ -1,4 +1,4 @@
-<div class='center'><span class='big italics'>The Great Gatsby</span> by&nbsp;F.&nbsp;Scott&nbsp;Fitzgerald</div><e>Nothing like a bit of orgiastic literature, old sport. Everything from obstetrical echolalia to meretricious pasquinades.</e>
+The Great Gatsby<br>F. Scott Fitzgerald<e>Nothing like a bit of orgiastic literature, old sport. Everything from obstetrical echolalia to meretricious pasquinades.</e>
 r=title;t=author;z:author=,,2;z:author-abased=50,70,1
 
 <div class='upper center'>Once again<br>to<br>Zelda</div><e>As Zelda points out, Scott and Hemingway were definitely banging. See the chapter "A Matter of Measurements" in Hemingway's memoir <book>A Moveable Feast</book> where he inspects Scott's cock. Iceberg theory fills in the rest.</e>
