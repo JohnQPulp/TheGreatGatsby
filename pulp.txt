@@ -2110,7 +2110,7 @@ e:jordan=
 There was the boom of a bass drum, and the voice of the orchestra leader rang out suddenly above the echolalia of the garden.
 s=none
 
-“Ladies and gentlemen,” he cried. “At the request of Mr. Gatsby we are going to play for you Mr. Vladmir Tostoff’s latest work, which attracted so much attention at Carnegie Hall last May. If you read the papers you know there was a big sensation.”
+“Ladies and gentlemen,” he cried. “At the request of Mr. Gatsby we are going to play for you Mr. Vladimir Tostoff’s latest work, which attracted so much attention at Carnegie Hall last May. If you read the papers you know there was a big sensation.”
 n:leader=Orchestra Leader;s=leader;e:leader=happy;i=2
 
 He smiled with jovial condescension, and added:
@@ -2122,7 +2122,7 @@ s=leader
 Whereupon everybody laughed.
 s=none
 
-“The piece is known,” he concluded lustily, “as ‘Vladmir Tostoff’s Jazz History of the World!’”
+“The piece is known,” he concluded lustily, “as ‘Vladimir Tostoff’s Jazz History of the World!’”
 s=leader;i=2
 
 The nature of Mr. Tostoff’s composition eluded me, because just as it began my eyes fell on Gatsby, standing alone on the marble steps and looking from one group to another with approving eyes.
@@ -5338,7 +5338,7 @@ s=tom;e:tom=smirking
 A pause followed this apparently pointless remark. Daisy looked at Tom frowning, and an indefinable expression, at once definitely unfamiliar and vaguely recognizable, as if I had only heard it described in words, passed over Gatsby’s face.
 s=none;e:daisy=scowling;e:gatsby=wary
 
-“Come on, Daisy” said Tom, pressing her with his hand toward Gatsby’s car.
+“Come on, Daisy,” said Tom, pressing her with his hand toward Gatsby’s car.
 s=tom;e:tom=smirking
 
 “I’ll take you in this circus wagon.”
